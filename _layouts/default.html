@@ -1,1 +1,27 @@
-{{ content }}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+<div class="parent-container" id="header">
+<div class="container">
+  <div class="row">
+    <h1 class="pull-left"><a href="" class="navbar-brand page-scroll">DVRI</a></h1>
+    <div class="pull-right">
+      <a class="page-scroll btn" href="#download">Progetti</a>
+      <a class="page-scroll btn" href="#features">Rete</a>
+      <a class="page-scroll btn" href="#contact">Blog</a>  
+    </div>
+  </div>
+</div><!--.container-->
+</div><!--.header-container -->
+
+
+<div class="container">
+   
+        {{ content }}
+      </div>
+  </body>
+
+</html>

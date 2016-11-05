@@ -26,9 +26,6 @@ Or install it yourself as:
 
     $ gem install dvri-j
 
-## Usage
-
-# TODO: Write usage instructions here. Describe your available layouts, includes, and/or sass.
 
 ## Contributing
 
