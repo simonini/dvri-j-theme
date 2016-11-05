@@ -1,23 +1,27 @@
 ---
 layout: default
 ---
-
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<section id="caffe">
+  <div class="background-image"></div>
+  <a href="caffe">
+  <h2>Caffè della Ricerca</h2>
+  </a>
+</section>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<section id="notte">
+  <div class="background-image"></div>
+  <a href="notte">
+  <h2>Notte dei ricercatori</h2>
+  </a>
+</section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<section id="progetto">
+  <div class="background-image"></div>
+  <a href="progetto3">
+  <h2>Progetto 3</h2>
+  </a>
+</section>
 
 </div>
