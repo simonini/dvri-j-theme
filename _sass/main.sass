@@ -13,15 +13,20 @@ html, body
   width: 100%
   height: 100%
 
-.container-fluid
-  // per togliere i margini ad a in modo che il pulsante sia pieno
-  padding: 0
-  margin: 0
-  //serve a fare da riferimento al posizionamento assoluto di .background-image
-  position: relative
 
 .home2
   text-align: center
+
+  .container-fluid
+    // per togliere i margini ad a in modo che il pulsante sia pieno
+    padding: 0
+    margin: 0
+    // serve a fare da riferimento al posizionamento assoluto di .background-image
+    position: relative
+    // serve a nascondere lo scaling del div .background-image
+    overflow: hidden
+
+  
   a
     padding-top: 150px
     padding-bottom: 150px
@@ -29,7 +34,7 @@ html, body
 
     &:hover
       .background-image
-        background-size: 110%
+        transform: scale(2)
     p
       // questo rende indipendente
       // la text decoration
@@ -37,21 +42,21 @@ html, body
       // http://stackoverflow.com/questions/27936387/disable-underline-of-inside-element-of-underlined-anchor-tag
       display: inline-block
 
-
   .background-image
     background-position: center
-    background-size: 100%
+    background-repeat: no-repeat
+    background-size: cover
     width: 100%
     height: 100%
     position: absolute
     top: 0
     left: 0
     z-index: -1
-    transition: background-size 0.5s ease-in-out
-    -moz-transition: background-size 0.5s ease-in-out
-    -ms-transition: background-size 0.5s ease-in-out
-    -o-transition: background-size 0.5s ease-in-out
-    -webkit-transition: background-size 0.5s ease-in-out
+    transition: transform 2s ease-in-out
+    -moz-transition: transform 2s ease-in-out
+    -ms-transition: transform 2s ease-in-out
+    -o-transition: transform 2s ease-in-out
+    -webkit-transition: transform 2s ease-in-out
 
 // http://colorpalettes.net/color-palette-3065/
 #caffe
