@@ -21,13 +21,14 @@ layout: page
 <a name="titolo1"></a>
 <h3>Prima Serata - Titolo del paragrafo 1</h3>
 
-<div class="cycler">
-{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-1.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 1" %}
+<div class="cycler row">
+{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-1.jpg" width="360" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 1" class="col-xs-6" %}
 
-{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-2.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 2" %}
+{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-2.jpg" width="360" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 2" class="col-xs-6" %}
 
-{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-3.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" %}
-{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-4.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 4" %}
+{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-3.jpg" width="360" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" class="col-xs-6"  %}
+
+{% image_tag src="assets/caffe/gallery/1-serata/caffe-ricerca-venezia-4.jpg" width="360" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 4" class="col-xs-6"  %}
 </div><!-- .cycler -->
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -41,13 +42,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <section>
 <a name="titolo2"></a>
 <h3>Titolo del paragrafo 2</h3>
-<div class="cycler">
-{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-1.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 1" %}
+<div class="cycler row">
+{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-1.jpg" width="360" class="col-xs-6" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 1" %}
   
-{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-2.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 2" %}
+{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-2.jpg" width="360" class="col-xs-6" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 2" %}
 
-{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-3.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" %}
-{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-4.jpg" width="720" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" %}
+{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-3.jpg" width="360" class="col-xs-6" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" %}
+{% image_tag src="assets/caffe/gallery/2-serata/caffe-ricerca-venezia-4.jpg" width="360" class="col-xs-6" alt="Caffè della ricerca e della Innovazione Distretto Veneziano della Ricerca 3" %}
 </div><!--.cycler-->
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -84,13 +85,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
 </div><!-- #pagina-caffe -->
-
-<script src="http://malsup.github.io/min/jquery.cycle.all.min.js"></script>
-
-<script>
-$(function() {
-  $('.cycler img:first').fadeIn(1000, function() {
-        $('.cycler').cycle();
-    });
-});
-</script>
