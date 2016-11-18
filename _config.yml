@@ -3,4 +3,4 @@ title: 'DVRI - Distretto Veneziano della ricerca'
 gems:
   - jekyll-srcset
 srcset:
-  cache: "/tmp/images"
+  jpeg_quality: 80
