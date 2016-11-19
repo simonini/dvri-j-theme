@@ -10,11 +10,8 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <script
-  src="https://code.jquery.com/jquery-3.1.1.min.js"
-  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-  crossorigin="anonymous"></script>
+  <script src="/assets/javascripts/jquery.min.js"></script>
   {% if site.enviroment == 'development' %}
-  <script src="/assets/live.js"></script>
+  <script src="/assets/javascripts/live.js"></script>
   {% endif %}
 </head>
