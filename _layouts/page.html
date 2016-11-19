@@ -7,12 +7,13 @@
     <div class="home2">
     {% include big_intro.html title=page.title
                               claim=page.claim
-                              css_id=page.css_id
+                              page_id=page.page_id
                               image=page.image
                               position=page.position %}
     </div>
+    
     {% include big_intro.html %}
-    <div class="container pagina" id="pagina-{{page.css_id}}">
+    <div class="container pagina" id="pagina-{{page.page_id}}">
     {{ content }}
     </div>
     {% include footer.html %}
