@@ -4,8 +4,17 @@
   {% include head.html %}
     <body>
     {% include menu.html %}
+    <div class="home2">
+    {% include big_intro.html title=page.title
+                              claim=page.claim
+                              css_id=page.css_id
+                              image=page.image
+                              position=page.position %}
+    </div>
     {% include big_intro.html %}
+    <div class="container pagina" id="pagina-{{page.css_id}}">
     {{ content }}
+    </div>
     {% include footer.html %}
     </body>
 </html>
