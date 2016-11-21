@@ -1,10 +1,6 @@
 lang: 'it'
 title: 'DVRI - Distretto Veneziano della ricerca'
 gems:
-  - jekyll-srcset
   - jekyll-toc
-srcset:
-  jpeg_quality: 80
-  cache: "/tmp/images"
   
 enviroment: development
