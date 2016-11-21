@@ -16,10 +16,16 @@
     <div class="container pagina" id="pagina-{{page.page_id}}">
       <div class="row">
         <div class="col-xs-12">
-        {{ content }}
+
+
         
+        {{ content | inject_anchors }}
+
 
         <div class="sommario-container share-page">
+          <h3>Sommario</h3>
+          {{ content | toc_only }}
+
           <h3>Condividi</h3>
           <ul>
             <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Condivi su Twitter">Twitter</a></li>
