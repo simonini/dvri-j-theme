@@ -7,11 +7,11 @@
   <title>{% if page.title %}{{page.title}} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <script src="/assets/javascripts/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/javascripts/jquery.min.js"></script>
   {% if site.enviroment == 'development' %}
-  <script src="/assets/javascripts/live.js"></script>
+  <script src="{{ site.baseurl }}/assets/javascripts/live.js"></script>
   {% endif %}
 </head>
