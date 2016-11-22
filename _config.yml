@@ -2,9 +2,6 @@ lang: 'it'
 title: 'DVRI - Distretto Veneziano della ricerca'
 gems:
   - jekyll-toc
-  - jekyll-srcset
   
 enviroment: production
 baseurl: "/site2016"
-srcset:
-  jpeg_quality: 80
