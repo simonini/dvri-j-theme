@@ -13,35 +13,14 @@
     </div>
     
     <div class="container pagina" id="pagina-{{page.page_id}}">
-      <div class="row">
-        <div class="col-xs-12">
+      
+        {% include sommario.html%}
 
 
-        
         {{ content | inject_anchors }}
 
+        {% include share.html %}
 
-        <div class="sommario-container share-page">
-          <div class="row">
-            <div class="col-sm-6 sommario" >
-              <h3>Sommario</h3>
-              {{ content | toc_only }}
-              </div>
-            
-            <div class="col-sm-6 share-buttons" >
-              <h3>Condividi</h3>
-              <ul>
-                <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Condivi su Twitter">Twitter</a></li>
-                <li><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Condivi su Facebook">Facebook</a></li>
-                <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Condivi su Google+">Google+</a></li>
-              </ul>
-            </div>
-
-          </div>
-        </div><!--.share-page-->
-
-        </div>
-      </div>
     </div>
     {% include footer.html %}
     </body>
