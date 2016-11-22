@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {% include head.html %}
-    <body>
+    <body id="body-pagina-{{page.page_id}}">
     {% include menu.html %}
     <div class="home2">
     {% include big_intro.html title=page.title
