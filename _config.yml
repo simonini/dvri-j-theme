@@ -4,4 +4,4 @@ gems:
   - jekyll-toc
   
 enviroment: production
-baseurl: "/site2016"
+baseurl: ""
