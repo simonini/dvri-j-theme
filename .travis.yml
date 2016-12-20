@@ -1,6 +1,6 @@
 language: ruby
-rvm:
-- 2.2.5
+cache: bundler
+install: true
 before_script:
 - chmod +x ./script/cibuild
 script: "./script/cibuild"
