@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# set -e # halt script on error
+set -e # halt script on error
 
-# bundle exec jekyll build - non serve buildare le gemme mi basta la copia tramite sftp
+bundle exec jekyll build
