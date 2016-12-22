@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Barbara Schiavulli e il suo intervento alla prima edizione dei Caffè dell'Innovazione
 
