@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Irene Scarpa e la sua presenza alla seconda edizione del Caffè dell'Innovazione
 
@@ -14,4 +14,3 @@ Irene ha vinto il premio Alumnus dell'Anno 2016, votata da voi soci, per aver in
 
 ![]
 (http://www.cafoscarialumni.it/ckeditor_assets/pictures/755/content_img_4550.jpg)
-
