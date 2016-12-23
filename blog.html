@@ -4,12 +4,15 @@ title: Elenco articoli
 ---
 
 <!-- This loops through the paginated posts -->
-<div class="container">
+<div class="container" style="min-height: 60%">
 
 {% for post in site.posts %}
+  <article>
   <h2>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </h2>
+  <date>{{ post.date | date: '%d %B, %Y'}}</date>
+  </article>
 {% endfor %}
 
 </div>
