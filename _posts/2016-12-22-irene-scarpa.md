@@ -11,4 +11,4 @@ Il 28 settembre è stata ospite del secondo evento I caffè dell’Innovazione, 
 
 Irene ha vinto il premio Alumnus dell'Anno 2016, votata da voi soci, per aver inventato un innovativo metodo che permette di risolvere i principali problemi, riscontrati nel mondo dei Beni Culturali e non solo, nella pulitura delle superfici di varia natura.
 
-![](http://www.cafoscarialumni.it/ckeditor_assets/pictures/755/content_img_4550.jpg)
+![Immagine di Irene Scarpa che ha partecipato alla seconda edizione del Caffè dell'Innovazione](http://www.cafoscarialumni.it/ckeditor_assets/pictures/755/content_img_4550.jpg)

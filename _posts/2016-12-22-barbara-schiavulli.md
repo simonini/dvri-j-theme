@@ -7,4 +7,4 @@ Reporter di guerra, lavora con Radio Bullet, partner giornalistico per l’Itali
 
 Il 9 giugno Barbara è stata ospite del primo evento I caffè dell’Innovazione, un’iniziativa del Distretto Veneziano della Ricerca e dell’Innovazione -DVRI in collaborazione con il Servizio delle Politiche giovanili di Venezia e con il sostegno degli esercenti di Campo Santa Margherita, durante il quale ha espresso al pubblico la sua visione, legata anche alle sue esperienze lavorative e di vita, sugli aspetti positivi ma anche talvolta negativi dell’innovazione nel mondo. 
 
-![](https://pbs.twimg.com/profile_images/110762338/n620235915_2295-1_400x400.jpg)
+![Immagine di Barbara Schiavulli che ha partecipato all Caffè dell'Innovazione del DVRI](https://pbs.twimg.com/profile_images/110762338/n620235915_2295-1_400x400.jpg)
