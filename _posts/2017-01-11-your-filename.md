@@ -22,7 +22,7 @@ Nel 2008 Georg Siemens dell’Athabaska University conia il termine MOOC durante
 
 -Nel 2011 la Stanford University lancia [3 corsi aperti a tutti](http://ai.stanford.edu/~ang/papers/mooc14-OriginsOfModernMOOC.pdf) coloro in possesso di una connessione internet. Uno di questi tenuto da Sebastian Thrun and Peter Norvig sul tema dell’Intelligenza artificiale attrasse più di [160.000 studenti](https://www.wired.com/2012/03/ff_aiclass/). Sull’onda di quel successo Thun E Norvig costruirono il business model per l’educazione online [Udacity](https://www.udacity.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tYclUdcsdeo" frameborder="0" allowfullscreen></iframe>
+( <iframe width="560" height="315" src="https://www.youtube.com/embed/tYclUdcsdeo" frameborder="0" allowfullscreen></iframe> )
 
 -2012: La popolarità dei corsi della Stanford ha spinto altre Università a creare MOOC e così emersero altre due piattaforme: Coursera and EdX.  Quell’anno The New York Times proclamò il 2012 ‘The Year of the Mooc’- l'[articolo](http://www.nytimes.com/2012/05/16/opinion/friedman-come-the-revolution.html?_r=0) di FRIEDMAN è un MUST-READ sull'argomento.
 
