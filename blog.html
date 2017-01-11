@@ -11,7 +11,7 @@ title: Elenco articoli
   <h2>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </h2>
-  <date>{{ post.date | date: '%d %B, %Y'}}</date>
+    {% include date_from_post.html %}
   </article>
 {% endfor %}
 
