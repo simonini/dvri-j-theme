@@ -1,6 +1,4 @@
----
-published: false
----
+
 ## MOOC MOVEMENT - UNA CRONOSTORIA##
 
 ### I Massive Open Online Courses (MOOCs) sono corsi online brevi e gratuiti a disposizione di tutti. Offrono la possibilità di interagire direttamente con il docente, organizzare gruppi di lavoro e mettere onestamente alla prova il proprio apprendimento. Il loro arrivo nel web ha originato una rivoluzione nel mondo dell’alta formazione, anche se i risultati conseguiti ad oggi non sempre hanno raggiunto le aspettative iniziali.
