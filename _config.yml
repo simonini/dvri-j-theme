@@ -5,3 +5,4 @@ gems:
   
 enviroment: production
 baseurl: ""
+permalink: "/:title.html"
