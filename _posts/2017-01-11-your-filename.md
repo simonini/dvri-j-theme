@@ -33,9 +33,3 @@ Nel 2008 Georg Siemens dell’Athabaska University conia il termine MOOC durante
 -2015: Il numero di studenti che si iscrivevano ai MOOC arrivò a [35 milioni](https://www.class-central.com/report/moocs-2015-stats/), superando la previsione dei 16-18 milioni fatta per il 2014.
 
 -2016: L’università di Oxford annuncia il suo primo [MOOC -  From Poverty to Prosperity: Understanding Economic Development](https://www.edx.org/course/poverty-prosperity-understanding-oxfordx-oxbsg01x), un’adesione che aiuterà a rafforzare la credibilità dei MOOC.
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
