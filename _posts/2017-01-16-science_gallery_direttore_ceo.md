@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: OPEN CALL 4 DIRECTOR | SCIENCE GALLERY VENICE
+title: Open Call 4 Director - Science Gallery Venice
 ---
 
 [Fondazione Università Ca’ Foscari](https://www.unive.it/pag/15272/) apre un bando internazionale per nominare il futuro direttore di [Science Gallery Venice](https://venice.sciencegallery.com/it/news/selezione-direttore-science-gallery-venice). Visione, creatività e spirito d’impresa sono le doti richieste.
