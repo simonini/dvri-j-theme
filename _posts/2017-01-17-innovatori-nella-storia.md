@@ -11,13 +11,13 @@ Il dizionario definisce innovazione come l’atto, l’opera di innovare, cioè 
 
 
 ### Leonardo Da Vinci
-![Leonardo Da Vinci, ritratto e uomo vitruviano, innovatore nella storia](http://www.citynow.it/assets/uploads/2016/11/davinci.jpg)
+![Leonardo Da Vinci, ritratto e uomo vitruviano, innovatore nella storia](../assets/posts/innovatori/davinci.jpg)
 Chi meglio di lui può essere considerato innovatore oltre/accanto a uomo del rinascimento? Da Vinci è famoso soprattutto per i suoi dipinti come l'ultima cena o la Mona Lisa ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità innovativa è ben individuata da Timpanaro: "È sua e nuova la curiosità per ogni fenomeno naturale e la capacità di vedere a occhio nudo ciò che a stento si vede con l'aiuto degli strumenti."
 Dagli studi di anatomia a quelli di idraulica la sua innovazione non è stata nello spiegare perché, come può fare uno scienziato, ma guardare con occhi nuovi la realtà di sempre.
 
  
 ### Galileo Galilei
-![Galileo Galilei, ritratto, innovatore nella storia](http://salimbasarda.net/wp-content/uploads/2016/08/galileo-e1435358932718.jpg)
+![Galileo Galilei, ritratto, innovatore nella storia](../assets/posts/innovatori/galileo.jpg)
 Innovatore a suo malgrado, Galileo è stato un vero uomo del Rinascimento, eccellendo in molte aree diverse, dalle scienze alle discipline umanistiche.
 Dice molto del suo modo di essere una sua famosa citazione: "in questioni della scienza, l'autorità di mille non vale l'umile ragionamento di un singolo individuo".
 Fisico, astronomo, filosofo e matematico è considerato il padre della scienza moderna.
@@ -74,7 +74,7 @@ La salita al potere del nazismo hitleriano costringe però Freud - da anni malat
 
 
 ### Nikola Tesla
-![Tesla, ritratto in bianco e nero, innovatore straordinario nel campo dell'ingegneria](http://www.complottisti.com/wp-content/uploads/2016/01/tesla000.jpg)
+![Tesla, ritratto in bianco e nero, innovatore straordinario nel campo dell'ingegneria](../assets/posts/innovatori/tesla.jpg)
 Nikola Tesla, grande inventore, ingegnere, e futurista. Tesla contribuì allo sviluppo del moderno sistema elettrico basato sulla corrente alternata. Noto per i suoi esperimenti talvolta rischiosi e per la sua personalità eccentrica, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò un visionario.
 "La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità" scrisse Nikola Tesla nella sua autobiografia.
 Fin da piccolo mostrò uno spiccato interesse per l'elettricità: ancora in tenera età, rimase affascinato dalle piccole scintille che comparivano strofinando il pelo del suo gattino Macak, per un accumulo di elettricità statica. 
@@ -116,7 +116,7 @@ Una delle ipotesi formulate fu che la donna fosse una spia caduta in quell'occas
 Nel 2009 è stato realizzato un film biografico sulla sua vita dal titolo "Amelia", con Richard Gere e Hilary Swank nel ruolo dell'aviatrice.
 
 ### Walt Disney
-![Walt Disney insieme alle sue creature più note: Topolino, Pippo e Paperino, ha innovato in modo straordinario nel campo dell'animazione.](http://www.wordsinfreedom.com/wp-content/uploads/2016/11/walt-disney.jpg)
+![Walt Disney insieme alle sue creature più note: Topolino, Pippo e Paperino, ha innovato in modo straordinario nel campo dell'animazione.](../assets/posts/innovatori/walt.jpg)
 Padre e innovatore dell'animazione cinematografica, ancora oggi il suo nome è associato a film, gadget e fumetti creati dalla sua casa di produzione che è divenuta in breve tempo un autentico impero economico su scala mondiale.
 Walt Disney nacque nel 1901 a Chicago.
 Agli inizi degli anni '20, dopo un periodo passato alla Pesman-Rubin Commercial Art Studio - un'agenzia pubblicitaria- nel 1922 Walt fondò la sua prima casa di produzione Laugh-O-Grams, Inc. formata da pochi collaboratori. Tuttavia lo studio fallì l'anno successivo.
@@ -126,7 +126,7 @@ Alla fine degli anni '40, iniziò la produzione di Cenerentola che diede il via 
 Curiosità: il vero padre di Topolino è Ub Iwerks, disegnatore originale del celebre topo. Disney che aveva partecipato alla sua messa a punto, si occupò di sonorizzarlo e di dargli il colore.
 
 ### Rita Levi Montalcini
-![Rita Leve Montalcini in laboratorio insieme ai suoi](http://leganerd.com/wp-content/uploads/2012/12/rita-levi-montalcini-morta.jpeg)
+![Rita Leve Montalcini in laboratorio insieme ai suoi](../assets/posts/innovatori/rita.jpg)
 Rita Levi Montalcini nasce il 22 aprile del 1909 a Torino da famiglia ebrea. Entrata alla scuola medica di Levi all'età di vent'anni, si laurea nel 1936. Fermamente intenzionata a proseguire la sua carriera accademica come assistente e ricercatrice in neurobiologia e psichiatria, è costretta, a causa delle leggi razziali emanate dal regime fascista nel 1938, ad emigrare in Belgio insieme a Giuseppe Levi.
 Nel suo girovagare, nel '43 approda a Firenze, dove vivrà in clandestinità per qualche anno, prestando fra l'altro la sua collaborazione come medico volontario fra gli Alleati.
 Finita la guerra nel 45', Rita torna nella sua città natale. Poco dopo riceve un'offerta dal Dipartimento di Zoologia della Washington University (St. Louis, Missouri). Accetta, dopo essersi però ben assicurata che potrà proseguire le stesse ricerche che aveva cominciato a Torino.
@@ -155,7 +155,7 @@ Le sue sono state suggestioni che hanno mosso il nostro futuro scientifico in 
 Beh non male, vero? Quando si dice anticipare i tempi.
 
 ### Temple Grandin
-![Temple Grandin, inventore della macchina degli abbracci.](http://media.salon.com/2013/05/temple_grandin.jpg)
+![Temple Grandin, inventore della macchina degli abbracci.](../assets/posts/innovatori/temple.jpg)
 Temple Grandin nacque in un periodo in cui la sindrome autistica era relativamente poco conosciuta. Essendole stato diagnosticato un danno cerebrale all'età di due anni, fu ospitata in una scuola materna strutturata per tali casi, dove a suo dire fu seguita da buoni insegnanti. Parecchi anni più tardi fu accertata come autistica (formalmente la diagnosi era di Sindrome di Asperger, versione meno grave dello spettro autistico). Afferma di considerarsi fortunata per aver goduto di un buon supporto sia al tempo in cui frequentava la scuola primaria che successivamente.
 Grandin negli anni a seguire conseguì una laurea di primo livello in psicologia al Franklin Pierce College (1970), successivamente si laureò in zoologia all'Università Statale dell'Arizona nel 1975, e completò poi il dottorato di ricerca in zoologia presso l'Università dell'Illinois nel 1989.
 Grandin iniziò ad essere conosciuta dopo che Oliver Sacks la descrisse nel suo racconto Un antropologo su Marte, il cui titolo riprende la definizione della stessa Grandin circa il suo modo di sentire le persone neurotipiche. Grandin è stata ospite dei più importanti programmi televisivi nazionali e ha scritto articoli per riviste come Time, People, e Forbes, e quotidiani come il New York Times.
