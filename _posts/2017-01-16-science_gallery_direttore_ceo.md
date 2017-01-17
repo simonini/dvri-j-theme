@@ -7,7 +7,7 @@ title: Open Call 4 Director - Science Gallery Venice
 [Fondazione Università Ca’ Foscari](https://www.unive.it/pag/15272/) apre un bando internazionale per nominare il futuro direttore di [Science Gallery Venice](https://venice.sciencegallery.com/it/news/selezione-direttore-science-gallery-venice). Visione, creatività e spirito d’impresa sono le doti richieste.
 ![Science Gallery Venice, ricerca del direttore](../assets/posts/ricerca-direttore.jpg)
 
-Il futuro direttore dovrà essere ecclettico e visionario, avrà il compito di progettare, implementare e dare avvio al progetto per il 2019. Si cercano candidati che abbiano lavorato nello sviluppo di progetti transdisciplinari e con un particolare focus sulla terza missione dell’università e nel coinvolgimento di pubblici, specialmente giovanili. Si cerca una persona capace di realizzare dal suo principio fino alla sua realizzazione “uno spazio in cui arte e scienza collidono”. Una casa per gli innovatori del futuro.
+Il futuro direttore dovrà essere ecclettico e visionario, avrà il compito di progettare, implementare e dare avvio al progetto per il 2019. Si cercano candidati che abbiano lavorato nello sviluppo di progetti transdisciplinari e con un particolare focus sulla terza missione dell’università e nel coinvolgimento di pubblici, specialmente giovanili. Si cerca una persona capace di realizzare dal suo principio fino alla sua realizzazione “uno spazio in cui arte e scienza collidono”. Una casa per gli __innovatori__ del futuro.
 
 ### Caratterestiche chiave del candidato ideale
 
