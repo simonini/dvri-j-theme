@@ -10,9 +10,7 @@ Il dizionario definisce innovazione come l’atto, l’opera di innovare, cioè 
 ## Leonardo Da Vinci
 Chi meglio di lui può essere considerato innovatore oltre/accanto a uomo del rinascimento? Da Vinci è famoso soprattutto per i suoi dipinti come l'ultima cena o la Mona Lisa ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità innovativa è ben individuata da Timpanaro: "È sua e nuova la curiosità per ogni fenomeno naturale e la capacità di vedere a occhio nudo ciò che a stento si vede con l'aiuto degli strumenti."
 Dagli studi di anatomia a quelli di idraulica la sua innovazione non è stata nello spiegare perché, come può fare uno scienziato, ma guardare con occhi nuovi la realtà di sempre.
-![](http://www.citynow.it/assets/uploads/2016/11/davinci.jpg)
-### 
- .
+![Leonardo Da Vinci, ritratto e uomo vitruviano, innovatore nella storia](http://www.citynow.it/assets/uploads/2016/11/davinci.jpg)
  
 
 ## Galileo Galilei
@@ -23,9 +21,7 @@ Il suo nome è associato a importanti contributi in dinamica e in astronomia (le
 Fu un grande osservatore e lo dimostrò con il moto del pendolo prima e grazie all’uso del telescopio poi ma soprattutto fu un innovatore, anche se a suo malgrado.
 Fu sospettato di eresia e accusato di voler sovvertire la filosofia naturale aristotelica e le Sacre Scritture e per questo Galileo fu processato e condannato dal Sant'Uffizio. Combatté sempre? Non proprio, una figura in bilico tra i dettami dello status quo e quello che la sua ragione gli imponeva di affermare. Solo quando non si poté più negare la verità delle sue affermazioni allora poté compiersi la rivoluzione e le sue innovazioni furono veramente tali.
 Come scrisse Brecht in Vita di Galileo: “Il frutto dell'albero della conoscenza. Ecco, lo azzanna subito. Sarà dannato in eterno, ma non può fare a meno di azzannarlo, sciagurato ghiottone!"
-![](http://salimbasarda.net/wp-content/uploads/2016/08/galileo-e1435358932718.jpg)
-### 
- .
+![Galileo Galilei, ritratto, innovatore nella storia](http://salimbasarda.net/wp-content/uploads/2016/08/galileo-e1435358932718.jpg)
  
 
 ## Benjamin Franklin
@@ -37,18 +33,12 @@ Benjamin dimostrò che il fulmine non è altro che una manifestazione di elett
 Accanto alla sua figura dello scienziato ha sempre saputo mantenere la sua dimensione di uomo pubblico interpretando tutte le sue invenzione come a servizio del pubblico, non brevettando mai nulla di quanto fatto.
 
 Strappò al cielo il fulmine, lo scettro ai tiranni - Eripuit caelo fulmen, sceptrumque tyrannis
-![](http://www.bellevuerarecoins.com/wp-content/uploads/2016/04/benjamin-franklin.jpg)
-### 
- .
- 
+![Benjamin Franklin, ritratto, innovatore nella politica e nelle scienze](http://www.bellevuerarecoins.com/wp-content/uploads/2016/04/benjamin-franklin.jpg)
 
 ## Caroline Lucretia Herschel
 Herschel era trattata poco più che come una sguattera dai suoi genitori ad Hannover tanto che in seguito avrebbe descritto se stessa come la "Cenerentola della famiglia". Tutto cambiò nel nel 1772 quando suo fratello maggiore, William, la portò in Inghilterra per aiutare la sua famiglia a Bath . Inizialmente si dedicò al canto per accompagnare William, che era l'organista per la Octagon Chapel- ma in seguito, quando il fratello decise di cambiare carriera, anche lei iniziò a dedicarsi all'astronomia. Oltre ad assistere il fratello nelle sue osservazioni e nella costruzione dei telescopi, Caroline diventò un astronoma brillante e indipendente, alla scoperta di nuove costellazioni, nebulose e stelle. È stata la prima donna a scoprire una cometa (ne ha scoperto otto in totale) e la prima ad avere il suo lavoro pubblicato dalla The Royal Society. È stata anche la prima donna britannica di essere pagata per il suo lavoro scientifico, quando William, che era stato nominato astronomo personale del re dopo la sua scoperta di Urano nel 1781, convinse il suo protettore a premiare la sua assistente con uno stipendio annuo. Dopo la morte di William nel 1822, Caroline si ritirò a Hannover. Lì ha continuato il suo lavoro astronomico, la compilazione di un catalogo delle nebulose (il lavoro degli Herschel 'aveva aumentato il numero di noti ammassi stellari da 100 a 2.500!!!).
 Morì nel 1848 all'età di 97 anni dopo aver ricevuto molti onori nel suo campo, tra cui una medaglia d'oro dal Royal Astronomical Society.
-![](http://i.telegraph.co.uk/multimedia/archive/03339/CAROLINEHERSCHEL_3339576i.jpg)
-### 
- .
- 
+![Caroline Lucretia Herschel, ritratto in bianco e nero](http://i.telegraph.co.uk/multimedia/archive/03339/CAROLINEHERSCHEL_3339576i.jpg)
 
 ## Thomas Edison
 Thomas Edison è il famoso inventore e industriale statunitense nato a Milan, nell'Ohio, il giorno 11 febbraio del 1847, a cui si deve l'invenzione della lampadina. Figlio di povera famiglia, è costretto ad abbandonare la scuola dopo pochi mesi di frequenza a causa di problemi finanziari; riceve una sommaria istruzione dalla madre e, a soli 12 anni, inizia a vendere giornali sui treni della "Grand Trunk Railway", dedicando il tempo libero ai suoi primi esperimenti con apparecchiature elettriche e meccaniche. Organizza così un suo primitivo laboratorio a bordo di un vagone ma, a causa di un incendio da lui involontariamente provocato, viene licenziato.
@@ -61,10 +51,7 @@ Tra le sue ultime invenzioni si ricordano la batteria di accumulatori Edison, an
 Altre sue scoperte sono il mimeografo e un metodo telegrafico senza fili per comunicare con i treni in movimento. Allo scoppio della prima guerra mondiale progetta e costruisce impianti per la produzione di benzene, fenolo e derivati dell'anilina, che in precedenza venivano importati dalla Germania. Gli ultimi suoi anni lo vedono occupato a perfezionare alcune invenzioni precedenti.
 Edison non conquista tutti i mille e oltre brevetti da solo: intelligentemente si avvale di molti validi collaboratori e delle loro idee per poi perfezionarle e trasformarle in oggetti utili e commerciabili, rivelandosi in ciò, oltre che un ottimo tecnologo, anche un lungimirante uomo d'affari, precorrendo di molto i suoi tempi.
 Scompare a West Orange, nel New Jersey, il 18 ottobre dell'anno 1931, a 84 anni di età.
-![](http://kinhdoanhnhahang.vn/wp-content/uploads/2016/05/Thomas-Edison.jpg)
-### 
- .
- 
+![Thomas Edison, inventore e industriale, straordinario innovatore](http://kinhdoanhnhahang.vn/wp-content/uploads/2016/05/Thomas-Edison.jpg)
 
 ## Sigmund Freud
 Sigismund Schlomo Freud, conosciuto come Sigmund Freud, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).
