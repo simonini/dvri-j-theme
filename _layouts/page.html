@@ -13,14 +13,9 @@
     </div>
     
     <div class="container pagina" id="pagina-{{page.page_id}}">
-      
         {% include sommario.html%}
-
-
         {{ content | inject_anchors }}
-
         {% include share.html %}
-
     </div>
     {% include footer.html %}
     </body>

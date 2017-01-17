@@ -1,0 +1,7 @@
+{% if page.toc == true %}
+<div class="sommario-container ">
+  <div class="sommario" >
+    {{ content | toc_only }}
+  </div><!--.sommario-->
+</div><!--.share-page-->
+{% endif%}
