@@ -37,14 +37,16 @@ Come scrisse Brecht in _Vita di Galileo_:
 
 ### Benjamin Franklin
 ![Benjamin Franklin, ritratto, innovatore nella politica e nelle scienze](http://www.bellevuerarecoins.com/wp-content/uploads/2016/04/benjamin-franklin.jpg)
-Uno dei padri fondatori degli Stati Uniti d'America Uniti, Franklin fu anche un brillante ed eclettico inventore, teorico politico, scienziato, uomo di stato e scrittore. Benjamin aveva una prodigiosa mente scientifica e i suoi interessi spaziavano dalle materie socio-politiche alle discipline scientifiche in modo naturale e continuativo. Oltre alla politica lui è forse ancora più noto per il suoi esperimenti di illuminazione ed elettricità.
-Come scienziato, diede contributi importanti allo studio dell'elettricità e fu un appassionato di meteorologia e anatomia. Fu l'inventore del parafulmine, le lenti bifocali, l'armonica a bicchieri e un modello di stufa-caminetto noto nel mondo anglosassone come stufa Franklin. 
+Uno dei __padri fondatori degli Stati Uniti d'America__, Franklin fu anche un brillante ed eclettico inventore, teorico politico, scienziato, uomo di stato e scrittore. Benjamin aveva una prodigiosa mente scientifica e i suoi interessi spaziavano __dalle materie socio-politiche alle discipline scientifiche in modo naturale e continuativo__. Oltre alla politica lui è forse ancora più noto per il suoi esperimenti di illuminazione ed elettricità.  
+Come __scienziato__, diede contributi importanti allo studio dell'__elettricità__ e fu un appassionato di meteorologia e anatomia. Fu __l'inventore del parafulmine__, le __lenti bifocali__, l'armonica a bicchieri e un modello di stufa-caminetto noto nel mondo anglosassone come stufa Franklin. 
 Già all'età di 11 anni diede prova della sua genialità realizzando la sua prima invenzione: delle pinne per nuotare in legno, che si adattano sulle mani e piedi che gli permette di nuotare molto più velocemente. 
-Come dicevamo fu anche l'inventore dello strumento di vetro 'armonica', ma forse non molti di voi sapranno che questa inveenzione diventò così popolare che in Europa Mozart - Composer e Ludwig van Beethovenoven composero della musica ad hoc. Inventò la sedia girevole di cui non possiamo non essere grati ma soprattutto la sua scoperta più riguarda la natura del fulmine.
+Come dicevamo fu anche l'inventore dello strumento di vetro 'armonica', ma forse non molti di voi sapranno che questa invenzione diventò così popolare che in Europa Mozart e Ludwig van Beethoven composero della musica ad hoc.  
+__Inventò la sedia girevole__ di cui non possiamo non essere grati ma soprattutto la sua scoperta più riguarda la natura del fulmine.
 Benjamin dimostrò che il fulmine non è altro che una manifestazione di elettricità, convinzione scaturita da una serie di osservazioni circa la somiglianza fra i fulmini e le scintille elettriche, nella loro forma, colore e velocità.
-Accanto alla sua figura dello scienziato ha sempre saputo mantenere la sua dimensione di uomo pubblico interpretando tutte le sue invenzione come a servizio del pubblico, non brevettando mai nulla di quanto fatto.
+Accanto alla sua figura dello scienziato ha sempre saputo mantenere la sua dimensione di __uomo pubblico interpretando tutte le sue invenzione come a servizio del pubblico, non brevettando mai nulla di quanto fatto__.
 
-Strappò al cielo il fulmine, lo scettro ai tiranni - Eripuit caelo fulmen, sceptrumque tyrannis
+> Strappò al cielo il fulmine, lo scettro ai tiranni.<br/>
+> Eripuit caelo fulmen, sceptrumque tyrannis.
 
 
 ### Caroline Lucretia Herschel
