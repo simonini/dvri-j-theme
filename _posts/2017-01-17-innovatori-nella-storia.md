@@ -5,10 +5,8 @@ title: Innovatori nella storia
 toc: true
 ---
 
----
 
 ## Cosa significa innovazione?
-
 Il dizionario definisce innovazione come l’atto, l’opera di innovare, cioè di introdurre nuovi sistemi, nuovi ordinamenti, nuovi metodi di produzione e simili… In questa lista troverete ordinate in ordine cronologico persone che grazie alle loro intuizioni, pur in modo diverso, hanno contribuito al progresso del'umanintà lasciando un'impronta indelebile nella storia.
 
 ---
@@ -80,6 +78,8 @@ Altri studi freudiani (che sviluppano ulteriormente i concetti di Io, Es, Super-
 La salita al potere del nazismo hitleriano costringe però Freud - da anni malato di cancro - all'esilio a Londra nel 1938, dove lo psicoanalista muore l'anno successivo.
 ![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](http://a2.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODE2OTA5MzI0.jpg)
 
+---
+
 ### Nikola Tesla
 Nikola Tesla, grande inventore, ingegnere, e futurista. Tesla contribuì allo sviluppo del moderno sistema elettrico basato sulla corrente alternata. Noto per i suoi esperimenti talvolta rischiosi e per la sua personalità eccentrica, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò un visionario.
 "La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità" scrisse Nikola Tesla nella sua autobiografia.
@@ -90,15 +90,21 @@ Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere energia elettrica senza fili utilizzando i principi di risonanza scoperti dallo scienziato serbo più di un secolo prima.
 ![Tesla, ritratto in bianco e nero, innovatore straordinario nel campo dell'ingegneria](http://www.complottisti.com/wp-content/uploads/2016/01/tesla000.jpg)
 
+---
+
 ### Marie Curie
 Marie Curie, la prima donna a vincere il premio Nobel Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue dirompenti idee sulla radioattività, nonchè per la scoperta di due elementi chimici: il polonio e il radio. Fu proprio lei a coniare il termine radioattivo e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
 Fu anche la prima donna a diventare professoressa all' Université Paris-Sorbonne e ad essere insignita degli onori al Pantheon di Parigi.
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
 ![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](http://thebestyoumagazine.co/wp-content/uploads/2013/04/madame-curie.jpg)
 
+---
+
 ### Alexander Fleming
 Nel 1928 Alexander Fleming ha scoperto la penicillina. Una scoperta fondamentale per lo sviluppo della medicina. Nel 1945, proprio grazie a questa scoperta, Fleming ha vinto il Nobel per la Medicina. La penicillina è un antibiotico che viene utilizzato contro la maggior parte dei batteri gram positivi come gli stafilococchi e gli streptococchi, contro le spirochete e contro gonococchi e meningococchi. Nel 1928 Fleming ha scoperto che in una piastra di coltura contaminata da una muffa la crescita batterica era inibita. In questo modo è arrivato così a scoprire la penicillina G, che poi ha dato origine a tutte le altre penicilline. Soltanto dal 1941 si è iniziato ad utilizzare la penicillina contro le infezioni batteriche, mentre dal 1943 gli Stati Uniti hanno iniziato a produrla a livello industriale.
 ![Fleming, rivoluziona la medicina con la scoperta dell'antibiotico, qui è ritratto nel suo laboratorio](http://thumbs.media.smithsonianmag.com//filer/Alexander-Fleming-penicillin-631.jpg__800x600_q85_crop.jpg)
+
+---
 
 ### Coco Chanel
 Gabrielle Bonheure Chanel, emblema di eleganza ma che non ha mai dimenticato che una donna, prima di tutto, deve sentirsi comoda e a proprio agio nelle proprie vesti.
