@@ -108,9 +108,9 @@ Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere __energia elettrica senza fili__ utilizzando i __principi di risonanza__ scoperti dallo scienziato serbo più di un secolo prima.
 
 ### Marie Curie
-![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](../assets/posts/innovatori/curie.jpg)
-Marie Curie, la prima donna a vincere il premio Nobel Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue dirompenti idee sulla radioattività, nonchè per la scoperta di due elementi chimici: il polonio e il radio. Fu proprio lei a coniare il termine radioattivo e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
-Fu anche la prima donna a diventare professoressa all' Université Paris-Sorbonne e ad essere insignita degli onori al Pantheon di Parigi.
+![Marie Curie, ritratto in laboratorio, scienziata straordinaria e prima donna vincitrice del premio nobel](../assets/posts/innovatori/curie.jpg)
+__Marie Curie__, la __prima donna a vincere il premio Nobel__ Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue __dirompenti idee sulla radioattività__, nonchè per la __scoperta__ di due elementi chimici: il __polonio__ e il __radio__. Fu proprio lei a coniare il termine _radioattivo_ e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo.   
+Fu anche la __prima donna a diventare professoressa all' Université Paris-Sorbonne__ e ad essere insignita degli onori al Pantheon di Parigi.  
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
 
 ### Alexander Fleming
