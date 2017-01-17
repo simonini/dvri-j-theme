@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 ---
 # Innovatori nella storia
