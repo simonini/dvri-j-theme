@@ -104,7 +104,7 @@ Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito e
 <footer><cite>Charles Betchelor presenta Nikola Tesla a Thomas Edison</cite></footer>
 </blockquote>
 
-Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il __generatore di energia idroelettrica__, l’illuminazione a fluorescenza, il __motore rotante__ e la turbina senza pale e __molto probabilmente anche la radio__. E queste sono solo le invenzioni più famose.  
+Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il __generatore di energia idroelettrica__, l’__illuminazione a fluorescenza__, il __motore rotante__ e la __turbina senza pale__ e __molto probabilmente anche la radio__. E queste sono solo le invenzioni più famose.  
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere __energia elettrica senza fili__ utilizzando i __principi di risonanza__ scoperti dallo scienziato serbo più di un secolo prima.
 
 ### Marie Curie
