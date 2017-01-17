@@ -84,7 +84,7 @@ Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere energia elettrica senza fili utilizzando i principi di risonanza scoperti dallo scienziato serbo più di un secolo prima.
 
 ### Marie Curie
-![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](http://thebestyoumagazine.co/wp-content/uploads/2013/04/madame-curie.jpg)
+![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](../assets/posts/innovatori/curie.jpg)
 Marie Curie, la prima donna a vincere il premio Nobel Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue dirompenti idee sulla radioattività, nonchè per la scoperta di due elementi chimici: il polonio e il radio. Fu proprio lei a coniare il termine radioattivo e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
 Fu anche la prima donna a diventare professoressa all' Université Paris-Sorbonne e ad essere insignita degli onori al Pantheon di Parigi.
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
@@ -126,7 +126,7 @@ Alla fine degli anni '40, iniziò la produzione di Cenerentola che diede il via 
 Curiosità: il vero padre di Topolino è Ub Iwerks, disegnatore originale del celebre topo. Disney che aveva partecipato alla sua messa a punto, si occupò di sonorizzarlo e di dargli il colore.
 
 ### Rita Levi Montalcini
-![Rita Leve Montalcini in laboratorio insieme ai suoi](../assets/posts/innovatori/rita.jpg)
+![Rita Leve Montalcini in laboratorio insieme ai suoi](../assets/posts/innovatori/rita.jpeg)
 Rita Levi Montalcini nasce il 22 aprile del 1909 a Torino da famiglia ebrea. Entrata alla scuola medica di Levi all'età di vent'anni, si laurea nel 1936. Fermamente intenzionata a proseguire la sua carriera accademica come assistente e ricercatrice in neurobiologia e psichiatria, è costretta, a causa delle leggi razziali emanate dal regime fascista nel 1938, ad emigrare in Belgio insieme a Giuseppe Levi.
 Nel suo girovagare, nel '43 approda a Firenze, dove vivrà in clandestinità per qualche anno, prestando fra l'altro la sua collaborazione come medico volontario fra gli Alleati.
 Finita la guerra nel 45', Rita torna nella sua città natale. Poco dopo riceve un'offerta dal Dipartimento di Zoologia della Washington University (St. Louis, Missouri). Accetta, dopo essersi però ben assicurata che potrà proseguire le stesse ricerche che aveva cominciato a Torino.
