@@ -73,7 +73,7 @@ Scompare a West Orange, nel New Jersey, il 18 ottobre dell'anno 1931, a 84 anni 
 
 
 ### Sigmund Freud
-![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](http://a2.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODE2OTA5MzI0.jpg)
+![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](../assets/posts/innovatori/freud.jpg)
 Sigismund Schlomo Freud, conosciuto come Sigmund Freud, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).
 Il padre di Freud è un ebreo laico, che non trasmette al figlio un'educazione di stampo religioso-fideistico o tradizionalista. Quando Sigmund ha appena quattro anni, la famiglia si sposta a Vienna per motivi legati al lavoro del padre, che commerciava in lana.
 Nonostante il disinteresse paterno per l'argomento, Sigmund inizia ad appassionarsi allo studio del testo biblico sin da giovane, e la storia e la tradizione del suo popolo giocheranno un ruolo non indifferente nella sua produzione successiva (per altro, in un contesto sociale come quello viennese di strisciante antisemitismo).
