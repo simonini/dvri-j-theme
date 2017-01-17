@@ -7,24 +7,32 @@ toc: true
 
 
 ## Cosa significa innovazione?
-Il dizionario definisce innovazione come l’atto, l’opera di innovare, cioè di introdurre nuovi sistemi, nuovi ordinamenti, nuovi metodi di produzione e simili… In questa lista troverete ordinate in ordine cronologico persone che grazie alle loro intuizioni, pur in modo diverso, hanno contribuito al progresso del'umanintà lasciando un'impronta indelebile nella storia.
+Il dizionario definisce __innovazione__ come l’atto, l’opera di __innovare__, cioè di introdurre nuovi sistemi, nuovi ordinamenti, nuovi metodi di produzione e simili… In questa lista troverete ordinate in ordine cronologico persone che grazie alle loro intuizioni, pur in modo diverso, hanno contribuito al progresso del'umanintà lasciando un'impronta indelebile nella storia.
 
 
 ### Leonardo Da Vinci
 ![Leonardo Da Vinci, ritratto e uomo vitruviano, innovatore nella storia](../assets/posts/innovatori/davinci.jpg)
-Chi meglio di lui può essere considerato innovatore oltre/accanto a uomo del rinascimento? Da Vinci è famoso soprattutto per i suoi dipinti come l'ultima cena o la Mona Lisa ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità innovativa è ben individuata da Timpanaro: "È sua e nuova la curiosità per ogni fenomeno naturale e la capacità di vedere a occhio nudo ciò che a stento si vede con l'aiuto degli strumenti."
-Dagli studi di anatomia a quelli di idraulica la sua innovazione non è stata nello spiegare perché, come può fare uno scienziato, ma guardare con occhi nuovi la realtà di sempre.
+Chi meglio di lui può essere considerato __innovatore__ oltre/accanto a uomo del rinascimento? __Da Vinci__ è famoso soprattutto per i suoi dipinti come _L'ultima cena_ o la _Mona Lisa_ ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità __innovativa__ è ben individuata da Timpanaro: 
+
+> "È sua e nuova la curiosità per ogni fenomeno naturale e la capacità di vedere a occhio nudo ciò che a stento si vede con l'aiuto degli strumenti."
+
+Dagli studi di anatomia a quelli di idraulica la sua __innovazione__ non è stata nello spiegare perché, come può fare uno scienziato, ma guardare con occhi nuovi la realtà di sempre.
 
  
 ### Galileo Galilei
 ![Galileo Galilei, ritratto, innovatore nella storia](../assets/posts/innovatori/galileo.jpg)
-Innovatore a suo malgrado, Galileo è stato un vero uomo del Rinascimento, eccellendo in molte aree diverse, dalle scienze alle discipline umanistiche.
-Dice molto del suo modo di essere una sua famosa citazione: "in questioni della scienza, l'autorità di mille non vale l'umile ragionamento di un singolo individuo".
-Fisico, astronomo, filosofo e matematico è considerato il padre della scienza moderna.
-Il suo nome è associato a importanti contributi in dinamica e in astronomia (legati al perfezionamento del telescopio, che gli permise importanti osservazioni astronomiche) oltre che all'introduzione del metodo scientifico – o metodo galileiano o metodo sperimentale- . Di primaria importanza fu anche il suo ruolo nella rivoluzione astronomica, con il sostegno al sistema eliocentrico e alla teoria copernicana.
+__Innovatore a suo malgrado__, __Galileo__ è stato un vero uomo del Rinascimento, eccellendo in molte aree diverse, dalle scienze alle discipline umanistiche.
+Dice molto del suo modo di essere una sua famosa citazione: 
+
+> "In questioni della scienza, l'autorità di mille non vale l'umile ragionamento di un singolo individuo."
+
+Fisico, astronomo, filosofo e matematico è considerato il __padre della scienza moderna__.
+Il suo nome è associato a importanti contributi in dinamica e in astronomia (legati al perfezionamento del telescopio, che gli permise importanti osservazioni astronomiche) oltre che all'introduzione del metodo scientifico – o metodo galileiano o metodo sperimentale- . Di primaria importanza fu anche il suo ruolo nella __rivoluzione astronomica__, con il sostegno al sistema eliocentrico e alla teoria copernicana.
 Fu un grande osservatore e lo dimostrò con il moto del pendolo prima e grazie all’uso del telescopio poi ma soprattutto fu un innovatore, anche se a suo malgrado.
-Fu sospettato di eresia e accusato di voler sovvertire la filosofia naturale aristotelica e le Sacre Scritture e per questo Galileo fu processato e condannato dal Sant'Uffizio. Combatté sempre? Non proprio, una figura in bilico tra i dettami dello status quo e quello che la sua ragione gli imponeva di affermare. Solo quando non si poté più negare la verità delle sue affermazioni allora poté compiersi la rivoluzione e le sue innovazioni furono veramente tali.
-Come scrisse Brecht in Vita di Galileo: “Il frutto dell'albero della conoscenza. Ecco, lo azzanna subito. Sarà dannato in eterno, ma non può fare a meno di azzannarlo, sciagurato ghiottone!"
+Fu sospettato di eresia e accusato di voler sovvertire la filosofia naturale aristotelica e le Sacre Scritture e per questo Galileo fu processato e condannato dal Sant'Uffizio. Combatté sempre? Non proprio, una figura in bilico tra i dettami dello _status quo_ e quello che la sua ragione gli imponeva di affermare. Solo quando non si poté più negare la verità delle sue affermazioni allora poté compiersi la rivoluzione e le sue innovazioni furono veramente tali.
+Come scrisse Brecht in _Vita di Galileo_: 
+
+> “Il frutto dell'albero della conoscenza. Ecco, lo azzanna subito. Sarà dannato in eterno, ma non può fare a meno di azzannarlo, sciagurato ghiottone!"
  
 
 ### Benjamin Franklin
@@ -172,7 +180,7 @@ Al Reed College di Portland le cose non andarono come previsto: dopo un semestre
 
 ### Jeff Bezos
 ![Jeff Bezos, fondatore di Amazon.com ha rivoluzionato il mondo dell'ecommerce.](http://www.mifacciodicultura.it/wp-content/uploads/2016/01/960-jeff-bezos-lost-74-billion-in-value-last-year.jpg)
-"Devi avere il coraggio di essere frainteso se vuoi innovare" queste le parole di Jeff Bezos, CEO di Amazon.com e attualmente il terzo uomo più ricco al mondo secondo la rivista Forbes. 
+"Devi avere il coraggio di essere frainteso se vuoi __innovare__" queste le parole di Jeff Bezos, CEO di Amazon.com e attualmente il terzo uomo più ricco al mondo secondo la rivista Forbes. 
 Cresciuto in Florida, Jeff ha sviluppato fin da giovane un interesse per le scienze informatiche.
 Nel 1986 si laurea a Princeton in Informatica e Ingegneria elettronica e in seguito lavora per un'azienda di investimenti a NY. Decide di mollare tutto nel 1994. Lascia un lavoro ben pagato e una posizione di prestigio e scommette sulla sua idea: rischia tutto sull'e-commerce. Nacque così Amazon. Inizia la sua attività nel suo garage dove scrive i software per il commerce online e nel 1995 apre il suo bookstore online, raggiunse un successo strepitoso. In soli due mesi guadagnava 20.000 dollari la settimana ed era una cifra destinata a crescere. Oggi continua ad investire nelle persone e nelle idee, anche in Italia. "Abbiamo una mezza dozzina di strutture di ricerca e innovazione in giro per il mondo", spiega. "Abbiamo deciso di aprire un laboratorio anche TORINO perché ha un'università d'eccellenza, questo è il vero motivo: stare dove si sfornano i talenti che ci servono".
 Che ci sia da monito.
@@ -186,7 +194,6 @@ Wales capì quello che si era messo in modo con Wikipedia: una forma esplosiva d
 <style>
 img {
   margin-top: 10px; 
-  border-radius: 3px;
   margin-bottom: 20px
 }
 .sommario{font-size: 12px}
