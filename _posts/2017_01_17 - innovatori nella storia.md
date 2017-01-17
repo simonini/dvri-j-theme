@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Innovatori nella storia
 ---
 # Innovatori nella storia
 Il dizionario definisce innovazione come l’atto, l’opera di innovare, cioè di introdurre nuovi sistemi, nuovi ordinamenti, nuovi metodi di produzione e simili… In questa lista troverete ordinate in ordine cronologico persone che grazie alle loro intuizioni, pur in modo diverso, hanno contribuito al progresso del'umanintà lasciando un'impronta indelebile nella storia.
