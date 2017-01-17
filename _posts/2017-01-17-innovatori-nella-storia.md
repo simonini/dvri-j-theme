@@ -64,7 +64,7 @@ Nel frattempo Freud inizia ad applicare il metodo ipnotico sui pazienti isterici
 La nomina a professore universitario nel 1902 si affianca allo sviluppo della nuova teoria, a cavallo tra interpretazione del mondo dell'inconscio e pratica terapeutica per i disturbi psicoanalitici; alla Psicopatologia della vita quotidiana (1904) e ai Tre saggi sulla teoria sessuale (1905) si affiancano gli studi di famosi "casi clinici". Del 1910 è la fondazione della Società psicoanalitica internazionale, cui aderiscono in un primo momento anche i "discepoli" Jung e Adler.
 Altri studi freudiani (che sviluppano ulteriormente i concetti di Io, Es, Super-io, il noto "complesso di Edipo" e la teoria della sessualità) sono al di là del principio di piacere (1920), L'Io e l'Es (1922) e Il disagio della civiltà (1930).
 La salita al potere del nazismo hitleriano costringe però Freud - da anni malato di cancro - all'esilio a Londra nel 1938, dove lo psicoanalista muore l'anno successivo.
-![](http://a2.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODE2OTA5MzI0.jpg)
+![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](http://a2.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODE2OTA5MzI0.jpg)
 
 ## Nikola Tesla
 Nikola Tesla, grande inventore, ingegnere, e futurista. Tesla contribuì allo sviluppo del moderno sistema elettrico basato sulla corrente alternata. Noto per i suoi esperimenti talvolta rischiosi e per la sua personalità eccentrica, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò un visionario.
@@ -74,17 +74,17 @@ Dimostrò da subito una grande predisposizione per la matematica tanto che la 
 Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito esclusivamente di una lettera di referenze di Charles Batchelor, il suo ultimo capo, indirizzata a Thomas Edison, nella quale c'era scritto: "Conosco due grandi uomini: uno siete voi, l'altro è questo giovane".
 Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il generatore di energia idroelettrica, l’illuminazione a fluorescenza, il motore rotante e la turbina senza pale e molto probabilmente anche la radio. E queste sono solo le invenzioni più famose
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere energia elettrica senza fili utilizzando i principi di risonanza scoperti dallo scienziato serbo più di un secolo prima.
-![](http://www.complottisti.com/wp-content/uploads/2016/01/tesla000.jpg)
+![Tesla, ritratto in bianco e nero, innovatore straordinario nel campo dell'ingegneria](http://www.complottisti.com/wp-content/uploads/2016/01/tesla000.jpg)
 
 ## Marie Curie
 Marie Curie, la prima donna a vincere il premio Nobel Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue dirompenti idee sulla radioattività, nonchè per la scoperta di due elementi chimici: il polonio e il radio. Fu proprio lei a coniare il termine radioattivo e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
 Fu anche la prima donna a diventare professoressa all' Université Paris-Sorbonne e ad essere insignita degli onori al Pantheon di Parigi.
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
-![](http://thebestyoumagazine.co/wp-content/uploads/2013/04/madame-curie.jpg)
+![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](http://thebestyoumagazine.co/wp-content/uploads/2013/04/madame-curie.jpg)
 
 ## Alexander Fleming
 Nel 1928 Alexander Fleming ha scoperto la penicillina. Una scoperta fondamentale per lo sviluppo della medicina. Nel 1945, proprio grazie a questa scoperta, Fleming ha vinto il Nobel per la Medicina. La penicillina è un antibiotico che viene utilizzato contro la maggior parte dei batteri gram positivi come gli stafilococchi e gli streptococchi, contro le spirochete e contro gonococchi e meningococchi. Nel 1928 Fleming ha scoperto che in una piastra di coltura contaminata da una muffa la crescita batterica era inibita. In questo modo è arrivato così a scoprire la penicillina G, che poi ha dato origine a tutte le altre penicilline. Soltanto dal 1941 si è iniziato ad utilizzare la penicillina contro le infezioni batteriche, mentre dal 1943 gli Stati Uniti hanno iniziato a produrla a livello industriale.
-![](http://thumbs.media.smithsonianmag.com//filer/Alexander-Fleming-penicillin-631.jpg__800x600_q85_crop.jpg)
+![Fleming, rivoluziona la medicina con la scoperta dell'antibiotico, qui è ritratto nel suo laboratorio](http://thumbs.media.smithsonianmag.com//filer/Alexander-Fleming-penicillin-631.jpg__800x600_q85_crop.jpg)
 
 ## Coco Chanel
 Gabrielle Bonheure Chanel, emblema di eleganza ma che non ha mai dimenticato che una donna, prima di tutto, deve sentirsi comoda e a proprio agio nelle proprie vesti.
