@@ -36,7 +36,7 @@ Come scrisse Brecht in _Vita di Galileo_:
  
 
 ### Benjamin Franklin
-![Benjamin Franklin, ritratto, innovatore nella politica e nelle scienze](http://www.bellevuerarecoins.com/wp-content/uploads/2016/04/benjamin-franklin.jpg)
+![Benjamin Franklin, ritratto, innovatore nella politica e nelle scienze](../assets/posts/innovatori/ben.jpg)
 Uno dei __padri fondatori degli Stati Uniti d'America__, Franklin fu anche un brillante ed eclettico inventore, teorico politico, scienziato, uomo di stato e scrittore. Benjamin aveva una prodigiosa mente scientifica e i suoi interessi spaziavano __dalle materie socio-politiche alle discipline scientifiche in modo naturale e continuativo__. Oltre alla politica lui è forse ancora più noto per il suoi esperimenti di illuminazione ed elettricità.  
 Come __scienziato__, diede contributi importanti allo studio dell'__elettricità__ e fu un appassionato di meteorologia e anatomia. Fu __l'inventore del parafulmine__, le __lenti bifocali__, l'armonica a bicchieri e un modello di stufa-caminetto noto nel mondo anglosassone come stufa Franklin. 
 Già all'età di 11 anni diede prova della sua genialità realizzando la sua prima invenzione: delle pinne per nuotare in legno, che si adattano sulle mani e piedi che gli permette di nuotare molto più velocemente. 
