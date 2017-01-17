@@ -105,7 +105,7 @@ Gabrielle Bonheure Chanel, emblema di eleganza ma che non ha mai dimenticato che
 Coco, come veniva chiamata, rivoluzionò completamente lo stile vestiario femminile a partire dalla seconda decade del '900, come dice lei stessa: «Finiva un mondo, un altro stava per nascere. Io stavo là; si presentò un'opportunità, la presi. Avevo l'età di quel secolo nuovo che si rivolse dunque a me per l'espressione del suo guardaroba. Occorreva semplicità, comodità, nitidezza: gli offrii tutto questo, a sua insaputa.» Coco rifiutò i fronzoli e le scomodità che l'abbigliamento della Belle Époque Europe ancora imponeva: per prima cosa era necessario eliminare i corsetti che impedivano alle donne la libertà nei movimenti. La sua ascesa inizia tuttavia con i cappelli: eliminò piume e fiocchi e al loro posto vi fece risplendere l'austerità. Cresciuta in un convento di monache si dice che fu molto influenzata dallo stile semplice del luogo. Diede molto spazio al nero e seppe valorizzare la sensualità femminile invertendo la tendenza della scollatura, al contrario coprendo e lasciando correre l'immaginazione. Esplorò il potenziale di molti tessuti sconosciuti alla moda francese dell'epoca: il 1916 è l'anno del Jersey, poi fu la volta del tweed scozzese infine nel 1925 durante l'Exposition des Arts Décoratifs et Industriels Modernes, una rassegna delle innovazioni nelle arti applicate, la sua consacrazione fu completa. 
 Dal lancio della moda del capello corto al tubino nero, passò per il blue marine e per le magliette a righe: le innovazioni artistiche e culturali di Coco furono determinanti per le generazioni future di donne.
 Ma in fondo solo una cosa muoveva l'arte di questa grande stilista e innovatrice: un abbigliamento a servizio delle donne.
-![](http://www.edesseredonna.it/wp-content/uploads/2015/03/coco-chanel1.jpg)
+![Coco Chanel, in posa mentre indossa delle sue creazioni. È considerata il simbolo di una eleganza moderna. Innovò e rivoluziono il modo di vestire di intere generazioni.](http://www.edesseredonna.it/wp-content/uploads/2015/03/coco-chanel1.jpg)
 
 ---
 
@@ -122,7 +122,7 @@ Amelia Earhart offre altri assaggi di avventura con i voli che effettua ne1 1935
 Il suo sogno più grande rimane però quello il giro del mondo in aeroplano. Inizia l'impresa, ma raggiunti circa i due tezri del viaggio, oltre 22.000 miglia, Amelia scompare, perdendosi misteriosamente insieme al copilota Frederick Noonan per mai più tornare. E' il 2 luglio del 1937.
 Una delle ipotesi formulate fu che la donna fosse una spia caduta in quell'occasione prigioniera dai giapponesi.
 Nel 2009 è stato realizzato un film biografico sulla sua vita dal titolo "Amelia", con Richard Gere e Hilary Swank nel ruolo dell'aviatrice.
-![](http://i.huffpost.com/gen/2222664/images/o-AMELIA-EARHART-PLANE-facebook.jpg)
+![Amelia Earhart insieme al suo aereo. È La prima donna ad attraversare in solitaria l'Oceano Atlantico.](http://i.huffpost.com/gen/2222664/images/o-AMELIA-EARHART-PLANE-facebook.jpg)
 
 ---
 
@@ -134,7 +134,7 @@ Trasferitosi ad Hollywood, Disney fondò col fratello Roy i Disney Brothers Stud
 Disney iniziò a pensare a un nuovo personaggio: Mortimer Mouse. La moglie Lilian cambiò il nome in Mickey Mouse (Topolino), che suonava meglio, e quindi Disney insieme ad un collaboratore di vecchia data, Ub Iwerks, produsse il primo cartoon di Topolino, "Plane Crazy", muto, che passò inosservato alla sua uscita, nel 1928. Ispirato dal film Il cantante Jazz, Disney realizzò "Steamboat Willie", presentato al Colony Theater di New York il 18 novembre 1928. Il cartoon ebbe un grande successo e segnò l'iniziò della sua carriera come disegnatore e animatore. Walt si specializzò nella creazione di animali antropomorfizzati come Topolino, Paperino, Pluto e Pippo. Il suo enorme talento lo portò, nel decennio compreso tra il 1927 e il 1937, a sperimentare l'abbinamento di musica, colore e suono al disegno animato. Raggiunse la vetta del successo grazie ai suoi lungometraggi animati. Il trionfo di Biancaneve e i sette nani aprì la strada alla produzione di favole per i più piccoli ed il suo successo motivò Walt Disney alla produzione di altri film di animazione come Pinocchio, Fantasia Dumbo e Bambi.
 Alla fine degli anni '40, iniziò la produzione di Cenerentola che diede il via a un periodo d'oro per Walt Disney, durante il quale il suo impero economico iniziò ad espandersi. 
 Curiosità: il vero padre di Topolino è Ub Iwerks, disegnatore originale del celebre topo. Disney che aveva partecipato alla sua messa a punto, si occupò di sonorizzarlo e di dargli il colore.
-![](http://www.wordsinfreedom.com/wp-content/uploads/2016/11/walt-disney.jpg)
+![Walt Disney insieme alle sue creature più note: Topolino, Pippo e Paperino, ha innovato in modo straordinario nel campo dell'animazione.](http://www.wordsinfreedom.com/wp-content/uploads/2016/11/walt-disney.jpg)
 
 ---
 
@@ -148,7 +148,7 @@ Dal 1993 al 1998 presiede l'Istituto dell'Enciclopedia Italiana. È membro delle
 Nel 1992 istituisce, assieme alla sorella gemella Paola, la Fondazione Levi Montalcini, in memoria del padre, rivolta alla formazione e all'educazione dei giovani, nonché al conferimento di borse di studio a giovani studentesse africane a livello universitario. L'obiettivo è quello di creare una classe di giovani donne che svolgano un ruolo di leadership nella vita scientifica e sociale del loro paese.
 In data 22 gennaio 2008 l'Università di Milano Bicocca le ha assegnato la laurea honoris causa in biotecnologie industriali.
 Rita Levi Montalcini muore alla straordinaria età di 103 anni il 30 dicembre 2012 a Roma.
-![](http://leganerd.com/wp-content/uploads/2012/12/rita-levi-montalcini-morta.jpeg)
+![Rita Leve Montalcini in laboratorio insieme ai suoi](http://leganerd.com/wp-content/uploads/2012/12/rita-levi-montalcini-morta.jpeg)
 
 ---
 
@@ -209,4 +209,6 @@ Wales capì quello che si era messo in modo con Wikipedia: una forma esplosiva d
 
 <style>
 img {margin-top: 20px; border-radius: 3px}
+.sommario{font-size: 12px}
+.sommario .toc-h3{padding-left: 12px}
 </style>
