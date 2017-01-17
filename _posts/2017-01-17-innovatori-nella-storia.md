@@ -65,9 +65,6 @@ La nomina a professore universitario nel 1902 si affianca allo sviluppo della nu
 Altri studi freudiani (che sviluppano ulteriormente i concetti di Io, Es, Super-io, il noto "complesso di Edipo" e la teoria della sessualità) sono al di là del principio di piacere (1920), L'Io e l'Es (1922) e Il disagio della civiltà (1930).
 La salita al potere del nazismo hitleriano costringe però Freud - da anni malato di cancro - all'esilio a Londra nel 1938, dove lo psicoanalista muore l'anno successivo.
 ![](http://a2.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzODE2OTA5MzI0.jpg)
-### 
- .
- 
 
 ## Nikola Tesla
 Nikola Tesla, grande inventore, ingegnere, e futurista. Tesla contribuì allo sviluppo del moderno sistema elettrico basato sulla corrente alternata. Noto per i suoi esperimenti talvolta rischiosi e per la sua personalità eccentrica, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò un visionario.
@@ -78,25 +75,16 @@ Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito e
 Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il generatore di energia idroelettrica, l’illuminazione a fluorescenza, il motore rotante e la turbina senza pale e molto probabilmente anche la radio. E queste sono solo le invenzioni più famose
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere energia elettrica senza fili utilizzando i principi di risonanza scoperti dallo scienziato serbo più di un secolo prima.
 ![](http://www.complottisti.com/wp-content/uploads/2016/01/tesla000.jpg)
-### 
- .
- 
 
 ## Marie Curie
 Marie Curie, la prima donna a vincere il premio Nobel Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue dirompenti idee sulla radioattività, nonchè per la scoperta di due elementi chimici: il polonio e il radio. Fu proprio lei a coniare il termine radioattivo e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
 Fu anche la prima donna a diventare professoressa all' Université Paris-Sorbonne e ad essere insignita degli onori al Pantheon di Parigi.
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
 ![](http://thebestyoumagazine.co/wp-content/uploads/2013/04/madame-curie.jpg)
-### 
- .
- 
 
 ## Alexander Fleming
 Nel 1928 Alexander Fleming ha scoperto la penicillina. Una scoperta fondamentale per lo sviluppo della medicina. Nel 1945, proprio grazie a questa scoperta, Fleming ha vinto il Nobel per la Medicina. La penicillina è un antibiotico che viene utilizzato contro la maggior parte dei batteri gram positivi come gli stafilococchi e gli streptococchi, contro le spirochete e contro gonococchi e meningococchi. Nel 1928 Fleming ha scoperto che in una piastra di coltura contaminata da una muffa la crescita batterica era inibita. In questo modo è arrivato così a scoprire la penicillina G, che poi ha dato origine a tutte le altre penicilline. Soltanto dal 1941 si è iniziato ad utilizzare la penicillina contro le infezioni batteriche, mentre dal 1943 gli Stati Uniti hanno iniziato a produrla a livello industriale.
 ![](http://thumbs.media.smithsonianmag.com//filer/Alexander-Fleming-penicillin-631.jpg__800x600_q85_crop.jpg)
-### 
- .
- 
 
 ## Coco Chanel
 Gabrielle Bonheure Chanel, emblema di eleganza ma che non ha mai dimenticato che una donna, prima di tutto, deve sentirsi comoda e a proprio agio nelle proprie vesti.
@@ -104,9 +92,6 @@ Coco, come veniva chiamata, rivoluzionò completamente lo stile vestiario femmin
 Dal lancio della moda del capello corto al tubino nero, passò per il blue marine e per le magliette a righe: le innovazioni artistiche e culturali di Coco furono determinanti per le generazioni future di donne.
 Ma in fondo solo una cosa muoveva l'arte di questa grande stilista e innovatrice: un abbigliamento a servizio delle donne.
 ![](http://www.edesseredonna.it/wp-content/uploads/2015/03/coco-chanel1.jpg)
-### 
- .
- 
 
 ## Amelia Earhart
 Amelia Earhart nasce il 24 luglio 1897 ad Atchinson (Kansas) e passa alla storia per essere stata la prima donna ad attraversare in solitaria l'Oceano Atlantico nel 1932. Ricordata tutt'oggi come eroina americana nonché come uno dei più capaci e celebrati aviatori del mondo, è un esempio di coraggio e spirito d'avventura tutto al femminile.
@@ -122,9 +107,6 @@ Il suo sogno più grande rimane però quello il giro del mondo in aeroplano. Ini
 Una delle ipotesi formulate fu che la donna fosse una spia caduta in quell'occasione prigioniera dai giapponesi.
 Nel 2009 è stato realizzato un film biografico sulla sua vita dal titolo "Amelia", con Richard Gere e Hilary Swank nel ruolo dell'aviatrice.
 ![](http://i.huffpost.com/gen/2222664/images/o-AMELIA-EARHART-PLANE-facebook.jpg)
-### 
- .
- 
 
 ## Walt Disney
 Padre e innovatore dell'animazione cinematografica, ancora oggi il suo nome è associato a film, gadget e fumetti creati dalla sua casa di produzione che è divenuta in breve tempo un autentico impero economico su scala mondiale.
@@ -135,9 +117,6 @@ Disney iniziò a pensare a un nuovo personaggio: Mortimer Mouse. La moglie Lilia
 Alla fine degli anni '40, iniziò la produzione di Cenerentola che diede il via a un periodo d'oro per Walt Disney, durante il quale il suo impero economico iniziò ad espandersi. 
 Curiosità: il vero padre di Topolino è Ub Iwerks, disegnatore originale del celebre topo. Disney che aveva partecipato alla sua messa a punto, si occupò di sonorizzarlo e di dargli il colore.
 ![](http://www.wordsinfreedom.com/wp-content/uploads/2016/11/walt-disney.jpg)
-### 
- .
- 
 
 ## Rita Levi Montalcini
 Rita Levi Montalcini nasce il 22 aprile del 1909 a Torino da famiglia ebrea. Entrata alla scuola medica di Levi all'età di vent'anni, si laurea nel 1936. Fermamente intenzionata a proseguire la sua carriera accademica come assistente e ricercatrice in neurobiologia e psichiatria, è costretta, a causa delle leggi razziali emanate dal regime fascista nel 1938, ad emigrare in Belgio insieme a Giuseppe Levi.
@@ -150,9 +129,6 @@ Nel 1992 istituisce, assieme alla sorella gemella Paola, la Fondazione Levi Mont
 In data 22 gennaio 2008 l'Università di Milano Bicocca le ha assegnato la laurea honoris causa in biotecnologie industriali.
 Rita Levi Montalcini muore alla straordinaria età di 103 anni il 30 dicembre 2012 a Roma.
 ![](http://leganerd.com/wp-content/uploads/2012/12/rita-levi-montalcini-morta.jpeg)
-### 
- .
- 
 
 ## Alan Turing
 Molti di voi lo conosceranno grazie al film The Imitation Game che racconta la storia drammatica che questo scienziato - omosessuale nei primi anno '20 del 1900 - e oggi considerato uno dei padri fondatori dell' informatica moderna e dell' intelligenza artificiale
@@ -161,9 +137,6 @@ Fu un visionario: anche se i computer moderni non usano il principio matematico 
 Immaginò infatti una macchina capace di risolvere i problemi, calcoli di ogni ordine e tipo, come quelli che risolvono i nostri pc oggi. La sua più grande intuizione fu di ridurre ogni cosa ad una catena di operazioni logiche attraverso il sistema binario, questo gli permise di affermare che i computer potevano essere in grado di "pensare" autonomamente.
 Morì a soli 41 anni, avvelenato da una mela intrisa di cianuro e non ebbe mai alcuna evidenza di quanto fu lungimirante.
 ![](http://www.resetweb.com/wordpress/wp-content/uploads/2015/09/1402210076738.jpg)
-### 
- .
- 
 
 ## Richard Feynman
 "The first principle is that you must not fool yourself, and you are the easiest person to fool."
@@ -171,9 +144,6 @@ Richard Feynman è considerato dai più il padre delle nanotecnologie; in un su
 Le sue sono state suggestioni che hanno mosso il nostro futuro scientifico in molti ambiti, per esempio nelle Digital Humanities: come far stare l'intera Enciclopedia Britannica in uno spazio inferiore di quello della punta di uno spillo? Ma anche in campo bio-medico il suo estro non fu da meno: si può "ingoiare il dottore" in modo che lavori da dentro? Basterà creare delle piccole mani elettroniche cha lavorano a distanza?
 Beh non male, vero? Quando si dice anticipare i tempi.
 ![](http://www.investortrend.net/wp-content/uploads/2015/02/richard-feynman.jpg)
-### 
- .
- 
 
 ## Temple Grandin
 Temple Grandin nacque in un periodo in cui la sindrome autistica era relativamente poco conosciuta. Essendole stato diagnosticato un danno cerebrale all'età di due anni, fu ospitata in una scuola materna strutturata per tali casi, dove a suo dire fu seguita da buoni insegnanti. Parecchi anni più tardi fu accertata come autistica (formalmente la diagnosi era di Sindrome di Asperger, versione meno grave dello spettro autistico). Afferma di considerarsi fortunata per aver goduto di un buon supporto sia al tempo in cui frequentava la scuola primaria che successivamente.
@@ -185,17 +155,11 @@ Grandin è considerata un'importante attivista sia del movimento in tutela dei d
 Il suo merito principale è stato quello di presentare il punto di vista delle persone autistiche, contribuendo in tal modo all'affinamento di metodologie di intervento più adatte a supportare le persone colpite da questa sindrome.
 Tuttora la Grandin assume antidepressivi e utilizza una speciale apparecchiatura (hug machine) da lei ideata all'età di 18 anni: si tratta della cosiddetta “macchina degli abbracci” che l'ha resa famosa. L'idea le venne osservando l'effetto calmante, sugli animali in procinto di essere visitati o vaccinati dal veterinario, di un'arla di travaglio, nel quale l'animale non riusciva a girarsi, sperimentò uno strumento analogo sui bambini autistici, scoprendo che, in quella condizione, il bambino si lasciava abbracciare. Per questo la chiamò la macchina degli abbracci.
 ![](http://media.salon.com/2013/05/temple_grandin.jpg)
-### 
- .
- 
 
 ## Steve Jobs
 Steven Paul Jobs nasce il 24 febbraio 1955 a Green Bay, California da Joanne Carole Schieble e Abdulfattah "John" Jandali, i quali, essendo ancora giovani studenti universitari, lo danno in adozione quando è ancora in fasce; Steve viene adottato da Paul e Clara Jobs, i quali promisero alla madre biologica che Jobs sarebbe andato all'università.
 Al Reed College di Portland le cose non andarono come previsto: dopo un semestre abbandona l'università ed inizia a lavorare in Atari come programmatore di videogames ma decide comunque di frequentare quei corsi che più lo incuriosiscono: calligrafia e informatica. Nel 1974, coinvolge il suo ex compagno di liceo e caro amico Steve Wozniak nella fondazione di Apple Computer, all'epoca società del tutto artigianale: con la "mela" i due muovono i primi passi verso la fama nel mondo dell'informatica, grazie ai loro modelli di microcomputer particolarmente avanzati e stabili, Apple II e Apple Macintosh. Viene però estromesso dalla Apple a seguito del fallimento del MAC III. Cambia aria per un po' e nel 1986 compra la @Pixar dalla Lucasfilm e nel 1995 sforna quel capolavoro che è Toy Story. Non si arrende però con la mela e riesce così a ri-entrare in Apple come CEO (ma senza stipendio) e porta con sé una grande novità: quello che oggi è conosciuto come il Mac OS X. E continua ad ampliare la sua visione, prima con l' iPod poi con l' iPhone, passando dal mondo musicale a quello della telefonia. Innovare senza mail smettere di immaginare quello che ancora puoi creare, quello che ancora ti manca. O come dice lui "stay hungry, stay foolish".
 ![](http://pratosmart.teo-soft.com/wp-content/uploads/2015/08/steve-jobs.jpg)
-### 
- .
- 
 
 ## Jeff Bezos
 "Devi avere il coraggio di essere frainteso se vuoi innovare" queste le parole di Jeff Bezos, CEO di Amazon.com e attualmente il terzo uomo più ricco al mondo secondo la rivista Forbes. 
@@ -203,9 +167,6 @@ Cresciuto in Florida, Jeff ha sviluppato fin da giovane un interesse per le sci
 Nel 1986 si laurea a Princeton in Informatica e Ingegneria elettronica e in seguito lavora per un'azienda di investimenti a NY. Decide di mollare tutto nel 1994. Lascia un lavoro ben pagato e una posizione di prestigio e scommette sulla sua idea: rischia tutto sull'e-commerce. Nacque così Amazon. Inizia la sua attività nel suo garage dove scrive i software per il commerce online e nel 1995 apre il suo bookstore online, raggiunse un successo strepitoso. In soli due mesi guadagnava 20.000 dollari la settimana ed era una cifra destinata a crescere. Oggi continua ad investire nelle persone e nelle idee, anche in Italia. "Abbiamo una mezza dozzina di strutture di ricerca e innovazione in giro per il mondo", spiega. "Abbiamo deciso di aprire un laboratorio anche TORINO perché ha un'università d'eccellenza, questo è il vero motivo: stare dove si sfornano i talenti che ci servono".
 Che ci sia da monito.
 ![](http://www.mifacciodicultura.it/wp-content/uploads/2016/01/960-jeff-bezos-lost-74-billion-in-value-last-year.jpg)
-### 
- .
- 
 
 ## Jimmy Wales
 Oggi conosciamo Jimmy -Jimbo- Wales, fondatore di Wikipedia, Wikimedia Foundation e Wikia. Ha costruito la più grande enciclopedia online di tutti i tempi. Nasce come imprenditore di mediocre successo, ma con un segreto: ha sempre avuto un animo da filosofo libertario, fin dall'università è stato un acceso cultore dell'oggettivismo, una corrente di pensiero che contempera individualismo e comunità, attraverso la ragione comune e con il minimo peso dello Stato. Inizialmente tentò di creare Nupedia, un start up che nei suoi piani originali avrebbe dovuto creare un'enciclopedia a pagamento capace di confrontarsi con l' Encarta di Microsoft. Ma a dodici mesi di lavoro Nupedia ancora stentava a decollare. Poche voci, alti costi, pochissimi accessi. Fu per questo che Wales e Larry Sanger, il suo redattore, decisero di chiedere l'aiuto della rete. E utilizzarono uno strumento web allora agli inizi, il Wiki, un sito dove tutti possono scrivere, correggere, modificare. Ovviamente in modo controllato, e sotto la supervisione di moderatori.
