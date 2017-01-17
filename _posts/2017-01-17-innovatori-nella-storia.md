@@ -74,7 +74,7 @@ Scompare a West Orange, nel New Jersey, il 18 ottobre dell'anno 1931, a 84 anni 
 
 ### Sigmund Freud
 ![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](../assets/posts/innovatori/freud.jpg)
-Sigismund Schlomo Freud, conosciuto come Sigmund Freud, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).  
+Sigismund Schlomo Freud, conosciuto come __Sigmund Freud__, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).  
 Il padre di Freud è un ebreo laico, che non trasmette al figlio un'educazione di stampo religioso-fideistico o tradizionalista. Quando Sigmund ha appena quattro anni, la famiglia si sposta a Vienna per motivi legati al lavoro del padre, che commerciava in lana.  
 Nonostante il disinteresse paterno per l'argomento, Sigmund inizia ad appassionarsi allo studio del testo biblico sin da giovane, e la storia e la tradizione del suo popolo giocheranno un ruolo non indifferente nella sua produzione successiva (per altro, in un contesto sociale come quello viennese di strisciante antisemitismo).  
 Sigmund si diploma a diciassette anni nell'istituto superiore "Sperl Gymnasium", e dà prova delle sue particolare attitudini intellettive; nel 1873 s'iscrive alla Facoltà di Medicina dell'università di Vienna, dove conclude gli studi nel 1881, dedicandosi nel frattempo alla ricerca psicoterapeutica.  
@@ -88,13 +88,24 @@ La salita al potere del nazismo hitleriano costringe però Freud - da anni malat
 
 ### Nikola Tesla
 ![Tesla, ritratto in bianco e nero, innovatore straordinario nel campo dell'ingegneria](../assets/posts/innovatori/tesla.jpg)
-Nikola Tesla, grande inventore, ingegnere, e futurista. Tesla contribuì allo sviluppo del moderno sistema elettrico basato sulla corrente alternata. Noto per i suoi esperimenti talvolta rischiosi e per la sua personalità eccentrica, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò un visionario.
-"La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità" scrisse Nikola Tesla nella sua autobiografia.
+__Nikola Tesla__, grande inventore, ingegnere, e futurista. Tesla __contribuì allo sviluppo del moderno sistema elettrico__ basato sulla __corrente alternata__. Noto per i suoi esperimenti talvolta rischiosi e per la sua _personalità eccentrica_, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò __un visionario__.
+
+<blockquote>
+ "La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità" 
+<footer><cite>Nikola Tesla, autobiografia.</cite></footer>
+</blockquote>
+
 Fin da piccolo mostrò uno spiccato interesse per l'elettricità: ancora in tenera età, rimase affascinato dalle piccole scintille che comparivano strofinando il pelo del suo gattino Macak, per un accumulo di elettricità statica. 
-Dimostrò da subito una grande predisposizione per la matematica tanto che la sua insegnante delle elementari sospettava che barasse.
-Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito esclusivamente di una lettera di referenze di Charles Batchelor, il suo ultimo capo, indirizzata a Thomas Edison, nella quale c'era scritto: "Conosco due grandi uomini: uno siete voi, l'altro è questo giovane".
-Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il generatore di energia idroelettrica, l’illuminazione a fluorescenza, il motore rotante e la turbina senza pale e molto probabilmente anche la radio. E queste sono solo le invenzioni più famose
-Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere energia elettrica senza fili utilizzando i principi di risonanza scoperti dallo scienziato serbo più di un secolo prima.
+Dimostrò da subito una grande predisposizione per la matematica tanto che la sua insegnante delle elementari sospettava che barasse.  
+Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito esclusivamente di una lettera di referenze di Charles Batchelor, il suo ultimo capo, indirizzata a Thomas Edison, nella quale c'era scritto: 
+
+<blockquote>
+"Conosco due grandi uomini: uno siete voi, l'altro è questo giovane".
+<footer><cite>Charles Betchelor presenta Nikola Tesla a Thomas Edison</cite></footer>
+</blockquote>
+
+Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il __generatore di energia idroelettrica__, l’illuminazione a fluorescenza, il __motore rotante__ e la turbina senza pale e __molto probabilmente anche la radio__. E queste sono solo le invenzioni più famose.  
+Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere __energia elettrica senza fili__ utilizzando i __principi di risonanza__ scoperti dallo scienziato serbo più di un secolo prima.
 
 ### Marie Curie
 ![Marie Curie, ritratto in laboratorio, innovatrice e primo premio nobel donna](../assets/posts/innovatori/curie.jpg)
