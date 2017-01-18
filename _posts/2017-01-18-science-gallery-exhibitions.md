@@ -5,9 +5,9 @@ title: Science Gallery Exhibitions
 ---
 ![](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg)
 
-Vi siete chiesti cos’è Science Gallery? Ve lo raccontiamo partendo dal cuore di Science Gallery: le esposizioni e le mostre aperte al pubblico nate a Dublino che si sono espanse a Londra, Melbourne, Bangalore e che a breve arriveranno anche a Venezia. Vogliamo raccontarvi la magia di Science Gallery racchiusa nello stupore della scoperta attraverso la scienza…
+## Vi siete chiesti cos’è Science Gallery? Ve lo raccontiamo partendo dal cuore di Science Gallery: le esposizioni e le mostre aperte al pubblico nate a Dublino che si sono espanse a Londra, Melbourne, Bangalore e che a breve arriveranno anche a Venezia. Vogliamo raccontarvi la magia di Science Gallery racchiusa nello stupore della scoperta attraverso la scienza…
 
-Parleremo delle mostre attuali e future di Science Gallery Dublin e di come il successo di alcune di queste mostre abbia convinto altri nodi Science Gallery a riproporle al  pubblico dopo averle rivisitate.
+### Parleremo delle mostre attuali e future di Science Gallery Dublin e di come il successo di alcune di queste mostre abbia convinto altri nodi Science Gallery a riproporle al  pubblico dopo averle rivisitate.
 
 Violence and Design è una mostra di oggetti e sistemi all'intersezione di design e di violenza, caratterizzata da una attenta analisi di entrambi i termini partendo dalla definizione fino ad arrivare a studiarne i limiti.
 Scopriamo come violenza e design siano alla base del normale ordine delle cose di ogni giorno e impariamo a prestare attenzione a conseguenze indesiderate, e al fatto che, all’invisibile effetto della violenza e all’uso improprio del design.
