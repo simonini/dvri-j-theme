@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+published: true
+title: Science Gallery Exhibitions
 ---
 ![](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg)
 
