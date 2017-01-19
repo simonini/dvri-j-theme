@@ -18,13 +18,18 @@ Viviamo in un mondo che è sempre più urbanizzato e interconnesso, sperimentiam
 
 **In questa mostra hanno tentato di trarre le connessioni tra luoghi vicini e lontani, tra le nostre azioni quotidiane e le loro cause e conseguenze, mostrando come la violenza e il design possono agire sia a favore che contro il potere e la realizzazione del cambiamento sociale.** 
 
-![Mostra BLOOD Science Gallery](http://www.dublintown.ie/wp-content/uploads/2016/10/Science-Gallery-.jpg)    
+![Mostra Design and Violence Science Gallery](http://www.dublintown.ie/wp-content/uploads/2016/10/Science-Gallery-.jpg)    
 
-Ispirato alla mostra presso Science Gallery di Dublino nel 2015, BLOOD sarà la prima esibizione cross-network in esecuzione contemporaneamente su due nodi di Science Gallery: Londra e Melbourne. Il sangue è essenziale per la vita, a livello medico e metaforicamente. Dal rituale per la ricerca a mezzo artistico a fluido biologico, il sangue evocherà idee che provocano, sfidano, coinvolgono e invogliano. BLOOD sarà caratterizzato da una serie di caratteristiche ereditate della mostra originale di Science Gallery di Dublino, implementate con nuove eccitanti ed uniche opere provocatorie ed esperienze che esplorano la natura scientifica e simbolica del sangue. ![](http://trinitynews.ie/wp/wp-content/uploads/2014/10/blood-title.png)    Le altre novità arriveranno nel corso di quest’anno, infatti Science Gallery Dublin sta organizzando per i prossimi mesi altre tre mostre su temi attuali che saranno in grado di sorprendere e che provocheranno un'infinità di domande.
+
+Ispirato alla mostra presso Science Gallery di Dublino nel 2015, **BLOOD** sarà la prima esibizione cross-network in esecuzione contemporaneamente su due nodi di Science Gallery: Londra e Melbourne. **Il sangue è essenziale per la vita, a livello medico e metaforicamente.** Dal rituale per la ricerca a mezzo artistico a fluido biologico, il sangue evocherà idee che provocano, sfidano, coinvolgono e invogliano. **BLOOD** sarà caratterizzato da una serie di caratteristiche ereditate della mostra originale di Science Gallery di Dublino, implementate con nuove eccitanti ed uniche opere provocatorie ed esperienze che esplorano la natura scientifica e simbolica del sangue.
+![Mostra Blood Science Gallery](http://trinitynews.ie/wp/wp-content/uploads/2014/10/blood-title.png)
+
+
+
+Le altre novità arriveranno nel corso di quest’anno, infatti Science Gallery Dublin sta organizzando per i prossimi mesi altre tre mostre su temi attuali che saranno in grado di sorprendere e che provocheranno un'infinità di domande.
 
 - **HUMANS NEED NOT APPLY:** la mostra si interrogherà sull’impatto apparentemente grandioso che l'intelligenza artificiale (AI) sta avendo sulla società. La mostra comprenderà dimostrazioni della capacità di intelligenza artificiale ad oggi e della sua creatività, riflettendo su speculazioni di arte e design in un mondo post-lavoro, e si interrogherà su come gli economisti, sociologi ed educatori ci prepareranno (o non ci prepareranno) per un mondo in cui le macchine intelligenti ci supereranno in quasi tutte le attività.
 - **A MAKE NOISE:** tutti possono fare musica. I visitatori saranno gli interpreti accanto a hacker, designer e scienziati che hanno inventato nuovi strumenti e desiderano esplorare nuovi suoni e spartiti.
 - **COLLAPSE:** in questa mostra, ci si chiederà perché il catastrofico può essere diabolicamente divertente, e se c'è qualche verità in queste previsioni lugubri. Potrai unirti a doomers, designer, sognatori e medici mentre ipotizzano i modi 'migliori' in cui il mondo potrebbe finire, quante probabilità ci sono che accada, e ciò che si può (ci auguriamo) fare al riguardo.
-
 
 ![Mostra DVRI - 2017](https://dublin.sciencegallery.com/files/styles/medium_wide_16_9/public/youtube/5qg6ALyw6JU.jpg?itok=ABh3epfP)
