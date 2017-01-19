@@ -12,7 +12,7 @@ _Vi siete chiesti cos’è Science Gallery? Ve lo raccontiamo partendo dal cuore
 
 > Il **design** è ovunque. Non è solo appannaggio di professionisti, non si trova solo in oggetti di design ''. Il design può essere configurarsi in diversi contesti: nele azioni ordinarie e nelle cose che ci circondano. Le mostra identifica sia le forze che contribuiscono a dare una forma di progettazione, sia gli effetti che  gli oggetti e  i sistemi "di design" hanno sulla nostra vita quotidiana. Anche qui, prestiamo attenzione a conseguenze indesiderate, e al fatto che, mentre il design può fare del bene, può anche essere usato per fare bene 'cose cattive'.  
 
-Accanto a queste definizioni ampie di progettazione e di violenza, abbiamo portato una terza chiave di lettura a supporto della nostra selezione di lavori per l'exhibition: che ** dovrebbe avere qualcosa a che fare con la 'società';**.
+Accanto a queste definizioni ampie di progettazione e di violenza, abbiamo portato una terza chiave di lettura a supporto della nostra selezione di lavori per l'exhibition: che __dovrebbe avere qualcosa a che fare con la 'società'__.
 
 Viviamo in un mondo che è sempre più urbanizzato e interconnesso, sperimentiamo una crescente disuguaglianza economica e affrontiamo in modo sempre più consistente la migrazione dei popoli. Le nuove forme di lavoro, di guerra e di controllo politico sono facilitate dalle tecnologie emergenti. E il danno ambientale - in particolare la più grande minaccia del nostro tempo, i cambiamenti climatici - si configura sempre di più come un risultato violento dei nostri progetti a danno del pianeta.
 
