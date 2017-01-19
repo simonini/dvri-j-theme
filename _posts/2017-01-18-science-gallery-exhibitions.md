@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Science Gallery Exhibitions
 ---
-![](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg) 
+![Immagine del Trinity College di Dublino](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg) 
 
 ##  Parleremo delle mostre in corso e di quelle future di Science Gallery Dublin e di come il successo di alcune di queste mostre abbia convinto altri nodi Science Gallery a riproporle al proprio pubblico. 
 _Vi siete chiesti cos’è Science Gallery? Ve lo raccontiamo partendo dal cuore di Science Gallery: le esposizioni e le mostre aperte al pubblico. Le prime sono nate a Dublino e alcune di loro verranno riproposte anche a Londra, Melbourne e Bangalore, arrivando in futuro anche a Venezia. Vogliamo raccontarvi la magia di Science Gallery racchiusa nello stupore della scoperta attraverso la scienza…  In collaborazione con il MOMA di New York, Violence and Design è una mostra di oggetti e sistemi all'intersezione tra design e violenza, caratterizzata da un'attenta analisi di entrambi i termini, partendo dalla definizione fino ad arrivare a studiarne i limiti._
