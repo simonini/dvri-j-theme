@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Science Gallery Exhibitions
 ---
-![](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg)
+![descrizione](http://3t6ba91znr5aftsk8zjscc91.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/Science-Gallery-at-Trinity-College-Dublin-670x310.jpg)
 
 ## Vi siete chiesti cos’è Science Gallery? Ve lo raccontiamo partendo dal cuore di Science Gallery: le esposizioni e le mostre aperte al pubblico nate a Dublino che si sono espanse a Londra, Melbourne, Bangalore e che a breve arriveranno anche a Venezia. Vogliamo raccontarvi la magia di Science Gallery racchiusa nello stupore della scoperta attraverso la scienza…
 
