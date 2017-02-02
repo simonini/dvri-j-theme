@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+title: STRANGE WEATHER – Previsioni dal futuro
 ---
-# STRANGE WEATHER – Previsioni dal futuro
 ## _Come pensate di scegliere di lavorare, celebrare, vivere e morire quando il tempo diventa “strange”?_
 
 Siamo ossessionati con il tempo. Si tratta di una potente esperienza quotidiana, condivisa, che ci offre un punto di conversazione immediata con cui coinvolgere i nostri concittadini. Eppure, quando si parla di **cambiamento climatico** il senso di colpa o di impotenza è sufficiente per uccidere la conversazione.
