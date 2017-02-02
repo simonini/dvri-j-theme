@@ -31,7 +31,7 @@ Quinto nodo del [Global Science Gallery Network](https://venice.sciencegallery.c
 
 ### Candidature e richeste
 I candidati interessati sono invitati a inviare la propria candidatura (CV e lettera motivazionale) a **selezione.fondazione.cafoscari@unive.it**, con oggetto **"Direttore - Science Gallery di Venezia"** con Fabio Poles **fabio.poles@unive.it** in copia carbone.
-Il bando completo è disponibile a questo link.
+Il bando completo è disponibile a questo [link](http://www.unive.it/data/12108/).
 **Il termine ultimo per la ricezione delle domande è il 17 febbraio, 2017.**
 
 _Fondazione Università Ca 'Foscari è un datore di lavoro che rispetta il principio delle pari opportunità e incoraggia le candidature di donne e delle minoranze._
