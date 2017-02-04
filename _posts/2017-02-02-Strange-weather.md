@@ -14,15 +14,15 @@ Mettendo insieme opere di artisti, designer, scienziati, meteorologi e gli ingeg
 All’interno di **STRANGE WEATHER** si troveranno numerose mostre e progetti per analizzare, scoprire e toccare con mano per quanto possibile il clima. Tra le exhibits più interessanti troviamo SurvivaBall, Cloud Pink, The Weather War.
 
 ### SurvivaBall – The Yes Men (US)
-- Il progetto SurviveBall si basa su una tecnologia avanzata che non mancherà di tenere i manager aziendali al sicuro anche quando il cambiamento climatico renderà la vita così come la conosciamo impossibile. "Il SurvivaBall è progettato per proteggere il manager aziendale, non importa ciò che madre natura getta sulla sua strada", ha detto Fred Wolf, un rappresentante Halliburton. "Questa tecnologia è l'unica risposta razionale ai cambiamenti climatici improvvisi."
+Il progetto SurviveBall si basa su una tecnologia avanzata che non mancherà di tenere i manager aziendali al sicuro anche quando il cambiamento climatico renderà la vita così come la conosciamo impossibile. "Il SurvivaBall è progettato per proteggere il manager aziendale, non importa ciò che madre natura getta sulla sua strada", ha detto Fred Wolf, un rappresentante Halliburton. "Questa tecnologia è l'unica risposta razionale ai cambiamenti climatici improvvisi."
 ![SurviveBall](http://media.treehugger.com/assets/images/2011/10/Yes-Men-With-Survivaballs.jpg)
 
 ### Cloud Pink – Everyware (KR)
-- Non sarebbe sorprendente se potessimo sentire le nuvole a portata di mano? Con questo progetto si potranno toccare le nuvole alla deriva su uno schermo gigante di tessuto e tornare per un momento ai sogni della vostra infanzia. Questa mostra interattiva, infatti, si basa su una tecnologia di rilevamento della profondità per simulare un mondo in cui gli esseri umani possono raggiungere fino e manipolare modelli di tempo atmosferico con il proprio corpo.
+Non sarebbe sorprendente se potessimo sentire le nuvole a portata di mano? Con questo progetto si potranno toccare le nuvole alla deriva su uno schermo gigante di tessuto e tornare per un momento ai sogni della vostra infanzia. Questa mostra interattiva, infatti, si basa su una tecnologia di rilevamento della profondità per simulare un mondo in cui gli esseri umani possono raggiungere fino e manipolare modelli di tempo atmosferico con il proprio corpo.
 ![Cloud Pink](http://mechanicaldummy.com/wp/wp-content/uploads/2012/04/cloud4.jpeg)
 
 ### The Weather War - Bigert & Bergström (SE)
-- The Weather War è un film che ha l’obbiettivo di tracciare la lotta storica e contemporanea, tra l'uomo e il clima artificiale mentre ci avviciniamo al punto di non ritorno. Insieme all'inseguitore di tempeste e meteorologo canadese Mark Robinson, i creatori del film viaggiano per il Midwest degli Stati Uniti, per filmare e documentare i modelli meteorologici sempre più ostili che si stanno sviluppando oggi.
+The Weather War è un film che ha l’obbiettivo di tracciare la lotta storica e contemporanea, tra l'uomo e il clima artificiale mentre ci avviciniamo al punto di non ritorno. Insieme all'inseguitore di tempeste e meteorologo canadese Mark Robinson, i creatori del film viaggiano per il Midwest degli Stati Uniti, per filmare e documentare i modelli meteorologici sempre più ostili che si stanno sviluppando oggi.
 ![The Weather War](https://files.list.co.uk/images/2014/04/23/tornadodiverterside-lst136559.jpg)
 
 
