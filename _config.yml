@@ -6,3 +6,4 @@ gems:
   - jekyll-sitemap  
 enviroment: production
 permalink: "/:title.html"
+url: "http://distrettovenezianoricerca.it/"
