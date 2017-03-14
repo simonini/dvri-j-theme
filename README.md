@@ -1,2 +1,2 @@
 # Introduzione
-Sito per DVRI (Distretto Veneziano della Ricerca)
+Sito per DVRI (<a href="http://distrettovenezianoricerca.it/">Distretto Veneziano della Ricerca</a>)
