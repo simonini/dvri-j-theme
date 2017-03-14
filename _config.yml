@@ -5,5 +5,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap  
 enviroment: production
-baseurl: ""
 permalink: "/:title.html"
