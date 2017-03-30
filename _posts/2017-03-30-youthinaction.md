@@ -1,6 +1,10 @@
 ---
-published: false
+layout: post
+title: Youth in Action for Sustainable Development Goals
+published: true
+toc: true
 ---
+
 ## Youth in Action for Sustainable Development Goals
 
 Oggi [Radio Ca’ Foscari](radiocafoscari.it) in collaborazione con il DVRI ha intervistato Anna Puccio, direttore generale [Fondazione Italiana Accenture (FIA)](fondazioneaccenture.it) , promotrice del nuovo concorso dedicato ai giovani  relativo al tema della sostenibilità.
