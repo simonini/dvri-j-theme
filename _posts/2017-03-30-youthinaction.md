@@ -12,6 +12,8 @@ Già l’anno scorso FIA, Ca’ Foscari e DVRI hanno collaborato sul progetto [V
 
 ![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE.png)
 
+<iframe src="https://widget.spreaker.com/player?episode_id=11514756&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7f2ff23a2c94dd6e711842848301bafd.jpg" width="100%" height="100px" frameborder="0"></iframe>
+
 ### Che cos’ e [Youth in Action for Sustainable Devolpment Goals](http://youthinactionforsdgs.ideatre60.it/)?
 
 ![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE2.png)
