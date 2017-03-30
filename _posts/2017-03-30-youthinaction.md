@@ -27,15 +27,10 @@ A ciascuno dei proponenti delle idee progettuali vincitrici sarà messo a dispos
 Inoltre, la migliore idea progettuale volerà a New York all’ ICSD 2017, la più importante conferenza mondiale sui temi dello sviluppo sostenibile.
 
 ### LE FASI DEL CONCORSO:
-**• Candidatura idee progettuali:**
-14/03/2017- 04/05/2017
-**• Selezione delle idee progettuali finaliste:**
-11/05/2017- 22/05/2017
-**• Workshop riservato alle idee progettuali finaliste:**
-05/06/2017
-**• Selezione e proclamazione delle idee progettuali vincitrici:**
-06/06/2017
+- ** Candidatura idee progettuali:** 14/03/2017- 04/05/2017
+- ** Selezione delle idee progettuali finaliste:**11/05/2017- 22/05/2017
+- ** Workshop riservato alle idee progettuali finaliste:**05/06/2017
+- ** Selezione e proclamazione delle idee progettuali vincitrici:**06/06/2017
+
 
 Invitiamo tutti i cafoscarini e tutti i giovani ad attivarsi e partecipare!!
-
-
