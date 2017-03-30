@@ -10,15 +10,16 @@ toc: true
 Oggi [Radio Ca’ Foscari](radiocafoscari.it) in collaborazione con il DVRI ha intervistato Anna Puccio, direttore generale [Fondazione Italiana Accenture (FIA)](fondazioneaccenture.it) , promotrice del nuovo concorso dedicato ai giovani  relativo al tema della sostenibilità.
 Già l’anno scorso FIA, Ca’ Foscari e DVRI hanno collaborato sul progetto [VideomakARS](http://distrettovenezianoricerca.it/progetti/video-makars.html), che ha svelato attraverso il racconto audiovisivo di giovani creativi, una Venezia inedita, dove arte scienza e tecnologia si fondono.
 
-![logo contest YOUTH IN ACTION] ({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE.png)
+![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE.png)
+
 ### Che cos’ e [Youth in Action for Sustainable Devolpment Goals](http://youthinactionforsdgs.ideatre60.it/)?
 
-![logo contest YOUTH IN ACTION] ({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE2.png)
+![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE2.png)
 
 È una call for ideas rivolta ai giovani Under 30, che nasce a partire dalla consapevolezza del loro potenziale trasformativo a favore dell’implementazione dell’agenda 2030 e che ha l' obiettivo di raccogliere e premiare i migliori progetti in grado di favorire il raggiungimento degli SDGS.
 Le proposte dovranno mostrare soluzioni innovative, ad alto impatto sociale ed essere connotate da una componente tecnologica e dovranno essere inviate entro il 4 MAGGIO ORE 12.00.
 
-![logo contest YOUTH IN ACTION] ({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE3.png)
+![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE3.png)
 
 Oltre a FIA, il concorso è promosso anche da [Fondazione Eni Enrico Mattei](http://www.feem.it/getpage.aspx?id=3643&lang=ita) e [Fondazione Giangiacomo Feltrinelli](http://www.fondazionefeltrinelli.it/), e realizzato in partnership con: Accenture, Autogrill, A2A, Croce Rossa Italiana, Eataly, Fondazione ACRA, Fondazione Bracco, Fondazione Milano per Expo 2015, Microsoft, MM, TechSoup, UBI Banca, UniCredit, Unipol, Vox Diritti, WWF.	
 
