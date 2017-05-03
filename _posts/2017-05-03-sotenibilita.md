@@ -11,7 +11,7 @@ toc: true
 Il DVRI, in collaborazione con Radio Ca’ Foscari, ha intervistato Fabio Pranovi, professore di Ecologia presso il Dipartimento di Scienze Ambientali dell’Università Ca’ Foscari di Venezia.
 Il prof Pranovi si occupa soprattutto di sostenibilità nell’ambito del consumo di risorse naturali, e dal 2015 per conto dell’Università Ca’ Foscari si dedica a sviluppare il tema della sostenibilità sia dentro che fuori dal Campus, con una particolare attenzione alle interazioni con il patrimonio artistico e culturale della città.
 
-<iframe src="https://widget.spreaker.com/player?episode_id=11774236&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2Feaa4b159720dbb8b64ee51b14aba76d7.jpg" width="100%" height="400px" frameborder="0"></iframe>
+<iframe src="https://widget.spreaker.com/player?episode_id=11774236&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2Feaa4b159720dbb8b64ee51b14aba76d7.jpg" width="100%" height="100px" frameborder="0"></iframe>
 
 ### Ca’ Foscari e sostenibilità
 Il prof. Pranovi sottolinea l’importanza del ruolo delle istituzioni, soprattutto le università, come incubatrici di cambiamento per le generazioni future, attraverso la promozione di relazioni sempre più strette con il territorio in accordo con il principio di Urban Institution. 
