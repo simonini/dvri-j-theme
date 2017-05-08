@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Youth in Action for Sustainable Development Goals
+title: Sostenibilità e Istituzioni? Ai microfoni con Ca' Foscari Sostenibile
 published: true
 toc: true
 ---
