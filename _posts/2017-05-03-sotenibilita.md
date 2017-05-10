@@ -20,7 +20,6 @@ Negli ultimi anni Ca’ Foscari infatti, ha lavorato molto per raggiungere obiet
 Oggi, per fare davvero la differenza, bisogna parlare di sostenibilità integrata: creare un contesto che includa non solo sostenibilità ambientale, economica e sociale ma che coinvolga soprattutto le istituzioni. Tra le maggiori sfide che dovranno affrontare le istituzioni culturali veneziane, rientra l’applicazione sul territorio degli obiettivi sostenibili previsti dall’agenda 2030. 
 
 ### Che cos’è l’Agenda 2030?
-![ca foscari sostenibile]({{site.baseurl}}/assets/posts/sostenibile_1.jpeg)
 
 L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le persone, il pianeta e la prosperità sottoscritto nel settembre 2015 dai governi dei 193 Paesi membri dell’ONU. Essa ingloba 17 Obiettivi per lo Sviluppo Sostenibile - Sustainable Development Goals, SDGs - in un grande programma d’azione per un totale di 169 ‘target’ o traguardi. L’avvio ufficiale degli Obiettivi per lo Sviluppo Sostenibile ha coinciso con l’inizio del 2016, guidando il mondo sulla strada da percorrere nell’arco dei prossimi 15 anni: i Paesi, infatti, si sono impegnati a raggiungerli entro il 2030. Per raggiungere uno sviluppo sostenibile è importante armonizzare tre elementi fondamentali: la crescita economica, l’inclusione sociale e la tutela dell’ambiente.	
 
