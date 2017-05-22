@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #DVRI4Sustainability
+title: DVRI4Sustainability
 published: true
 toc: true
 ---
