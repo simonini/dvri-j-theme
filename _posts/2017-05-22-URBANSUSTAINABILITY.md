@@ -16,7 +16,7 @@ La seconda sessione, sarà quella operativa: dopo aver introdotto il format dei 
 
 L’evento terminerà con un aperitivo di networking e con le interviste da parte di Radio Ca’ Foscari.
 
-Non dimenticate di seguire il nostro profilo Facebook (Distretto Veneziano Della Ricerca e Innovazione) e account twitter (@DVRIVenice), per rimanere in attesa di nuove notizie. 
+**Non dimenticate di seguire il nostro profilo Facebook (Distretto Veneziano Della Ricerca e Innovazione) e account twitter (@DVRIVenice), per rimanere in attesa di nuove notizie.**
 
-Seguiteci all’hashtag #DVRI4Sustainability per non perdervi i momenti salienti dell’evento!
+Seguiteci all’hashtag **#DVRI4Sustainability** per non perdervi i momenti salienti dell’evento!
 
