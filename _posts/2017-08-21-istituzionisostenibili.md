@@ -1,18 +1,14 @@
 ---
 layout: post
-title: SocialEvent 2017: quanto possono dirsi sostenibili le Istituzioni del DVRI?
+title: "SocialEvent 2017: Quanto possono dirsi sostenibili le Istituzioni del DVRI?"
 published: true
 toc: true
 ---
+
 ## SocialEvent 2017: quanto possono dirsi sostenibili le Istituzioni del DVRI?
 
-### SocialEvent 2017: Urban Sustainibility
-### La sostenibilità spiegata da Fabio Pranovi
-### Dalle parole ai fatti: Progetti Sostenibili
-### Il progetto Tavoli della Sostenibilità
-
 ![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se-report.jpg)
-Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibilità dei propri Soci tramite l’esame dell’[Agenda 2030 per lo Sviluppo Sostenibile](www.asvis.it/agenda-2030/) condotto dal Prof. Fabio Pranovi e il nuovo format dei Tavoli della Sostenibilità. 
+Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibilità dei propri Soci tramite l’esame dell’[Agenda 2030 per lo Sviluppo Sostenibile](www.asvis.it/agenda-2030/) condotto dal Prof. Fabio Pranovi e il nuovo format dei Tavoli della Sostenibilità.
 
 ### SocialEvent 2017: Urban Sustainibility
 
@@ -34,7 +30,5 @@ Angela Palmieri e Irene Chini hanno presentato il progetto RE-StArt VEGA: la col
 ![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se-report3.jpg)
 
 Il team del DVRI ha inaugurato un nuovo format di ricerca, i Tavoli della Sostenibilità: i rappresentanti dei 13 Istituti riuniti hanno formato tre gruppi di lavoro e discusso di uno dei 17 Obiettivi dell’Agenda 2030; l’intento era coniugare l’esperienza e le risorse di ciascun Ente per poter generare nuove proposte di Sviluppo Sostenibile.
-L’attività proposta è risultata efficiente e innovativa, avendo permesso la formazione di un concetto più ampio e variegato di sostenibilità e l’acquisizione di nuovi punti di vista. 
+L’attività proposta è risultata efficiente e innovativa, avendo permesso la formazione di un concetto più ampio e variegato di sostenibilità e l’acquisizione di nuovi punti di vista.
 Tutti i partecipanti hanno concordato nell’affermare che la continuità di questo format determinerà il suo successo in futuro.
-
- 
