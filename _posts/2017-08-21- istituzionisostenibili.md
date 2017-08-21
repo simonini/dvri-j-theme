@@ -37,3 +37,4 @@ Il team del DVRI ha inaugurato un nuovo format di ricerca, i Tavoli della Sosten
 L’attività proposta è risultata efficiente e innovativa, avendo permesso la formazione di un concetto più ampio e variegato di sostenibilità e l’acquisizione di nuovi punti di vista. 
 Tutti i partecipanti hanno concordato nell’affermare che la continuità di questo format determinerà il suo successo in futuro.
 
+ 
