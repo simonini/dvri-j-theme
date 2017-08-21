@@ -7,7 +7,7 @@ toc: true
 
 ## SocialEvent 2017: quanto possono dirsi sostenibili le Istituzioni del DVRI?
 
-![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se-report.jpg)
+![DVRI Social Event]({{site.baseurl}}/assets/posts/se_report/se_report.jpg)
 Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibilità dei propri Soci tramite l’esame dell’[Agenda 2030 per lo Sviluppo Sostenibile](www.asvis.it/agenda-2030/) condotto dal Prof. Fabio Pranovi e il nuovo format dei Tavoli della Sostenibilità.
 
 ### SocialEvent 2017: Urban Sustainibility
@@ -15,7 +15,7 @@ Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibi
 Il SocialEvent 2017 è stato incentrato sul concetto di sostenibilità, e su come questo venga recepito dai diversi Enti Soci del DVRI; lo spunto è venuto dall’esame dell’Agenda 2030 per lo Sviluppo Sostenibile, strumento sviluppato dall’ONU nel 2015 al fine di prevenire il collasso ipotizzato per il 2030.
 
 ### La sostenibilità spiegata da Fabio Pranovi
-![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se-report2.jpg)
+![DVRI Social Event]({{site.baseurl}}/assets/posts/se_report/se_report2.jpg)
 
 Fabio Pranovi, professore di Ecologia presso il Dipartimento di Scienze Ambientali dell’Università Ca’ Foscari di Venezia, ha illustrato il concetto di Sostenibilità illustrato all’interno dell’Agenda 2030: i 193 paesi membri delle Nazioni Unite hanno siglato un accordo costituito da 17 Goals da raggiungere entro il 2030; l’obiettivo è raggiungere un quadruplice sviluppo sostenibile, Economico, Ambientale, Sociale e Istituzionale.
 Dalle opinioni raccolte nel corso delle interviste condotte dal team del DVRI, è emersa la propensione degli istituti del Network a considerare la sostenibilità in termini ambientali e culturali; il Goal che risulta maggiormente perseguito è l’Obiettivo n.11 - Rendere le città e gli insediamenti umani inclusivi, duraturi e sostenibili.
@@ -27,7 +27,7 @@ Per quanto concerne l’integrazione tra i diversi Istituti della rete, questo r
 Angela Palmieri e Irene Chini hanno presentato il progetto RE-StArt VEGA: la collaborazione tra le aziende coinvolte e gli artisti selezionati produrrà opere d’arte che rivitalizzeranno gli spazi del Parco Scientifico Tecnologico di Venezia.
 
 ### Il progetto Tavoli della Sostenibilità
-![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se-report3.jpg)
+![DVRI SOCIAL EVENT]({{site.baseurl}}/assets/posts/se_report/se_report3.jpg)
 
 Il team del DVRI ha inaugurato un nuovo format di ricerca, i Tavoli della Sostenibilità: i rappresentanti dei 13 Istituti riuniti hanno formato tre gruppi di lavoro e discusso di uno dei 17 Obiettivi dell’Agenda 2030; l’intento era coniugare l’esperienza e le risorse di ciascun Ente per poter generare nuove proposte di Sviluppo Sostenibile.
 L’attività proposta è risultata efficiente e innovativa, avendo permesso la formazione di un concetto più ampio e variegato di sostenibilità e l’acquisizione di nuovi punti di vista.
