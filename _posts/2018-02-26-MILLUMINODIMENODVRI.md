@@ -1,7 +1,12 @@
 ---
-published: false
 ---
-##Il DVRI per M'illumino di Meno
+layout: post
+title: Il DVRI per M'illumino di Meno
+published: true
+toc: true
+---
+---
+##M'illumino di Meno a Venezia
 
 Per la prima volta anche il DVRI con i suoi soci ha aderito alla campagna "M'illumino di Meno"! L'iniziativa nazionale promossa da Caterpillar -Radio2 è sempre più radicata nel contesto veneziano a cui per la prima volta, guidati da Ca' Foscari Sostenibile, hanno partecipato attivamente anche le istituzioni veneziane e i centri di ricerca del network del DVRI per sostenere comportamenti a favore del risparmio energetico. 
 ![BANNER MILLUMINODIMENO](../assets/posts/BANNER_MILLUMINODIMENO.jpg)
