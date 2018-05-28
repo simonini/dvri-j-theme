@@ -8,7 +8,7 @@ toc: true
 ## SocialEvent 2017: quanto possono dirsi sostenibili le Istituzioni del DVRI?
 
 ![DVRI Social Event]({{site.baseurl}}/assets/posts/se_report/se_report.jpg)
-Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibilità dei propri Soci tramite l’esame dell’[Agenda 2030 per lo Sviluppo Sostenibile](www.asvis.it/agenda-2030/) condotto dal Prof. Fabio Pranovi e il nuovo format dei Tavoli della Sostenibilità.
+Nel corso del SocialEvent 2017 il DVRI ha messo alla prova il grado di sostenibilità dei propri Soci tramite l’esame dell’[Agenda 2030 per lo Sviluppo Sostenibile](http://www.asvis.it/agenda-2030/) condotto dal Prof. Fabio Pranovi e il nuovo format dei Tavoli della Sostenibilità.
 
 ### SocialEvent 2017: Urban Sustainibility
 
