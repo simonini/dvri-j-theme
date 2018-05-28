@@ -114,7 +114,7 @@ Fu anche la __prima donna a diventare professoressa all' Université Paris-Sorb
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
 
 ### Alexander Fleming
-![Fleming, rivoluziona la medicina con la scoperta dell'antibiotico, qui è ritratto nel suo laboratorio](http://thumbs.media.smithsonianmag.com//filer/Alexander-Fleming-penicillin-631.jpg__800x600_q85_crop.jpg)
+![Fleming, rivoluziona la medicina con la scoperta dell'antibiotico, qui è ritratto nel suo laboratorio](http://media.iwm.org.uk/ciim5/32/192/large_000000.jpg)
 Nel 1928 Alexander Fleming ha scoperto la penicillina. Una scoperta fondamentale per lo sviluppo della medicina. Nel 1945, proprio grazie a questa scoperta, Fleming ha vinto il Nobel per la Medicina. La penicillina è un antibiotico che viene utilizzato contro la maggior parte dei batteri gram positivi come gli stafilococchi e gli streptococchi, contro le spirochete e contro gonococchi e meningococchi. Nel 1928 Fleming ha scoperto che in una piastra di coltura contaminata da una muffa la crescita batterica era inibita. In questo modo è arrivato così a scoprire la penicillina G, che poi ha dato origine a tutte le altre penicilline. Soltanto dal 1941 si è iniziato ad utilizzare la penicillina contro le infezioni batteriche, mentre dal 1943 gli Stati Uniti hanno iniziato a produrla a livello industriale.
 
 ### Coco Chanel
