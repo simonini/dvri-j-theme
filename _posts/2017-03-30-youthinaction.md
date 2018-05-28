@@ -23,9 +23,9 @@ Le proposte dovranno mostrare soluzioni innovative, ad alto impatto sociale ed e
 
 ![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE3.png)
 
-Oltre a FIA, il concorso è promosso anche da [Fondazione Eni Enrico Mattei](http://www.feem.it/getpage.aspx?id=3643&lang=ita) e [Fondazione Giangiacomo Feltrinelli](http://www.fondazionefeltrinelli.it/), e realizzato in partnership con: Accenture, Autogrill, A2A, Croce Rossa Italiana, Eataly, Fondazione ACRA, Fondazione Bracco, Fondazione Milano per Expo 2015, Microsoft, MM, TechSoup, UBI Banca, UniCredit, Unipol, Vox Diritti, WWF.	
+Oltre a FIA, il concorso è promosso anche da [Fondazione Eni Enrico Mattei](http://www.feem.it/getpage.aspx?id=3643&lang=ita) e [Fondazione Giangiacomo Feltrinelli](http://www.fondazionefeltrinelli.it/), e realizzato in partnership con: Accenture, Autogrill, A2A, Croce Rossa Italiana, Eataly, Fondazione ACRA, Fondazione Bracco, Fondazione Milano per Expo 2015, Microsoft, MM, TechSoup, UBI Banca, UniCredit, Unipol, Vox Diritti, WWF.
 
-A ciascuno dei proponenti delle idee progettuali vincitrici sarà messo a disposizione da Promotori e Partner uno stage retribuito della durata di minimo 3 fino a un massimo di 6 mesi. 
+A ciascuno dei proponenti delle idee progettuali vincitrici sarà messo a disposizione da Promotori e Partner uno stage retribuito della durata di minimo 3 fino a un massimo di 6 mesi.
 Inoltre, la migliore idea progettuale volerà a New York all’ ICSD 2017, la più importante conferenza mondiale sui temi dello sviluppo sostenibile.
 
 ### LE FASI DEL CONCORSO:
