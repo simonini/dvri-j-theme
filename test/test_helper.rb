@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-
+require 'minitest/pride'
 require 'bundler/setup'
 require 'capybara/dsl'
 require 'rack/jekyll'
