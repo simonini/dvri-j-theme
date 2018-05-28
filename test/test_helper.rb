@@ -1,9 +1,9 @@
-
 require 'minitest/autorun'
 
 require 'bundler/setup'
 require 'capybara/dsl'
 require 'rack/jekyll'
+require 'awesome_print'
 
 Capybara.app = Rack::Jekyll.new(force_build: true)
 
@@ -19,5 +19,11 @@ class CapybaraTestCase < MiniTest::Test
   def teardown
     Capybara.reset_sessions!
     Capybara.use_default_driver
+  end
+end
+
+class DvriSettingTest
+  def self.root_path
+    File.expand_path("..", __dir__)
   end
 end

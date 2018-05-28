@@ -5,6 +5,10 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'travis-custom-deploy', '~> 0.0.6'
 
+group :development, :test do
+  gem 'awesome_print'
+end
+
 group :test do
   gem 'capybara'
   gem 'feedvalidator'

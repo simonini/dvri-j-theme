@@ -1,4 +1,3 @@
-# test/features/this_blog_post_test.rb
 require 'test_helper'
 
 class EditionsCaffeTest < CapybaraTestCase
