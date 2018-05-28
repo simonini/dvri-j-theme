@@ -8,10 +8,11 @@
     {% include big_intro.html title=page.title
                               claim=page.claim
                               page_id=page.page_id
+                              page_link=page.page_id
                               image=page.image
                               position=page.position %}
     </div>
-    
+
     <div class="container pagina" id="pagina-{{page.page_id}}">
         {% include sommario.html%}
         {{ content | inject_anchors }}
