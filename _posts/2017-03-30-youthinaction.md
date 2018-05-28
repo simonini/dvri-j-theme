@@ -7,7 +7,7 @@ toc: true
 
 ## Youth in Action for Sustainable Development Goals
 
-Oggi [Radio Ca’ Foscari](radiocafoscari.it) in collaborazione con il DVRI ha intervistato Anna Puccio, direttore generale [Fondazione Italiana Accenture (FIA)](fondazioneaccenture.it) , promotrice del nuovo concorso dedicato ai giovani  relativo al tema della sostenibilità.
+Oggi [Radio Ca’ Foscari](http://radiocafoscari.it) in collaborazione con il DVRI ha intervistato Anna Puccio, direttore generale [Fondazione Italiana Accenture (FIA)](http://fondazioneaccenture.it) , promotrice del nuovo concorso dedicato ai giovani  relativo al tema della sostenibilità.
 Già l’anno scorso FIA, Ca’ Foscari e DVRI hanno collaborato sul progetto [VideomakARS](http://distrettovenezianoricerca.it/progetti/video-makars.html), che ha svelato attraverso il racconto audiovisivo di giovani creativi, una Venezia inedita, dove arte scienza e tecnologia si fondono.
 
 ![logo contest YOUTH IN ACTION]({{site.baseurl}}/assets/posts/FIA_SOSTENIBILE.png)
