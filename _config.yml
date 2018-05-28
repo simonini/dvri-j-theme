@@ -7,4 +7,4 @@ plugins:
 enviroment: production
 permalink: "/:title:output_ext"
 url: "http://distrettovenezianoricerca.it"
-exclude: ['test', 'LICENSE.txt', 'Rakefile', 'README.md']
+# exclude: ['test', 'LICENSE.txt', 'Rakefile', 'README.md']
