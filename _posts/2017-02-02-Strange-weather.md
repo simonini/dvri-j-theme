@@ -29,7 +29,7 @@ The Weather War è un film che ha l’obbiettivo di tracciare la lotta storica e
 ![The Weather War](https://files.list.co.uk/images/2014/04/23/tornadodiverterside-lst136559.jpg)
 
 
-[Clica qui per scoprire tutte le altre mostre di Science Gallery](https://dublin.sciencegallery.com/archiv)
+[Clica qui per scoprire tutte le altre mostre di Science Gallery](https://dublin.sciencegallery.com/archive)
 
 [**STRANGE WEATHER**](https://dublin.sciencegallery.com/strangeweather)
 _Science Gallery Dublin_

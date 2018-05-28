@@ -12,17 +12,17 @@ Il dizionario definisce __innovazione__ come l’atto, l’opera di __innovare__
 
 ### Leonardo Da Vinci
 ![Leonardo Da Vinci, ritratto e uomo vitruviano, innovatore nella storia](../assets/posts/innovatori/davinci.jpg)
-Chi meglio di lui può essere considerato __innovatore__ oltre/accanto a uomo del rinascimento? __Da Vinci__ è famoso soprattutto per i suoi dipinti come _L'ultima cena_ o la _Mona Lisa_ ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità __innovativa__ è ben individuata da Timpanaro: 
+Chi meglio di lui può essere considerato __innovatore__ oltre/accanto a uomo del rinascimento? __Da Vinci__ è famoso soprattutto per i suoi dipinti come _L'ultima cena_ o la _Mona Lisa_ ma è stato anche un filosofo, un ingegnere e un inventore. È stato capace di immaginarsi e di lasciarci in eredità bozzetti di tecnologie future come l'elicottero, il sistema industriale dell'energia solare, l'automobile o la muta da palombaro. Ma ció che più ha mosso la sua capacità __innovativa__ è ben individuata da Timpanaro:
 
 > "È sua e nuova la curiosità per ogni fenomeno naturale e la capacità di vedere a occhio nudo ciò che a stento si vede con l'aiuto degli strumenti."
 
 Dagli studi di anatomia a quelli di idraulica la sua __innovazione__ non è stata nello spiegare perché, come può fare uno scienziato, ma guardare con occhi nuovi la realtà di sempre.
 
- 
+
 ### Galileo Galilei
 ![Galileo Galilei, ritratto, innovatore nella storia](../assets/posts/innovatori/galileo.jpg)
 __Innovatore a suo malgrado__, __Galileo__ è stato un vero uomo del Rinascimento, eccellendo in molte aree diverse, dalle scienze alle discipline umanistiche.
-Dice molto del suo modo di essere una sua famosa citazione: 
+Dice molto del suo modo di essere una sua famosa citazione:
 
 > "In questioni della scienza, l'autorità di mille non vale l'umile ragionamento di un singolo individuo."
 
@@ -30,17 +30,17 @@ Fisico, astronomo, filosofo e matematico è considerato il __padre della scienz
 Il suo nome è associato a importanti contributi in dinamica e in astronomia (legati al perfezionamento del telescopio, che gli permise importanti osservazioni astronomiche) oltre che all'introduzione del metodo scientifico – o metodo galileiano o metodo sperimentale- . Di primaria importanza fu anche il suo ruolo nella __rivoluzione astronomica__, con il sostegno al sistema eliocentrico e alla teoria copernicana.
 Fu un grande osservatore e lo dimostrò con il moto del pendolo prima e grazie all’uso del telescopio poi ma soprattutto fu un innovatore, anche se a suo malgrado.
 Fu sospettato di eresia e accusato di voler sovvertire la filosofia naturale aristotelica e le Sacre Scritture e per questo Galileo fu processato e condannato dal Sant'Uffizio. Combatté sempre? Non proprio, una figura in bilico tra i dettami dello _status quo_ e quello che la sua ragione gli imponeva di affermare. Solo quando non si poté più negare la verità delle sue affermazioni allora poté compiersi la rivoluzione e le sue innovazioni furono veramente tali.
-Come scrisse Brecht in _Vita di Galileo_: 
+Come scrisse Brecht in _Vita di Galileo_:
 
 > “Il frutto dell'albero della conoscenza. Ecco, lo azzanna subito. Sarà dannato in eterno, ma non può fare a meno di azzannarlo, sciagurato ghiottone!"
- 
+
 
 ### Benjamin Franklin
 ![Benjamin Franklin, ritratto, innovatore nella politica e nelle scienze](../assets/posts/innovatori/ben.jpg)
-Uno dei __padri fondatori degli Stati Uniti d'America__, Franklin fu anche un brillante ed eclettico inventore, teorico politico, scienziato, uomo di stato e scrittore. Benjamin aveva una prodigiosa mente scientifica e i suoi interessi spaziavano __dalle materie socio-politiche alle discipline scientifiche in modo naturale e continuativo__. Oltre alla politica lui è forse ancora più noto per il suoi esperimenti di illuminazione ed elettricità.  
+Uno dei __padri fondatori degli Stati Uniti d'America__, Franklin fu anche un brillante ed eclettico inventore, teorico politico, scienziato, uomo di stato e scrittore. Benjamin aveva una prodigiosa mente scientifica e i suoi interessi spaziavano __dalle materie socio-politiche alle discipline scientifiche in modo naturale e continuativo__. Oltre alla politica lui è forse ancora più noto per il suoi esperimenti di illuminazione ed elettricità.
 Come __scienziato__, diede contributi importanti allo studio dell'__elettricità__ e fu un appassionato di meteorologia e anatomia. Fu __l'inventore del parafulmine__, le __lenti bifocali__, l'armonica a bicchieri e un modello di stufa-caminetto noto nel mondo anglosassone come stufa Franklin. 
 Già all'età di 11 anni diede prova della sua genialità realizzando la sua prima invenzione: delle pinne per nuotare in legno, che si adattano sulle mani e piedi che gli permette di nuotare molto più velocemente. 
-Come dicevamo fu anche l'inventore dello strumento di vetro 'armonica', ma forse non molti di voi sapranno che questa invenzione diventò così popolare che in Europa Mozart e Ludwig van Beethoven composero della musica ad hoc.  
+Come dicevamo fu anche l'inventore dello strumento di vetro 'armonica', ma forse non molti di voi sapranno che questa invenzione diventò così popolare che in Europa Mozart e Ludwig van Beethoven composero della musica ad hoc.
 __Inventò la sedia girevole__ di cui non possiamo non essere grati ma soprattutto la sua scoperta più riguarda la natura del fulmine.
 Benjamin dimostrò che il fulmine non è altro che una manifestazione di elettricità, convinzione scaturita da una serie di osservazioni circa la somiglianza fra i fulmini e le scintille elettriche, nella loro forma, colore e velocità.
 Accanto alla sua figura dello scienziato ha sempre saputo mantenere la sua dimensione di __uomo pubblico interpretando tutte le sue invenzione come a servizio del pubblico, non brevettando mai nulla di quanto fatto__.
@@ -51,38 +51,38 @@ Accanto alla sua figura dello scienziato ha sempre saputo mantenere la sua dimen
 
 ### Caroline Lucretia Herschel
 ![Caroline Lucretia Herschel, ritratto in bianco e nero](http://i.telegraph.co.uk/multimedia/archive/03339/CAROLINEHERSCHEL_3339576i.jpg)
-Herschel era __trattata poco più che come una sguattera__ dai suoi genitori ad Hannover tanto che in seguito avrebbe descritto se stessa come la "Cenerentola della famiglia".  
-Tutto cambiò nel nel 1772 quando suo fratello maggiore, William, la portò in Inghilterra per aiutare la sua famiglia a Bath .  
-Inizialmente si dedicò al canto per accompagnare William, che era l'organista per la Octagon Chapel ma in seguito, quando il fratello decise di cambiare carriera, anche lei __iniziò a dedicarsi all'astronomia__.  
+Herschel era __trattata poco più che come una sguattera__ dai suoi genitori ad Hannover tanto che in seguito avrebbe descritto se stessa come la "Cenerentola della famiglia".
+Tutto cambiò nel nel 1772 quando suo fratello maggiore, William, la portò in Inghilterra per aiutare la sua famiglia a Bath .
+Inizialmente si dedicò al canto per accompagnare William, che era l'organista per la Octagon Chapel ma in seguito, quando il fratello decise di cambiare carriera, anche lei __iniziò a dedicarsi all'astronomia__.
 Oltre ad assistere il fratello nelle sue osservazioni e nella costruzione dei telescopi, Caroline __diventò un astronoma brillante__ e indipendente, a cui dobbiamo la __scoperta di nuove costellazioni, nebulose e stelle__. È stata la __prima donna a scoprire una cometa__ (ne ha scoperto otto in totale) e la prima ad avere il suo lavoro pubblicato dalla The Royal Society. È stata anche la __prima donna britannica di essere pagata per il suo lavoro scientifico__, quando William, che era stato nominato astronomo personale del re dopo la sua scoperta di Urano nel 1781, convinse il suo protettore a premiare la sua assistente con uno stipendio annuo. Dopo la morte di William nel 1822, Caroline si ritirò a Hannover. Lì ha continuato il suo lavoro astronomico, la compilazione di un catalogo delle nebulose (il lavoro degli Herschel 'aveva aumentato il numero di noti ammassi stellari da 100 a 2.500!!!).
 Morì nel 1848 all'età di 97 anni dopo aver ricevuto molti onori nel suo campo, tra cui una medaglia d'oro dal Royal Astronomical Society.
 
 
 ### Thomas Edison
 ![Thomas Edison, inventore e industriale, straordinario innovatore](../assets/posts/innovatori/edison.jpg)
-Thomas Edison è il famoso inventore e industriale statunitense nato a Milan, nell'Ohio, il giorno 11 febbraio del 1847, a cui si deve l'__invenzione della lampadina__. Figlio di povera famiglia, è costretto ad abbandonare la scuola dopo pochi mesi di frequenza a causa di problemi finanziari; riceve una sommaria istruzione dalla madre e, a soli 12 anni, inizia a vendere giornali sui treni della "_Grand Trunk Railway_", dedicando il tempo libero ai suoi primi esperimenti con apparecchiature elettriche e meccaniche. Organizza così un suo primitivo laboratorio a bordo di un vagone ma, a causa di un incendio da lui involontariamente provocato, viene licenziato.  
+Thomas Edison è il famoso inventore e industriale statunitense nato a Milan, nell'Ohio, il giorno 11 febbraio del 1847, a cui si deve l'__invenzione della lampadina__. Figlio di povera famiglia, è costretto ad abbandonare la scuola dopo pochi mesi di frequenza a causa di problemi finanziari; riceve una sommaria istruzione dalla madre e, a soli 12 anni, inizia a vendere giornali sui treni della "_Grand Trunk Railway_", dedicando il tempo libero ai suoi primi esperimenti con apparecchiature elettriche e meccaniche. Organizza così un suo primitivo laboratorio a bordo di un vagone ma, a causa di un incendio da lui involontariamente provocato, viene licenziato.
 Salva però poi fortunosamente il figlio del capostazione che stava per essere investito da un treno, assicurandosi la riconoscenza del padre, che gli permette di frequentare l'ufficio telegrafico della stazione. In seguito, mentre presta servizio come telegrafista, inventa uno strumento telegrafico a ripetizione per la trasmissione automatica dei messaggi.
-La vendita degli apparecchi telegrafici, via via perfezionati, gli procura ingenti somme che nel 1876 utilizza per aprire un piccolo laboratorio privato. Nell'ambito delle trasmissioni telegrafiche, estremamente significativa fu l'invenzione dei sistemi duplice e quadruplice che consentivano di trasmettere più messaggi contemporaneamente su una sola linea, e il suo progetto del microfono a carbone (1876).  
-Nel 1877 annuncia l'__invenzione del fonografo__, apparecchio mediante il quale il suono poteva essere registrato meccanicamente, l'invenzione costituisce un fondamentale passo avanti nel settore.  
+La vendita degli apparecchi telegrafici, via via perfezionati, gli procura ingenti somme che nel 1876 utilizza per aprire un piccolo laboratorio privato. Nell'ambito delle trasmissioni telegrafiche, estremamente significativa fu l'invenzione dei sistemi duplice e quadruplice che consentivano di trasmettere più messaggi contemporaneamente su una sola linea, e il suo progetto del microfono a carbone (1876).
+Nel 1877 annuncia l'__invenzione del fonografo__, apparecchio mediante il quale il suono poteva essere registrato meccanicamente, l'invenzione costituisce un fondamentale passo avanti nel settore.
 Due anni dopo, Edison presenta pubblicamente __la prima lampada elettrica__, che ottiene notevole successo. Insieme a Swan costituisce la società Edison & Swan United Light Company, alla quale arriderà un proficuo futuro. Nel periodo seguente si dedica invece al perfezionamento della dinamo per generare la corrente elettrica necessaria all'alimentazione dei nuovi dispositivi progettando, fra l'altro, __la prima grande centrale elettrica della città di New York__.
-Nel 1882 la Edison Electric Light Company produrrà 100 mila lampadine all'anno. Nel 1887 Edison trasferisce il laboratorio da Menlo Park a West Orange (entrambi nel New Jersey), dove prosegue esperimenti e ricerche. L'anno successivo inventa il cinetoscopio, il primo apparecchio con cui era possibile realizzare filmati per rapida successione di singole immagini.  
-Tra le sue ultime invenzioni si ricordano la batteria di accumulatori Edison, ancora estremamente rozza ma dotata di un'elevata capacità elettrica per unità di peso.  
+Nel 1882 la Edison Electric Light Company produrrà 100 mila lampadine all'anno. Nel 1887 Edison trasferisce il laboratorio da Menlo Park a West Orange (entrambi nel New Jersey), dove prosegue esperimenti e ricerche. L'anno successivo inventa il cinetoscopio, il primo apparecchio con cui era possibile realizzare filmati per rapida successione di singole immagini.
+Tra le sue ultime invenzioni si ricordano la batteria di accumulatori Edison, ancora estremamente rozza ma dotata di un'elevata capacità elettrica per unità di peso.
 Altre sue scoperte sono il mimeografo e un metodo telegrafico senza fili per comunicare con i treni in movimento. Allo scoppio della prima guerra mondiale progetta e costruisce impianti per la produzione di benzene, fenolo e derivati dell'anilina, che in precedenza venivano importati dalla Germania. Gli ultimi suoi anni lo vedono occupato a perfezionare alcune invenzioni precedenti.
-Edison non conquista tutti i mille e oltre brevetti da solo: intelligentemente si avvale di molti validi collaboratori e delle loro idee per poi perfezionarle e trasformarle in oggetti utili e commerciabili, rivelandosi in ciò, oltre che un ottimo tecnologo, __anche un lungimirante uomo d'affari__, precorrendo di molto i suoi tempi.  
+Edison non conquista tutti i mille e oltre brevetti da solo: intelligentemente si avvale di molti validi collaboratori e delle loro idee per poi perfezionarle e trasformarle in oggetti utili e commerciabili, rivelandosi in ciò, oltre che un ottimo tecnologo, __anche un lungimirante uomo d'affari__, precorrendo di molto i suoi tempi.
 Scompare a West Orange, nel New Jersey, il 18 ottobre dell'anno 1931, a 84 anni di età.
 
 
 ### Sigmund Freud
 ![Sigmund Freud, ritratto con sigaro, innovatore nel campo della medicina](../assets/posts/innovatori/freud.jpg)
-Sigismund Schlomo Freud, conosciuto come __Sigmund Freud__, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).  
-Il padre di Freud è un ebreo laico, che non trasmette al figlio un'educazione di stampo religioso-fideistico o tradizionalista. Quando Sigmund ha appena quattro anni, la famiglia si sposta a Vienna per motivi legati al lavoro del padre, che commerciava in lana.  
-Nonostante il disinteresse paterno per l'argomento, Sigmund inizia ad appassionarsi allo studio del testo biblico sin da giovane, e la storia e la tradizione del suo popolo giocheranno un ruolo non indifferente nella sua produzione successiva (per altro, in un contesto sociale come quello viennese di strisciante antisemitismo).  
-Sigmund si diploma a diciassette anni nell'istituto superiore "Sperl Gymnasium", e dà prova delle sue particolare attitudini intellettive; nel 1873 s'iscrive alla Facoltà di Medicina dell'università di Vienna, dove conclude gli studi nel 1881, dedicandosi nel frattempo alla ricerca psicoterapeutica.  
-Dopo un soggiorno in Inghilterra, Freud trova impiego nell'istituto zoologico viennese di Carl Claus, ma ben presto si sposta all'Istituto di Fisiologia di Ernst Brücke, che diverrà una figura determinante nella formazione del giovane Sigmund. Nonostante un certo successo ottenuto nel campo della ricerca, Freud decide infatti di dedicarsi alla pratica clinica, professione assai remunerativa che gli avrebbe consentito di rendersi indipendente economicamente e di sposare Martha Bernays, conosciuta nel 1882.  
+Sigismund Schlomo Freud, conosciuto come __Sigmund Freud__, nasce il 6 Maggio del 1856 a Freiberg (Příbor), nell'odierna Repubblica Ceca (al tempo chiamata Moravia).
+Il padre di Freud è un ebreo laico, che non trasmette al figlio un'educazione di stampo religioso-fideistico o tradizionalista. Quando Sigmund ha appena quattro anni, la famiglia si sposta a Vienna per motivi legati al lavoro del padre, che commerciava in lana.
+Nonostante il disinteresse paterno per l'argomento, Sigmund inizia ad appassionarsi allo studio del testo biblico sin da giovane, e la storia e la tradizione del suo popolo giocheranno un ruolo non indifferente nella sua produzione successiva (per altro, in un contesto sociale come quello viennese di strisciante antisemitismo).
+Sigmund si diploma a diciassette anni nell'istituto superiore "Sperl Gymnasium", e dà prova delle sue particolare attitudini intellettive; nel 1873 s'iscrive alla Facoltà di Medicina dell'università di Vienna, dove conclude gli studi nel 1881, dedicandosi nel frattempo alla ricerca psicoterapeutica.
+Dopo un soggiorno in Inghilterra, Freud trova impiego nell'istituto zoologico viennese di Carl Claus, ma ben presto si sposta all'Istituto di Fisiologia di Ernst Brücke, che diverrà una figura determinante nella formazione del giovane Sigmund. Nonostante un certo successo ottenuto nel campo della ricerca, Freud decide infatti di dedicarsi alla pratica clinica, professione assai remunerativa che gli avrebbe consentito di rendersi indipendente economicamente e di sposare Martha Bernays, conosciuta nel 1882.
 Lavora per tre anni all'Ospedale Generale di Vienna, curando i pazienti del reparto psichiatrico, poi, tra il 1885 e il 1886 collabora con Charcot a Parigi, e si avvicina così all'ipnosi come cura per l'isteria, metodo clinico che Freud vuol diffondere al suo ritorno a Vienna. Nell'autunno del 1886 apre dinque il suo studio privato, e in primavera sposa Martha, con cui mette al mondo sei figli.
 Nel frattempo Freud inizia ad applicare il metodo ipnotico sui pazienti isterici, e a pubblicare i primi studi su questo metodo catartico​ (Studi sull'isteria, 1895). Tuttavia, Freud sta già lavorando alle opere maggiori; nel 1900 pubblica uno studio, risultato del lavoro di cura sui propri pazienti e su se stesso, _L'interpretazione dei sogni_, che __fissa i paletti della futura psicoanalisi__.
-La nomina a professore universitario nel 1902 si affianca allo sviluppo della nuova teoria, a cavallo tra interpretazione del mondo dell'inconscio e pratica terapeutica per i disturbi psicoanalitici; alla Psicopatologia della vita quotidiana (1904) e ai Tre saggi sulla teoria sessuale (1905) si affiancano gli studi di famosi "casi clinici". Del 1910 è la fondazione della Società psicoanalitica internazionale, cui aderiscono in un primo momento anche i "discepoli" Jung e Adler.  
-Altri studi freudiani (che sviluppano ulteriormente i concetti di Io, Es, Super-io, il noto "complesso di Edipo" e la teoria della sessualità) sono al di là del principio di piacere (1920), L'Io e l'Es (1922) e Il disagio della civiltà (1930).  
+La nomina a professore universitario nel 1902 si affianca allo sviluppo della nuova teoria, a cavallo tra interpretazione del mondo dell'inconscio e pratica terapeutica per i disturbi psicoanalitici; alla Psicopatologia della vita quotidiana (1904) e ai Tre saggi sulla teoria sessuale (1905) si affiancano gli studi di famosi "casi clinici". Del 1910 è la fondazione della Società psicoanalitica internazionale, cui aderiscono in un primo momento anche i "discepoli" Jung e Adler.
+Altri studi freudiani (che sviluppano ulteriormente i concetti di Io, Es, Super-io, il noto "complesso di Edipo" e la teoria della sessualità) sono al di là del principio di piacere (1920), L'Io e l'Es (1922) e Il disagio della civiltà (1930).
 La salita al potere del nazismo hitleriano costringe però Freud - da anni malato di cancro - all'esilio a Londra nel 1938, dove lo psicoanalista muore l'anno successivo.
 
 
@@ -91,26 +91,26 @@ La salita al potere del nazismo hitleriano costringe però Freud - da anni malat
 __Nikola Tesla__, grande inventore, ingegnere, e futurista. Tesla __contribuì allo sviluppo del moderno sistema elettrico__ basato sulla __corrente alternata__. Noto per i suoi esperimenti talvolta rischiosi e per la sua _personalità eccentrica_, con il suo lavoro rivoluzionario per la produzione e trasmissione di energia si rivelò __un visionario__.
 
 <blockquote>
- "La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità" 
+ "La scienza non è nient'altro che una perversione se non ha come suo fine ultimo il miglioramento delle condizioni dell’umanità"
 <footer><cite>Nikola Tesla, autobiografia.</cite></footer>
 </blockquote>
 
 Fin da piccolo mostrò uno spiccato interesse per l'elettricità: ancora in tenera età, rimase affascinato dalle piccole scintille che comparivano strofinando il pelo del suo gattino Macak, per un accumulo di elettricità statica. 
-Dimostrò da subito una grande predisposizione per la matematica tanto che la sua insegnante delle elementari sospettava che barasse.  
-Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito esclusivamente di una lettera di referenze di Charles Batchelor, il suo ultimo capo, indirizzata a Thomas Edison, nella quale c'era scritto: 
+Dimostrò da subito una grande predisposizione per la matematica tanto che la sua insegnante delle elementari sospettava che barasse.
+Completati gli studi in ingegneria, nel 1884 salpò per gli Stati Uniti munito esclusivamente di una lettera di referenze di Charles Batchelor, il suo ultimo capo, indirizzata a Thomas Edison, nella quale c'era scritto:
 
 <blockquote>
 "Conosco due grandi uomini: uno siete voi, l'altro è questo giovane".
 <footer><cite>Charles Betchelor presenta Nikola Tesla a Thomas Edison</cite></footer>
 </blockquote>
 
-Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il __generatore di energia idroelettrica__, l’__illuminazione a fluorescenza__, il __motore rotante__ e la __turbina senza pale__ e __molto probabilmente anche la radio__. E queste sono solo le invenzioni più famose.  
+Tesla continua ad essere uno scienziato ancora poco noto - nonchè poco presente in tutte le più famose enciclopedie scientifiche - nonostante oltre alla corrente alternata inventò anche il __generatore di energia idroelettrica__, l’__illuminazione a fluorescenza__, il __motore rotante__ e la __turbina senza pale__ e __molto probabilmente anche la radio__. E queste sono solo le invenzioni più famose.
 Nel 2007 alcuni ricercatori del Massachusetts Institute of Technology (MIT) gli hanno finalmente dato giustizia, annunciando al mondo di essere riusciti a trasmettere __energia elettrica senza fili__ utilizzando i __principi di risonanza__ scoperti dallo scienziato serbo più di un secolo prima.
 
 ### Marie Curie
 ![Marie Curie, ritratto in laboratorio, scienziata straordinaria e prima donna vincitrice del premio nobel](../assets/posts/innovatori/curie.jpg)
-__Marie Curie__, la __prima donna a vincere il premio Nobel__ Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue __dirompenti idee sulla radioattività__, nonchè per la __scoperta__ di due elementi chimici: il __polonio__ e il __radio__. Fu proprio lei a coniare il termine _radioattivo_ e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo.   
-Fu anche la __prima donna a diventare professoressa all' Université Paris-Sorbonne__ e ad essere insignita degli onori al Pantheon di Parigi.  
+__Marie Curie__, la __prima donna a vincere il premio Nobel__ Prize nel 1903 (lo vinse due volte sia in fisica che successivamente in chimica nel 1911!). Marie fu una pioniera in entrambe le discipline ed è soprattutto conosciuta per le sue __dirompenti idee sulla radioattività__, nonchè per la __scoperta__ di due elementi chimici: il __polonio__ e il __radio__. Fu proprio lei a coniare il termine _radioattivo_ e ad appuntare le prime tecniche capaci di isolare gli isotopi radiottivi. Questa scoperta le permise di iniziare i primi studi per la cura delle neoplasie, patologie che vanno ad indicare una crescita di pelle anormale nell'individuo. 
+Fu anche la __prima donna a diventare professoressa all' Université Paris-Sorbonne__ e ad essere insignita degli onori al Pantheon di Parigi.
 Oggi le è dedicata una delle borse di studio europee più prestigiose, quale Marie Curie Fellowship che mira a sostenere la formazione alla ricerca e lo sviluppo di carriera dei ricercatori titolari di dottorato di ricerca o con quattro anni di esperienza nella ricerca.
 
 ### Alexander Fleming
@@ -190,7 +190,7 @@ Il suo merito principale è stato quello di presentare il punto di vista delle p
 Tuttora la Grandin assume antidepressivi e utilizza una speciale apparecchiatura (hug machine) da lei ideata all'età di 18 anni: si tratta della cosiddetta “macchina degli abbracci” che l'ha resa famosa. L'idea le venne osservando l'effetto calmante, sugli animali in procinto di essere visitati o vaccinati dal veterinario, di un'arla di travaglio, nel quale l'animale non riusciva a girarsi, sperimentò uno strumento analogo sui bambini autistici, scoprendo che, in quella condizione, il bambino si lasciava abbracciare. Per questo la chiamò la macchina degli abbracci.
 
 ### Steve Jobs
-![Steve Jobs, noto come l'innovatore per eccellenza dell'era moderna.](http://pratosmart.teo-soft.com/wp-content/uploads/2015/08/steve-jobs.jpg)
+![Steve Jobs, noto come l'innovatore per eccellenza dell'era moderna.](https://biografieonline.it/img/bio/s/Steve_Jobs.jpg)
 Steven Paul Jobs nasce il 24 febbraio 1955 a Green Bay, California da Joanne Carole Schieble e Abdulfattah "John" Jandali, i quali, essendo ancora giovani studenti universitari, lo danno in adozione quando è ancora in fasce; Steve viene adottato da Paul e Clara Jobs, i quali promisero alla madre biologica che Jobs sarebbe andato all'università.
 Al Reed College di Portland le cose non andarono come previsto: dopo un semestre abbandona l'università ed inizia a lavorare in Atari come programmatore di videogames ma decide comunque di frequentare quei corsi che più lo incuriosiscono: calligrafia e informatica. Nel 1974, coinvolge il suo ex compagno di liceo e caro amico Steve Wozniak nella fondazione di Apple Computer, all'epoca società del tutto artigianale: con la "mela" i due muovono i primi passi verso la fama nel mondo dell'informatica, grazie ai loro modelli di microcomputer particolarmente avanzati e stabili, Apple II e Apple Macintosh. Viene però estromesso dalla Apple a seguito del fallimento del MAC III. Cambia aria per un po' e nel 1986 compra la @Pixar dalla Lucasfilm e nel 1995 sforna quel capolavoro che è Toy Story. Non si arrende però con la mela e riesce così a ri-entrare in Apple come CEO (ma senza stipendio) e porta con sé una grande novità: quello che oggi è conosciuto come il Mac OS X. E continua ad ampliare la sua visione, prima con l' iPod poi con l' iPhone, passando dal mondo musicale a quello della telefonia. Innovare senza mail smettere di immaginare quello che ancora puoi creare, quello che ancora ti manca. O come dice lui "stay hungry, stay foolish".
 
@@ -209,7 +209,7 @@ Wales capì quello che si era messo in modo con Wikipedia: una forma esplosiva d
 
 <style>
 img {
-  margin-top: 10px; 
+  margin-top: 10px;
   margin-bottom: 20px
 }
 .sommario{font-size: 12px}
