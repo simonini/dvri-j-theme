@@ -1,0 +1,15 @@
+---
+layout: page
+page_id: social-events
+title: Social Events 2018
+claim: Condividere significati per generare valore
+toc: false
+---
+
+{% assign image_files = site.static_files | where: "social_2018", true %}
+{% for myimage in image_files %}
+  <img src="{{ myimage.path }}" />
+{% endfor %}
+
+<script src="">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.css">

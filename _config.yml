@@ -5,6 +5,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
+
+defaults:
+  - scope:
+      path: assets/gallery/social_events_2018
+    values:
+      social_2018: true
+
 enviroment: production
 permalink: "/:title:output_ext"
 url: "http://distrettovenezianoricerca.it"
