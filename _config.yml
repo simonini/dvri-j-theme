@@ -1,9 +1,10 @@
 lang: 'it'
 title: "DVRI - Distretto Veneziano della Ricerca e dell'Innovazione"
 plugins:
-  - jekyll-toc
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
 enviroment: production
 permalink: "/:title:output_ext"
 url: "http://distrettovenezianoricerca.it"

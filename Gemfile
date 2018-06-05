@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 gem 'jekyll-toc'
 gem 'jekyll'
+gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'travis-custom-deploy', '~> 0.0.6'
