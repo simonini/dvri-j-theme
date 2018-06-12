@@ -4,24 +4,8 @@ page_id: social-events
 title: Social Events 2014
 claim: Condividere significati per generare valore
 toc: false
+gallery_scope: social_2014
 ---
 
-{% assign image_files = site.static_files | where: "social_2014", true %}
-
-
-{% for myimage in image_files  limit: 1 %}
-  <a href="{{ myimage.path | prepend: site.baseurl }}"
-     data-lightbox="gallery">
-    <img src="{{ myimage.path  | prepend: site.baseurl }}" />
-  </a>
-{% endfor %}
-
-
-{% for myimage in image_files offset: 1 %}
-  <a href="{{ myimage.path | prepend: site.baseurl }}"
-     data-lightbox="gallery" style="display: none">
-    <img src="{{ myimage.path  | prepend: site.baseurl }}" />
-  </a>
-{% endfor %}
-
+{% include gallery_social.html %}
 {% include social_events.html %}

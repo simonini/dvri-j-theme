@@ -11,6 +11,23 @@ defaults:
       path: assets/gallery/social_events_2018
     values:
       social_2018: true
+  - scope:
+      path: assets/gallery/social_events_2017
+    values:
+      social_2017: true
+  - scope:
+      path: assets/gallery/social_events_2016
+    values:
+      social_2016: true
+  - scope:
+      path: assets/gallery/social_events_2015
+    values:
+      social_2015: true
+  - scope:
+      path: assets/gallery/social_events_2014
+    values:
+      social_2014: true
+
 
 enviroment: production
 permalink: "/:title:output_ext"

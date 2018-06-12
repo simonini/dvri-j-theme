@@ -1,4 +1,4 @@
-{% assign image_files = site.static_files | where: "social_2017", true %}
+{% assign image_files = site.static_files | where: page.gallery_scope, true %}
 
 {% for myimage in image_files  limit: 1 %}
   <a href="{{ myimage.path | prepend: site.baseurl }}"
