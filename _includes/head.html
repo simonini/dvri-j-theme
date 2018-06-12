@@ -11,9 +11,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <script src="{{ site.baseurl }}/assets/javascripts/jquery.min.js"></script>
-  {% if site.enviroment == 'development' %}
-  <script src="{{ site.baseurl }}/assets/javascripts/live.js"></script>
-  {% endif %}
+
+  <!-- lightbox! -->
+  <script src="{{ "/assets/javascripts/lightbox.js" | prepend: site.baseurl }}"></script>
+  <link href="{{ "/assets/stylesheets/lightbox.css" | prepend: site.baseurl }}" rel="stylesheet"></script>
+
   <meta name="google-site-verification" content="D0D2xsYZcvM1JbkOV-_NiD6l_wB36L_sUUcQJzCA2dg" />
   <link rel="icon" href="{{ site.baseurl }}/assets/32x32.png" sizes="32x32" />
 <link rel="icon" href="{{ site.baseurl }}/assets/192x192.png" sizes="192x192" />
