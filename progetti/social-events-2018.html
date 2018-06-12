@@ -7,9 +7,19 @@ toc: false
 ---
 
 {% assign image_files = site.static_files | where: "social_2018", true %}
-{% for myimage in image_files %}
-  <img src="{{ myimage.path }}" />
+
+
+{% for myimage in image_files  limit: 1 %}
+  <a href="{{ myimage.path | prepend: site.baseurl }}"
+     data-lightbox="gallery">
+    <img src="{{ myimage.path  | prepend: site.baseurl }}" />
+  </a>
 {% endfor %}
 
-<script src="">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.css">
+
+{% for myimage in image_files offset: 1 %}
+  <a href="{{ myimage.path | prepend: site.baseurl }}"
+     data-lightbox="gallery" style="display: none">
+    <img src="{{ myimage.path  | prepend: site.baseurl }}" />
+  </a>
+{% endfor %}
