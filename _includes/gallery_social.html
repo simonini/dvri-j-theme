@@ -1,13 +1,4 @@
----
-layout: page
-page_id: social-events
-title: Social Events 2016
-claim: Condividere significati per generare valore
-toc: false
----
-
-{% assign image_files = site.static_files | where: "social_2016", true %}
-
+{% assign image_files = site.static_files | where: "social_2017", true %}
 
 {% for myimage in image_files  limit: 1 %}
   <a href="{{ myimage.path | prepend: site.baseurl }}"
@@ -23,5 +14,3 @@ toc: false
     <img src="{{ myimage.path  | prepend: site.baseurl }}" />
   </a>
 {% endfor %}
-
-{% include social_events.html %}
