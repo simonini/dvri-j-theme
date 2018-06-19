@@ -1,5 +1,8 @@
 ---
+layout: post
+title: I soci del DVRI per Art Night 2018
 published: true
+toc: true
 ---
 ## I soci del DVRI per Art Night 2018
 
@@ -69,7 +72,7 @@ ore 22.30 Performance [“BACH BOX “](https://www.unive.it/pag/13489/) durata 
 ## [SMArt Passport](http://distrettovenezianoricerca.it/progetti/smart-passport.html) Friends
 
 [**Marignana Arte**](http://www.marignanaarte.it/)
-apertura straordinaria della mostra “W.W.WK What Walls Want – group show” a cura di Ilaria Bignotti, con opere di Mats Bergquist, Alessandro Diaz de Santillana, Riccardo De Marchi, Serena Fineschi, Alberto Gianfreda, Nancy Genn, Silvia Infranco, Artur Lescher, Emil Lukas, Antonio Scaccabarozzi e Roy Thurston. 
+apertura straordinaria della mostra “W.W.WK What Walls Want – group show” a cura di Ilaria Bignotti, con opere di Mats Bergquist, Alessandro Diaz de Santillana, Riccardo De Marchi, Serena Fineschi, Alberto Gianfreda, Nancy Genn, Silvia Infranco, Artur Lescher, Emil Lukas, Antonio Scaccabarozzi e Roy Thurston.
 -Sede: Rio Terà dei Catecumeni, Dorsoduro 141, orario 18.00G 21.00.
 
 [**Palazzetto Bru Zane – Centre de musique romantique française:**](http://www.bru-zane.com/it/)
