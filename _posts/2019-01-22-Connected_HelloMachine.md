@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## CONNECTED-HELLO MACHINE.L’INSTALLAZIONE ITINERANTE DI SCIENCE GALLERY VENICE
 
@@ -36,4 +36,3 @@ Rachel Hanlon, l’artista che ha progettato Hello Machine, è un’archeologa d
 
 ### GLI EVENTI IN PROGRAMMA
 Attorno all’installazione verranno inoltre organizzati una serie di workshop su arte e scienza per studenti e ricercatori, riguardanti i temi ispirati dall’opera. Sarà possibile rimanere aggiornati sul programma di eventi collegandosi alla pagina di Science Gallery Venice [dedicata all’iniziativa](https://venice.sciencegallery.com/venice.sciencegallery.com/connected).
-
