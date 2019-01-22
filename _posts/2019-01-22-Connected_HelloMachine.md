@@ -1,5 +1,8 @@
 ---
+layout: post
+title: I soci del DVRI per Art Night 2018
 published: true
+toc: true
 ---
 ## CONNECTED-HELLO MACHINE.L’INSTALLAZIONE ITINERANTE DI SCIENCE GALLERY VENICE
 
