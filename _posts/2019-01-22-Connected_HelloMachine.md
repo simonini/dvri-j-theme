@@ -8,7 +8,7 @@ toc: true
 
 ### Il 17 gennaio è stata inaugurata CONNECTED – Hello Machine, la prima iniziativa artistica di Science Gallery Venice per il 2019, interamente sostenuta dal DVRI - DISTRETTO VENEZIANO RICERCA E INNOVAZIONE
 
-![Connected Hello Machine]({{site.baseurl}}/assets/posts/HM_BANNER.gif)
+![Connected Hello Machine]({{site.baseurl}}/assets/posts/banner_connected.png)
 
 ### DVRI E SCIENCE GALLERY VENICE
 Come Founding Partner del progetto [Science Gallery Venice](https://venice.sciencegallery.com), il DVRI ha voluto sostenere interamente questa prima iniziativa artistica e, in sinergia con i suoi membri, collaborare al progetto in diverse forme: ospitando l'installazione, come nel caso della [Fondazione Querini Stampalia Onlus](http://www.querinistampalia.org/ita/home_page.php), oppure contribuendo alla realizzazione di attività laboratoriali _ad hoc_, come hanno fatto la [Venice International Univeristy](https://www.univiu.org/) e la [Fondazione Bevilacqua La Masa](https://www.comune.venezia.it/content/fondazionebevilacqua-la-masa).
