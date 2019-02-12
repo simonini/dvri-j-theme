@@ -8,6 +8,10 @@ plugins:
 
 defaults:
   - scope:
+      path: assets/gallery/social_events_2018_b
+    values:
+      social_2018: true
+  - scope:
       path: assets/gallery/social_events_2018
     values:
       social_2018: true
