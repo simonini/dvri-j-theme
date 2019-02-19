@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: titolo
+title: Hello Machine squilla... i consiglieri del DVRI rispondono
 published: true
 toc: true
 ---
@@ -21,6 +20,8 @@ Hello Machine consiste in un telefono fisso originale risalente agli anni ‘70-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0KQncqVODA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 **Luana Zanella, Presidente dell'Accademia di Belle Arti di Venezia e Consigliere del DVRI, founding partner di Science Gallery Venice.**
 
 > Io penso che Science Gallery rappresenti l'idea forte per questo connubio tra
@@ -30,6 +31,7 @@ connettersi su questo tema.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmSMiv3btAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br> 
 **Francesco Pietrobon, Direttore Generale dell'IRCCS San Camillo di Venezia e Consigliere del DVRI, founding partner di Science Gallery Venice.**
 
 > Per quanto riguarda il DVRI credo che diventando uno dei soci fondatori
@@ -37,8 +39,3 @@ il Science Gallery, ne possa diventare uno dei protagonisti, come ho detto in
 precedenza possa, in questo modo acquisire una visibilità maggiore nel territori
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nZstVLbOCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
