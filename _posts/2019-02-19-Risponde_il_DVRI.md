@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Machine squilla... i consiglieri del DVRI rispondono
+title: Hello Machine squilla... Rispondono i Consiglieri del Distretto
 published: true
 toc: true
 ---
