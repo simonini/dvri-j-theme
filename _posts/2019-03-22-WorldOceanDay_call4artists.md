@@ -18,6 +18,7 @@ La Call è rivolta agli studenti dell'Accademia di Belle Arti di Venezia.
 
 # Come partecipare
 Per partecipare è necessario **inviare la propria candidatura entro il 15 aprile** attraverso il seguente link:
+<a class="link button" href="https://docs.google.com/forms/d/e/1FAIpQLSdJy_XHDl67S1g2qhytP9PsqvGDxtUt4OMlD3RWm9gnjhsO5A/viewform?vc=0&c=0&w=1">Accedi alla Piattaforma Online</a></button>
 
 Nella procedura di partecipazione vengono richieste:
 - Una breve biografia e una presentazione del proprio percorso artistico;
