@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Oceans Day: aperta la Call 4 Artists!
+title: World Oceans Day aperta la Call 4 Artists!
 published: true
 toc: true
 ---
@@ -10,7 +10,7 @@ toc: true
 # Cerchiamo artisti per parlare degli oceani
 In occasione del World Oceans Day organizzato ogni anno dal CNR verrà realizzato **un percorso arte-scienza** tra alcuni ricercatori del [CNR ISMAR](http://www.ismar.cnr.it/) e [IDPA](http://www.idpa.cnr.it/) di Venezia e alcuni studenti dell'Accademia di Belle Arti veneziana.
 Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all'Arsenale Nord nei giorni 8 e 9 giugno.
-L'obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da una parte lo scienziato spiegherà la sua ricerca all'artista, dall'altro l'artista avrà il compito di rappresentare gli studi del ricercatore CNR attraverso il linguaggio artistico che gli appartiene. 
+L'obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da una parte lo scienziato spiegherà la sua ricerca all'artista, dall'altro l'artista avrà il compito di rappresentare gli studi del ricercatore CNR attraverso il linguaggio artistico che gli appartiene.
 L'iniziativa è promossa dal [CNR - Consiglio Nazionale Ricerche](www.cnr.it), l'[Accademia di Belle Arti di Venezia](http://www.accademiavenezia.it/) e il [DVRI](distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](venice.sciencegallery.com).
 
 # A chi è rivolto
