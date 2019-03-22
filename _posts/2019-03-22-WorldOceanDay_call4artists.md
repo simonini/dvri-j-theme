@@ -29,7 +29,7 @@ Contestualmente con la notifica di selezione, verrà comunicato a ciascun studen
 # Riconoscimenti
 I 24 studenti selezionati riceveranno i seguenti riconoscimenti:
 - Esposizione della propria opera presso la sede del CNR ISMAR di Venezia in occasione del World Ocean Day (8 e 9 giugno 2019);
-- Attribuzione di una tessera sMart Passport;
+- Attribuzione di una tessera SMArt Passport;
 - Attestato di Partecipazione all'iniziativa erogato dal CNR - Consiglio Nazionale Ricerca, sede ISMAR di Venezia.
 
 Per domande o chiarimenti scrivere a dvr@unive.it
