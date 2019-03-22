@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: World Oceans Day: aperta la Call 4 Artists!
+published: true
+toc: true
 ---
 ## World Oceans Day: aperta la Call 4 Artists!
 # Deadline: 15 aprile
