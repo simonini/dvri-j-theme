@@ -5,9 +5,11 @@ published: true
 toc: true
 ---
 ## World Oceans Day: aperta la Call 4 Artists!
-# Deadline: 15 aprile
-
-# Cerchiamo artisti per parlare degli oceani
+### Deadline: 15 aprile
+#### Cerchiamo artisti per parlare degli oceani
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/assets/progetti/caffe/wod.jpg" alt="world ocean day - 2019" />
+</div> 
 In occasione del World Oceans Day organizzato ogni anno dal CNR verrà realizzato **un percorso arte-scienza** tra alcuni ricercatori del [CNR ISMAR](http://www.ismar.cnr.it/) e [IDPA](http://www.idpa.cnr.it/) di Venezia e alcuni studenti dell'Accademia di Belle Arti veneziana.
 Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all'Arsenale Nord nei giorni 8 e 9 giugno.
 L'obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da una parte lo scienziato spiegherà la sua ricerca all'artista, dall'altro l'artista avrà il compito di rappresentare gli studi del ricercatore CNR attraverso il linguaggio artistico che gli appartiene.
