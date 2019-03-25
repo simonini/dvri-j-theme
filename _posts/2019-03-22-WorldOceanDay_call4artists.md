@@ -42,3 +42,6 @@ I 24 studenti selezionati riceveranno i seguenti riconoscimenti:
 - Attestato di Partecipazione all'iniziativa erogato dal CNR - Consiglio Nazionale Ricerca, sede ISMAR di Venezia.
 
 Per domande o chiarimenti scrivere a dvr@unive.it
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/assets/posts/2019_loghi_wod.png" alt="world ocean day - 2019" />
+</div>
