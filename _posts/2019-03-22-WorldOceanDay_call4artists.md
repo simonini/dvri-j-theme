@@ -11,9 +11,10 @@ toc: true
   <img src="{{ site.baseurl }}/assets/progetti/caffe/wod.jpg" alt="world ocean day - 2019" />
 </div>
 <br>
-In occasione del World Oceans Day organizzato ogni anno dal CNR verrà realizzato **un percorso arte-scienza** tra alcuni ricercatori del [CNR ISMAR](http://www.ismar.cnr.it/) e [IDPA](http://www.idpa.cnr.it/) di Venezia e alcuni studenti dell'Accademia di Belle Arti veneziana.
-Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all'Arsenale Nord nei giorni 8 e 9 giugno.
-L'obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da una parte lo scienziato spiegherà la sua ricerca all'artista, dall'altro l'artista avrà il compito di rappresentare gli studi del ricercatore CNR attraverso il linguaggio artistico che gli appartiene.
+In occasione del World Oceans Day L’[Accademia delle Belle Arti di Venezia](http://www.accademiavenezia.it/) e l’[Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche](http://www.ismar.cnr.it/) propongono  **un percorso arte-scienza** tra ricercatori del CNR ISMAR e IDPA di Venezia e studenti dell’Accademia di Belle Arti veneziana.
+
+L’obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da un lato lo scienziato porterà un suo lavoro di , dall’altro l’artista avrà il compito di rappresentarlo attraverso il linguaggio artistico che gli appartiene.  Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all’Arsenale Nord l’8 giugno 2019 in occasione del World Oceans Days.
+
 L'iniziativa è promossa dal [CNR - Consiglio Nazionale Ricerche](www.cnr.it), l'[Accademia di Belle Arti di Venezia](http://www.accademiavenezia.it/) e il [DVRI](distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](venice.sciencegallery.com).
 
 # A chi è rivolto
