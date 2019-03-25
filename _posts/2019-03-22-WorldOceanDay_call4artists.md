@@ -8,7 +8,7 @@ toc: true
 ### Deadline: 15 aprile
 #### Cerchiamo artisti per parlare degli oceani
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/progetti/caffe/wod.png" alt="world ocean day - 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/wod.png" alt="world ocean day - 2019" />
 </div>
 <br>
 In occasione del World Oceans Day L’[Accademia delle Belle Arti di Venezia](http://www.accademiavenezia.it/) e l’[Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche](http://www.ismar.cnr.it/) propongono  **un percorso arte-scienza** tra ricercatori del CNR ISMAR e IDPA di Venezia e studenti dell’Accademia di Belle Arti veneziana.
