@@ -13,7 +13,7 @@ toc: true
 <br>
 In occasione del World Oceans Day L’[Accademia delle Belle Arti di Venezia](http://www.accademiavenezia.it/) e l’[Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche](http://www.ismar.cnr.it/) propongono  **un percorso arte-scienza** tra ricercatori del CNR ISMAR e IDPA di Venezia e studenti dell’Accademia di Belle Arti veneziana.
 
-L’obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da un lato lo scienziato porterà un suo lavoro di , dall’altro l’artista avrà il compito di rappresentarlo attraverso il linguaggio artistico che gli appartiene.  Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all’Arsenale Nord l’8 giugno 2019 in occasione del World Oceans Days.
+L’obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da un lato lo scienziato porterà un suo lavoro di ricerca, dall’altro l’artista avrà il compito di rappresentarlo attraverso il linguaggio artistico che gli appartiene.  Il progetto si concluderà con una mostra sul mare che si terrà presso la sede del CNR ISMAR all’Arsenale Nord l’8 giugno 2019 in occasione del World Oceans Days.
 
 L'iniziativa è promossa dal [CNR - Consiglio Nazionale Ricerche](www.cnr.it), l'[Accademia di Belle Arti di Venezia](http://www.accademiavenezia.it/) e il [DVRI](distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](venice.sciencegallery.com).
 
