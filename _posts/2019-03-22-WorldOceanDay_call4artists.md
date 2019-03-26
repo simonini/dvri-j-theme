@@ -58,9 +58,9 @@ I 24 studenti selezionati riceveranno i seguenti riconoscimenti:
 - Attribuzione di una tessera SMArt Passport;
 - Attestato di Partecipazione all'iniziativa erogato dal CNR - Consiglio Nazionale Ricerca, sede ISMAR di Venezia.
 
-# Per conoscere meglio l'’Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche
+### Per conoscere meglio l'’Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/KqkVF9azW28jmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GabrielleTraviglia/presentazione-istituto-di-scienze-marine-del-consiglio-nazionale-delle-ricerche-sede-di-venezia" title="Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia" target="blank"> Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia</a> </strong> from <strong><a href="//www.slideshare.net/GabrielleTraviglia" target="blank">Gabriella Traviglia</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KqkVF9azW28jmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GabrielleTraviglia/presentazione-istituto-di-scienze-marine-del-consiglio-nazionale-delle-ricerche-sede-di-venezia" title="Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia" target="blank"> Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia</a> </strong> </div>
 
 Per domande o chiarimenti scrivere a dvr@unive.it
 
