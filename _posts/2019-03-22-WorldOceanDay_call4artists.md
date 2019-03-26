@@ -32,7 +32,7 @@ Le tematiche proposte dai ricercatori CNR sono tratte da articoli pubblicati su 
 - ricostruzione della batimetria della laguna di Venezia con metodologie multi-beam;
 - dispersione di larve nella laguna di Venezia alla luce dei cambiamenti climatici con un orizzonte temporale al 2050 e 2100
 
-La sfida artistica per chi parteciperà al progetto sarà quella di comprendere il lavoro dello scienziato, rappresentarlo in modo da chiarire un processo, o promuovere una riflessione o ancora provacare una discussione. 
+La sfida artistica per chi parteciperà al progetto sarà quella di comprendere il lavoro dello scienziato, rappresentarlo in modo da chiarire un processo, o promuovere una riflessione o ancora provacare una discussione.
 
 # A chi è rivolto
 La Call è rivolta agli studenti dell'Accademia di Belle Arti di Venezia.
@@ -57,6 +57,10 @@ I 24 studenti selezionati riceveranno i seguenti riconoscimenti:
 - Esposizione della propria opera presso la sede del CNR ISMAR di Venezia in occasione del World Ocean Day (8 giugno 2019);
 - Attribuzione di una tessera SMArt Passport;
 - Attestato di Partecipazione all'iniziativa erogato dal CNR - Consiglio Nazionale Ricerca, sede ISMAR di Venezia.
+
+# Per conoscere meglio l'’Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KqkVF9azW28jmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GabrielleTraviglia/presentazione-istituto-di-scienze-marine-del-consiglio-nazionale-delle-ricerche-sede-di-venezia" title="Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia" target="_blank"> Presentazione Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche - Sede di Venezia</a> </strong> from <strong><a href="//www.slideshare.net/GabrielleTraviglia" target="_blank">Gabriella Traviglia</a></strong> </div>
 
 Per domande o chiarimenti scrivere a dvr@unive.it
 
