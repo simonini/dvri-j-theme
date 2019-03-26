@@ -32,7 +32,7 @@ Le tematiche proposte dai ricercatori CNR sono tratte da articoli pubblicati su 
 - ricostruzione della batimetria della laguna di Venezia con metodologie multi-beam;
 - dispersione di larve nella laguna di Venezia alla luce dei cambiamenti climatici con un orizzonte temporale al 2050 e 2100
 
-La sfida artistica per chi parteciperà al progetto sarà quella di comprendere il lavoro dello scienziato, rappresentarlo in modo da chiarire un processo, o promuovere una riflessione o ancora provacare una discussione.
+La sfida artistica per chi parteciperà al progetto sarà quella di comprendere il lavoro dello scienziato, rappresentarlo in modo da chiarire un processo, o promuovere una riflessione o ancora provocare una discussione.
 
 # A chi è rivolto
 La Call è rivolta agli studenti dell'Accademia di Belle Arti di Venezia.
