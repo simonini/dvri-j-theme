@@ -17,6 +17,23 @@ L’obiettivo è **promuovere un dialogo a coppie artista-scienziato**: da un la
 
 L'iniziativa è promossa dal [CNR - Consiglio Nazionale Ricerche](www.cnr.it), l'[Accademia di Belle Arti di Venezia](http://www.accademiavenezia.it/) e il [DVRI](distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](venice.sciencegallery.com).
 
+# Il linguaggio artistico per la ricerca scientifica
+
+Le tematiche proposte dai ricercatori CNR sono tratte da articoli pubblicati su riviste scientifiche attraverso un processo di peer review e rappresentano lo stato dell’arte della ricerca marina. Gli argomenti proposti toccano tutti gli aspetti delle scienze marine, alcuni esempi sono:
+
+- Dinamiche delle masse di acqua densa in Mar Adriatico ed Oceano Antartico;
+- studio dei processi di mescolamento a livello di microstruttura nel Golfo di Triese durante un evento di Bora;
+- ricostruzione 3D di campi di moto ondoso attraverso sistemi di stereocamere e studio dell’origine e della frequenza   di onde estreme;
+- origine ed effetto delle microplastiche in mare;
+- zooplankton Adriatico in contesti portuali;
+- valutazione dei livelli di mercurio e dei suoi effetti negli organismi bentonici della laguna di Venezia;
+- strategie e politiche volte alla pianificazione dello spazio marittimo per ottenere dinamiche di sviluppo sostenibile;
+- relazione tra l’idrodinamica dell’Adriatico Meridionale e la struttura del fondale marino;
+- ricostruzione della batimetria della laguna di Venezia con metodologie multi-beam;
+- dispersione di larve nella laguna di Venezia alla luce dei cambiamenti climatici con un orizzonte temporale al 2050 e 2100
+
+La sfida artistica per chi parteciperà al progetto sarà quella di comprendere il lavoro dello scienziato, rappresentarlo in modo da chiarire un processo, o promuovere una riflessione o ancora provacare una discussione. 
+
 # A chi è rivolto
 La Call è rivolta agli studenti dell'Accademia di Belle Arti di Venezia.
 
