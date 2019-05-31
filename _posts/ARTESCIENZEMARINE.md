@@ -21,30 +21,125 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
 
 ### Gli artisti e i ricercatori coinvolti
 
-Artisti	 	    Ricercatori     Opera
-Alberti	Isacco	Schroeder Anna	**Metabarcoding**
-Breda	Alice	Camatti Elisa	**Invasione**
-Cescon	Stefano	Moschino Vanessa	**Honey Boxes # Composition**
-Cilli	Manuel	Bongiorni Lucia	**River-Sea Continuum**
-Deganello Giulia  Giacomazzi Erica	Nesto Nicoletta	**Trama di Fondo**
-Dou	Cyann	Corami Fabiana	**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**
-Fioravanti	Benedetta	Bonaldo Davide	**Adriatic framework**
-Fulgaro	Giulia	Guarneri Irene	**Center conversion, inside the x(ilo) center**
-Furlan	Giulia	Zangrando Roberta	**C8H8O3**
-Graser	Lucia	Barbariol Francesco	**Oceanstructure**
-Maran	Cecilia	Ceregato Alessandro	**Mare Superum**
-Munn	Jared	Benetazzo Alvise	**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**
-Niero	Arianna	Ghezzo Michol	**Anthropogenic Underwater Noise**
-Nolasco	Angelica	Falcieri Francesco Marcello	**Turbolenze**
-Perotello	Michela	Matricardo Fantina	**Ciechi ma non sordi**
-Piccinni	Francesca	Bergamasco Andrea	**Profondare**
-Polloni	Federico 	Umgiesser Georg	**Tracce di Marea**
-Querin	Giulia	Andrea Barbanti e Alessandro Sarretta	**Divide et impera**
-Rossato	Francesca	Varadè Massimilian	**Ciò che c'è**
-Rovea	Cristian	Sandra Donnici e Luca Zaggia	**Foraminiferi**
-Sagone	Marta	Sigovini Marco	**Nemico invisibile**
-Scialpi	Ginevra	Bernardi Aubry Fabrizio	**Invisibili flussi**
-Secchi	Chiara	Bergamasco Alessandro	**Pĕlăgus**
+<table style="width:100%">
+  <tr>
+    <th>**Artisti**</th>
+    <th>**Ricercatori** </th>
+    <th>**Titolo Opera**</th>
+  </tr>
+  <tr>
+    <td>Alberti	Isacco</td>
+    <td>Schroeder Anna</td>
+    <td>**Metabarcoding**</td>
+  </tr>
+  <tr>
+    <td>Breda	Alice</td>
+    <td>Camatti Elisa</td>
+    <td>**Invasione**</td>
+  </tr>
+  <tr>
+    <td>Cescon	Stefano</td>
+    <td>Moschino Vanessa</td>
+    <td>**Honey Boxes # Composition**</td>
+  </tr>
+  <tr>
+    <td>Cilli	Manuel</td>
+    <td>Bongiorni Lucia</td>
+    <td>**River-Sea Continuum**</td>
+  </tr><tr>
+    <td>Deganello Giulia e  Giacomazzi Erica</td>
+    <td>Nesto Nicoletta</td>
+    <td>**Trama di Fondo**</td>
+  </tr>
+  <tr>
+    <td>Dou	Cyann</td>
+    <td>Corami Fabiana</td>
+    <td>**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**</td>
+  </tr><tr>
+    <td>Fioravanti	Benedetta</td>
+    <td>Bonaldo Davide</td>
+    <td>**Adriatic framework**</td>
+  </tr>
+  <tr>
+    <td>Fulgaro	Giulia</td>
+    <td>Guarneri Irene</td>
+    <td>**Center conversion, inside the x(ilo) center**</td>
+  </tr>
+  <tr>
+    <td>Furlan	Giulia</td>
+    <td>Zangrando Roberta</td>
+    <td>**C8H8O3**</td>
+  </tr>
+  <tr>
+    <td>Graser	Lucia</td>
+    <td>Barbariol Francesco</td>
+    <td>**Oceanstructure**</td>
+  </tr>
+  <tr>
+    <td>Maran	Cecilia</td>
+    <td>Ceregato Alessandro</td>
+    <td>**Mare Superum**</td>
+  </tr>
+  <tr>
+    <td>Munn	Jared</td>
+    <td>Benetazzo Alvise</td>
+    <td>**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**</td>
+  </tr>
+  <tr>
+    <td>Niero	Arianna</td>
+    <td>Ghezzo Michol</td>
+    <td>**Anthropogenic Underwater Noise**</td>
+  </tr>
+  <tr>
+    <td>Nolasco	Angelica</td>
+    <td>Falcieri Francesco Marcello</td>
+    <td>**Turbolenze**</td>
+  </tr>
+  <tr>
+    <td>Perotello	Michela</td>
+    <td>Matricardo Fantina</td>
+    <td>**Ciechi ma non sordi**</td>
+  </tr>
+  <tr>
+    <td>Piccinni	Francesca</td>
+    <td>Bergamasco Andrea</td>
+    <td>**Profondare**</td>
+  </tr>
+  <tr>
+    <td>Polloni	Federico</td>
+    <td>Umgiesser Georg</td>
+    <td>**Tracce di Marea**</td>
+  </tr>
+  <tr>
+    <td>Querin	Giulia</td>
+    <td>Andrea Barbanti e Alessandro Sarretta</td>
+    <td>**Divide et impera**</td>
+  </tr>
+  <tr>
+    <td>Rossato	Francesca</td>
+    <td>Varadè Massimilian</td>
+    <td>**Ciò che c'è**</td>
+    <tr>
+      <td>Rovea	Cristian</td>
+      <td>Sandra Donnici e Luca Zaggia</td>
+      <td>**Foraminiferi**</td>
+  </tr>  
+  <tr>
+    <td>Sagone	Marta</td>
+    <td>Sigovini Marco</td>
+    <td>**Nemico invisibile**</td>
+  </tr>
+  <tr>
+    <td>Scialpi	Ginevra</td>
+    <td>Bernardi Aubry Fabrizio</td>
+    <td>**Invisibili flussi**</td>
+  </tr>
+  <tr>
+    <td>Secchi	Chiara</td>
+    <td>Bergamasco Alessandro</td>
+    <td>**Pĕlăgus**</td>
+  </tr> 
+</table>
 
 ### Come raggiungerci
 
