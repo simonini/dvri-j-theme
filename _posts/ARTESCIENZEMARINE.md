@@ -1,9 +1,16 @@
 ---
+layout: post
+title: World Oceans Day aperta la Call 4 Artists!
 published: true
+toc: true
 ---
 ## Mostra “L’arte delle Scienze Marine - Gli oceani ritratti da artisti e ricercatori”
 
 In occasione del World Oceans Day 2019 l’[Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche](http://www.ismar.cnr.it/), l’[Accademia di Belle Arti di Venezia](http://accademiavenezia.it) e il [Distretto Veneziano Ricerca e Innovazione](http://distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](http://venice.sciencegallery.com), organizzano presso la Tesa 102 dell’Arsenale di Venezia la mostra **“L’arte delle Scienze Marine – Gli oceani ritratti da artisti e ricercatori”.**
+
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/assets/posts/WOD1.jpg" alt="world ocean day - 2019" />
+</div>
 
 Apertura al pubblico dalle ore 15.00 di sabato 8 giugno, accesso attraverso la tesa 105 Arsenale di Venezia.
 
@@ -39,7 +46,11 @@ Sagone	Marta	Sigovini Marco	**Nemico invisibile**
 Scialpi	Ginevra	Bernardi Aubry Fabrizio	**Invisibili flussi**
 Secchi	Chiara	Bergamasco Alessandro	**Pĕlăgus**
 
-### Come raggiungerci 
+### Come raggiungerci
+
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/assets/posts/mappa_cnr:ismar.jpeg" alt="world ocean day - 2019" />
+</div>
 
 **Da ferrovia o Piazzale Roma**
 - vaporetti ACTV 5.2 con fermata “Bacini – Arsenale Nord”
