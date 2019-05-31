@@ -24,29 +24,29 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
 
 |**Artisti**|**Ricercatori**|**Titolo Opera**|
 |--- |--- |--- |
-|AlbertiIsacco|Schroeder Anna|**Metabarcoding**|
-|BredaAlice|Camatti Elisa|**Invasione**|
-|CesconStefano|Moschino Vanessa|**Honey Boxes # Composition**|
-|CilliManuel|Bongiorni Lucia|**River-Sea Continuum**|
+|Alberti Isacco|Schroeder Anna|**Metabarcoding**|
+|Breda Alice|Camatti Elisa|**Invasione**|
+|Cescon Stefano|Moschino Vanessa|**Honey Boxes # Composition**|
+|Cilli Manuel|Bongiorni Lucia|**River-Sea Continuum**|
 |Deganello Giulia e  Giacomazzi Erica|Nesto Nicoletta|**Trama di Fondo**|
-|DouCyann|Corami Fabiana|**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**|
-|FioravantiBenedetta|Bonaldo Davide|**Adriatic framework**|
-|FulgaroGiulia|Guarneri Irene|**Center conversion, inside the x(ilo) center**|
-|FurlanGiulia|Zangrando Roberta|**C8H8O3**|
-|GraserLucia|Barbariol Francesco|**Oceanstructure**|
-|MaranCecilia|Ceregato Alessandro|**Mare Superum**|
-|MunnJared|Benetazzo Alvise|**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**|
-|NieroArianna|Ghezzo Michol|**Anthropogenic Underwater Noise**|
-|NolascoAngelica|Falcieri Francesco Marcello|**Turbolenze**|
-|PerotelloMichela|Matricardo Fantina|**Ciechi ma non sordi**|
-|PiccinniFrancesca|Bergamasco Andrea|**Profondare**|
-|PolloniFederico|Umgiesser Georg|**Tracce di Marea**|
-|QuerinGiulia|Andrea Barbanti e Alessandro Sarretta|**Divide et impera**|
-|RossatoFrancesca|Varadè Massimilian|**Ciò che c'è**|
-|RoveaCristian|Sandra Donnici e Luca Zaggia|**Foraminiferi**|
-|SagoneMarta|Sigovini Marco|**Nemico invisibile**|
-|ScialpiGinevra|Bernardi Aubry Fabrizio|**Invisibili flussi**|
-|SecchiChiara|Bergamasco Alessandro|**Pĕlăgus**|
+|Dou Cyann|Corami Fabiana|**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**|
+|Fioravanti Benedetta|Bonaldo Davide|**Adriatic framework**|
+|Fulgaro Giulia|Guarneri Irene|**Center conversion, inside the x(ilo) center**|
+|Furlan Giulia|Zangrando Roberta|**C8H8O3**|
+|Graser Lucia|Barbariol Francesco|**Oceanstructure**|
+|Maran Cecilia|Ceregato Alessandro|**Mare Superum**|
+|Munn Jared|Benetazzo Alvise|**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**|
+|Niero Arianna|Ghezzo Michol|**Anthropogenic Underwater Noise**|
+|Nolasco Angelica|Falcieri Francesco Marcello|**Turbolenze**|
+|Perotello Michela|Matricardo Fantina|**Ciechi ma non sordi**|
+|Piccinni Francesca|Bergamasco Andrea|**Profondare**|
+|Polloni Federico|Umgiesser Georg|**Tracce di Marea**|
+|Querin Giulia|Andrea Barbanti e Alessandro Sarretta|**Divide et impera**|
+|Rossato Francesca|Varadè Massimilian|**Ciò che c'è**|
+|Rovea Cristian|Sandra Donnici e Luca Zaggia|**Foraminiferi**|
+|Sagone Marta|Sigovini Marco|**Nemico invisibile**|
+|Scialpi Ginevra|Bernardi Aubry Fabrizio|**Invisibili flussi**|
+|Secchi Chiara|Bergamasco Alessandro|**Pĕlăgus**|
 
 ### Come raggiungerci
 
