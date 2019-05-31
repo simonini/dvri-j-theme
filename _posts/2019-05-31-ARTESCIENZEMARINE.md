@@ -21,125 +21,31 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
 
 ### Gli artisti e i ricercatori coinvolti
 
-<table style="width:100%">
-  <tr>
-    <th>**Artisti**</th>
-    <th>**Ricercatori** </th>
-    <th>**Titolo Opera**</th>
-  </tr>
-  <tr>
-    <td>Alberti	Isacco</td>
-    <td>Schroeder Anna</td>
-    <td>**Metabarcoding**</td>
-  </tr>
-  <tr>
-    <td>Breda	Alice</td>
-    <td>Camatti Elisa</td>
-    <td>**Invasione**</td>
-  </tr>
-  <tr>
-    <td>Cescon	Stefano</td>
-    <td>Moschino Vanessa</td>
-    <td>**Honey Boxes # Composition**</td>
-  </tr>
-  <tr>
-    <td>Cilli	Manuel</td>
-    <td>Bongiorni Lucia</td>
-    <td>**River-Sea Continuum**</td>
-  </tr><tr>
-    <td>Deganello Giulia e  Giacomazzi Erica</td>
-    <td>Nesto Nicoletta</td>
-    <td>**Trama di Fondo**</td>
-  </tr>
-  <tr>
-    <td>Dou	Cyann</td>
-    <td>Corami Fabiana</td>
-    <td>**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**</td>
-  </tr><tr>
-    <td>Fioravanti	Benedetta</td>
-    <td>Bonaldo Davide</td>
-    <td>**Adriatic framework**</td>
-  </tr>
-  <tr>
-    <td>Fulgaro	Giulia</td>
-    <td>Guarneri Irene</td>
-    <td>**Center conversion, inside the x(ilo) center**</td>
-  </tr>
-  <tr>
-    <td>Furlan	Giulia</td>
-    <td>Zangrando Roberta</td>
-    <td>**C8H8O3**</td>
-  </tr>
-  <tr>
-    <td>Graser	Lucia</td>
-    <td>Barbariol Francesco</td>
-    <td>**Oceanstructure**</td>
-  </tr>
-  <tr>
-    <td>Maran	Cecilia</td>
-    <td>Ceregato Alessandro</td>
-    <td>**Mare Superum**</td>
-  </tr>
-  <tr>
-    <td>Munn	Jared</td>
-    <td>Benetazzo Alvise</td>
-    <td>**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**</td>
-  </tr>
-  <tr>
-    <td>Niero	Arianna</td>
-    <td>Ghezzo Michol</td>
-    <td>**Anthropogenic Underwater Noise**</td>
-  </tr>
-  <tr>
-    <td>Nolasco	Angelica</td>
-    <td>Falcieri Francesco Marcello</td>
-    <td>**Turbolenze**</td>
-  </tr>
-  <tr>
-    <td>Perotello	Michela</td>
-    <td>Matricardo Fantina</td>
-    <td>**Ciechi ma non sordi**</td>
-  </tr>
-  <tr>
-    <td>Piccinni	Francesca</td>
-    <td>Bergamasco Andrea</td>
-    <td>**Profondare**</td>
-  </tr>
-  <tr>
-    <td>Polloni	Federico</td>
-    <td>Umgiesser Georg</td>
-    <td>**Tracce di Marea**</td>
-  </tr>
-  <tr>
-    <td>Querin	Giulia</td>
-    <td>Andrea Barbanti e Alessandro Sarretta</td>
-    <td>**Divide et impera**</td>
-  </tr>
-  <tr>
-    <td>Rossato	Francesca</td>
-    <td>Varadè Massimilian</td>
-    <td>**Ciò che c'è**</td>
-    <tr>
-      <td>Rovea	Cristian</td>
-      <td>Sandra Donnici e Luca Zaggia</td>
-      <td>**Foraminiferi**</td>
-  </tr>  
-  <tr>
-    <td>Sagone	Marta</td>
-    <td>Sigovini Marco</td>
-    <td>**Nemico invisibile**</td>
-  </tr>
-  <tr>
-    <td>Scialpi	Ginevra</td>
-    <td>Bernardi Aubry Fabrizio</td>
-    <td>**Invisibili flussi**</td>
-  </tr>
-  <tr>
-    <td>Secchi	Chiara</td>
-    <td>Bergamasco Alessandro</td>
-    <td>**Pĕlăgus**</td>
-  </tr>
-</table>
+|**Artisti**|**Ricercatori**|**Titolo Opera**|
+|--- |--- |--- |
+|AlbertiIsacco|Schroeder Anna|**Metabarcoding**|
+|BredaAlice|Camatti Elisa|**Invasione**|
+|CesconStefano|Moschino Vanessa|**Honey Boxes # Composition**|
+|CilliManuel|Bongiorni Lucia|**River-Sea Continuum**|
+|Deganello Giulia e  Giacomazzi Erica|Nesto Nicoletta|**Trama di Fondo**|
+|DouCyann|Corami Fabiana|**SEGRETAMENTE ENORMEMENTE - La stravaganza del basso costo**|
+|FioravantiBenedetta|Bonaldo Davide|**Adriatic framework**|
+|FulgaroGiulia|Guarneri Irene|**Center conversion, inside the x(ilo) center**|
+|FurlanGiulia|Zangrando Roberta|**C8H8O3**|
+|GraserLucia|Barbariol Francesco|**Oceanstructure**|
+|MaranCecilia|Ceregato Alessandro|**Mare Superum**|
+|MunnJared|Benetazzo Alvise|**Medicine dogs ii in the Belly of the Sea in the Belly of the Snake**|
+|NieroArianna|Ghezzo Michol|**Anthropogenic Underwater Noise**|
+|NolascoAngelica|Falcieri Francesco Marcello|**Turbolenze**|
+|PerotelloMichela|Matricardo Fantina|**Ciechi ma non sordi**|
+|PiccinniFrancesca|Bergamasco Andrea|**Profondare**|
+|PolloniFederico|Umgiesser Georg|**Tracce di Marea**|
+|QuerinGiulia|Andrea Barbanti e Alessandro Sarretta|**Divide et impera**|
+|RossatoFrancesca|Varadè Massimilian|**Ciò che c'è**|
+|RoveaCristian|Sandra Donnici e Luca Zaggia|**Foraminiferi**|
+|SagoneMarta|Sigovini Marco|**Nemico invisibile**|
+|ScialpiGinevra|Bernardi Aubry Fabrizio|**Invisibili flussi**|
+|SecchiChiara|Bergamasco Alessandro|**Pĕlăgus**|
 
 ### Come raggiungerci
 
