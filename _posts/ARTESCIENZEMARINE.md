@@ -163,4 +163,4 @@ Arsenale Nord” oppure
 Per consultare gli orari e le fermate in dettaglio si veda il sito
 https://chebateo.it/
 
-### PER INFORMAZIONE CONTATTARE DVR@UNIVE.IT
+### PER INFORMAZIONE CONTATTARE DVR@UNIVE.IT 
