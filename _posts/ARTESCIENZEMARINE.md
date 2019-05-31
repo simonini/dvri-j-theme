@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Mostra “L’arte delle Scienze Marine - Gli oceani ritratti da artisti e ricercatori”
 
@@ -58,4 +58,3 @@ Per consultare gli orari e le fermate in dettaglio si veda il sito
 https://chebateo.it/
 
 ### PER INFORMAZIONE CONTATTARE DVR@UNIVE.IT
-
