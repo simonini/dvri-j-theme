@@ -144,23 +144,26 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
 ### Come raggiungerci
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/mappa_cnr:ismar.jpeg" alt="world ocean day - 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/mappa_cnr_ismar.jpeg" alt="world ocean day - 2019" />
 </div>
 
-**Da ferrovia o Piazzale Roma**
-- vaporetti ACTV 5.2 con fermata “Bacini – Arsenale Nord”
-oppure
--vaporetti ACTV 5.2, con fermata “Celestia”, poi percorrere la passerella che costeggia il muro nord dell’Arsenale.
+## Da ferrovia o Piazzale Roma
+<ul>
+<li> vaporetti ACTV 5.2 con fermata “Bacini – Arsenale Nord” </li>
+
+<li>vaporetti ACTV 5.2, con fermata “Celestia”, poi percorrere la passerella che costeggia il muro nord dell’Arsenale.</li>
+</ul>
 
 Una volta scesi dal vaporetto girare a destra e seguire le indicazioni per la Tesa 105, tesa di passaggio per raggiungere la tesa 102
 
 Tutte le linee di navigazione fermano ai Bacini o Celestia ma con
 percorsi più lunghi o con altri punti di partenza sono:
--vaporetti ACTV 5.1, 5.2, 4.1, 4.2 che con fermata “Bacini –
-Arsenale Nord” oppure
-- vaporetti ACTV 5.1, 5.2, 4.1, 4.2 con fermata “Celestia”, poi percorrere la passerella che costeggia il muro nord dell’Arsenale.
+<ul>
+<li>vaporetti ACTV 5.1, 5.2, 4.1, 4.2 che con fermata “Bacini –
+Arsenale Nord” </li>
+<li> vaporetti ACTV 5.1, 5.2, 4.1, 4.2 con fermata “Celestia”, poi percorrere la passerella che costeggia il muro nord dell’Arsenale.</li>
 
 Per consultare gli orari e le fermate in dettaglio si veda il sito
 https://chebateo.it/
 
-### PER INFORMAZIONE CONTATTARE DVR@UNIVE.IT 
+### PER INFORMAZIONE CONTATTARE DVR@UNIVE.IT
