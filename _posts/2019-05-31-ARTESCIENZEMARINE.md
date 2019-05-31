@@ -54,7 +54,6 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
   <img src="{{ site.baseurl }}/assets/posts/mappa_cnr_ismar.jpeg" alt="world ocean day - 2019" />
 </div>
 
-## Da ferrovia o Piazzale Roma
 <ul>
 <li> vaporetti ACTV 5.2 con fermata “Bacini – Arsenale Nord” </li>
 
