@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Oceans Day aperta la Call 4 Artists!
+title: World Oceans Day Mostra
 published: true
 toc: true
 ---
@@ -138,7 +138,7 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
     <td>Secchi	Chiara</td>
     <td>Bergamasco Alessandro</td>
     <td>**Pĕlăgus**</td>
-  </tr> 
+  </tr>
 </table>
 
 ### Come raggiungerci
