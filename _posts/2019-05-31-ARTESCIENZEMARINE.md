@@ -75,5 +75,5 @@ https://chebateo.it/
 ### Il programma completo dell'evento
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/volantino.jpg" alt="world oceans day 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/Volantino.jpg" alt="world oceans day 2019" />
 </div>
