@@ -1,15 +1,15 @@
 ---
 layout: post
-title: World Oceans Day Mostra
+title: World Oceans Day 2019 Mostra “L’Arte delle Scienze Marine"
 published: true
 toc: true
 ---
-## Mostra “L’arte delle Scienze Marine - Gli oceani ritratti da artisti e ricercatori”
+## Mostra “L’Arte delle Scienze Marine - Gli oceani ritratti da artisti e ricercatori”
 
 In occasione del World Oceans Day 2019 l’[Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche](http://www.ismar.cnr.it/), l’[Accademia di Belle Arti di Venezia](http://accademiavenezia.it) e il [Distretto Veneziano Ricerca e Innovazione](http://distrettovenezianoricerca.it), in collaborazione con [Science Gallery Venice](http://venice.sciencegallery.com), organizzano presso la Tesa 102 dell’Arsenale di Venezia la mostra **“L’arte delle Scienze Marine – Gli oceani ritratti da artisti e ricercatori”.**
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/WOD1.jpg" alt="world ocean day - 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/WOD1.jpg" alt="world oceans day 2019" />
 </div>
 
 
@@ -51,7 +51,7 @@ La mostra **“L’arte delle Scienze Marine – Gli oceani ritratti  da artisti
 ### Come raggiungerci
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/mappa_cnr_ismar.jpeg" alt="world ocean day - 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/mappa_cnr_ismar.jpeg" alt="world oceans day 2019" />
 </div>
 
 <ul>
