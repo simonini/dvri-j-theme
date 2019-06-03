@@ -71,3 +71,9 @@ Arsenale Nord” </li>
 
 Per consultare gli orari e le fermate in dettaglio si veda il sito
 https://chebateo.it/
+
+### Il programma completo dell'evento
+
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/assets/posts/volantino.jpg" alt="world oceans day 2019" />
+</div>
