@@ -1,0 +1,113 @@
+- name: Giorgio Arcara
+  description: >
+    Giorgio Arcara è Coordinatore del Laboratorio di Elettroencefalografia e Magnetoencefalografia presso l’Ospedale
+    IRCCS San Camillo (Venezia). Nel 2010 Ha terminato il suo PhD in Psciolobiologia presso L’università di Padova. I suoi
+    principali interessi di ricerca sono le basi neurali del linguaggio e della comunicazione, in particolare nei suoi
+    studi si dedica a sviluppare metodi per valutare e riabilitare le abilità comunicative in pazienti con danni cerebrali
+    e neurologici.
+  img: Giorgio_Arcara.png
+
+- name: Paolo Zavagna
+  description: >
+    Paolo Zavagna ha unito studi musicali – Pianoforte, Musica elettronica – e universitari – PhD in Studi audiovisivi –
+    in un percorso di continuo dialogo tra discipline, pubblicando articoli e tenendo concerti in diverse città europee;
+    ha ricevuto una commissione per la 56. Biennale Musica di Venezia.
+    È co-direttore della rivista Musica/Tecnologia, cura i progetti www.venicesoundmap.eu e www.piazzapiazze.net,
+    è membro dell’Arazzi Laptop Ensemble e partner del progetto europeo Ecouter le monde.
+
+  img: 11.png
+
+- name: Stefano Coletto
+  description: >
+    Dal 2003 lavora come curatore presso la l'Istituzione Fondazione Bevilacqua La Masa.
+    Dal 2005 al 2010 ha ideato e coordinato il progetto internazionale Tomorrow now.
+    Pratiche artistiche contemporanee nella cultura digitale.
+    È stato assistente alla didattica dal 2005 al 2008 presso l'Università IUAV di Venezia per i
+    Laboratori di Progettazione e Produzione delle Arti Visive;
+    nel 2012 e nel 2013 docente a contratto alla NABA di Milano;
+    dal 2014 docente presso la Fondazione Fotografia di Modena.
+    Numerosi i testi di critica e approfondimento teorico pubblicati tra cataloghi, riviste e progetti speciali.
+  img: 15.png
+
+- name: Angela Pomero
+  description: >
+    Laureata con lode alla Facoltà di Ingegneria dell’Università di Padova,
+    attualmente è Prima Tecnologa presso l’Istituto di Scienze Marine (CNR-ISMAR)
+    di Venezia e Ingegnere Associato a C+P Engineers.
+    La sua ricerca si concentra sull’oceanongrafia fisica, con un particolare interesse
+    per le onde oceaaniche e il cambiamento climatico.
+    Responsabile della Segreteria Tecnica e Scientifica,
+    è anche coordinatrice della gestione delle principali infrastrutture di ricerca e dell’archivio documentario.
+  img: 5.png
+
+- name: Mauro Bon
+  description: >
+    Nato a Venezia nel 1962, si è laureato in Sc. Biologiche.
+    É  responsabile del servizio “Ricerca e divulgazione scientifica” al Museo di St. Nat. di Venezia,
+    dove ha curato il nuovo allestimento museale.
+    Ha insegnato Archeozoologia e Museologia scientifica all’Università Ca’Foscari.
+    É stato Presidente dell’Ass. Faunisti Veneti dal 2004 al 2015.
+    Ha svolto numerose ricerche ecologiche e faunistiche in laguna di Venezia e nel delta del Po.
+    Ha pubblicato oltre 200 lavori scientifici e divulgativi.
+  img: 10.png
+
+- name: Francesco Marcello Falcieri
+  description: >
+    Laurea con Lode (2007) in Biologia Marina e Dottorato di Ricerca in Biologia ed Ecologia Marina (2012)
+    presso l'Università Politecnica delle Marche.
+    Dal 2018 ricercatore presso l’Istituto di Science Marine del CNR (dove ha lavorato dal 2011 come post-doc)
+    svolge attività di ricerca in ambito oceanografico-fisico e biologico utilizzando misure dirette e modelli numerici.
+  img: 7.png
+
+- name: Gloria Vallese
+  description: >
+    Laureata al D.A.M.S. di Bologna con una tesi in Semiotica, relatore Umberto Eco,
+    nel 1999 è stata tra i fondatori del Corso di Nuove Tecnologie dell’Arte dell’Accademia di Belle Arti di Venezia,
+    di cui è attualmente docente di Elementi di Iconografia e Iconologia.
+    Ha sviluppato ricerche pionieristiche nel campo delle Digital Humanities,
+    con esperimenti di applicazione delle Visual Face Recognition nell’esame di dipinti antichi,
+    cura di mostre d’arte contemporanea, sviluppo di rassegne dedicate al videogame e alle sue applicazioni museali,
+    sperimentazioni interattive di contenuti scientifici rivolte al grande pubblico,
+    come nella mostra Stelle e Viaggi <a href="http://www.stelleeviaggi.org" target="blank">stelleeviaggi.org</a>.
+    <br>
+    Ha pubblicato ricerche sul tema della follia e la medicina morale in Leonardo, Bosch, Bruegel,
+    e sull’iconografia astronomica nell’arte medievale, con particolare riferimento all’arte veneziana del ‘2-300.
+  img: 9.png
+
+- name: Pietroluigi Genovesi
+  description: >
+    Laureato in Economia Aziendale, prosegue i suoi studi specializzandosi in Economia e
+    Gestione delle Arti all’Università Ca’ Foscari.
+    Consegue il Master in Produits Culturels all’Université Paris1 Panthéon – Sorbonne e il Master in
+    Diritto del Lavoro all’Università Ca’ Foscari.
+    Dal 2008 lavora alla Fondazione Musei Civici di Venezia nell’ambito Risorse Umane dove si occupa di formazione,
+    ricerca e del coordinamento dei rapporti tra le 12 sedi museali, le Università e gli Istituti di ricerca.
+  img: 13.png
+
+- name: Fabiana Corami
+  description: >
+    Ricercatore presso l’Istituto per la Dinamica dei Processi Ambientali, CNR-IDPA.
+    Biologa con PhD in Scienze Ambientali si occupa di chimica ambientale e di altri temi ambientali da più di vent’anni.
+    Attualmente si occupa di microplastiche, tema importante e multidisciplinare che coinvolge anche discipline sociali
+    ed economiche, considerato l’impatto che la plastica ha sulle nostre vite.
+    Nutrendo un profondo interesse per la divulgazione accademica e multidisciplinare,
+    è autrice di pubblicazioni scientifiche e ha partecipato a vari congressi internazionali sull’ambiente.
+  img: 6.png
+
+- name: Petra Schaefer
+  description: >
+    Petra Schaefer è assistente della direzione | PR del Centro Tedesco di Studi Veneziani,
+    è responsabile per le relazioni artistiche e modera gli Artist Talk.
+    Ha studiato storia dell’arte presso le Università di Heidelberg, Bologna e Bonn.
+    È dottoranda presso l’Università di Magonza con una tesi sul dialogo culturale nell’opera dell’artista Lore Bert.
+    Nel 2017 ha curato la mostra «Ritratto/ Copia» per MUVE contemporaneo a Ca’ Rezzonico.
+    È corrispondente per «Weltkunst» (ZEIT Kunstverlag) e pubblica per «Künstler» (Zeitkunstverlag).
+  img: 12.png
+
+- name: Sandro Carniel
+  description: >
+    Oceanografo di livello internazionale e divulgatore scientifico, scrive e parla dell’importanza degli oceani
+    in una fase di cambiamenti veloci, coniugando rigore scientifico e stile coinvolgente.
+    Primo Ricercatore presso il CNR in Venezia, autore di oltre 250 pubblicazioni e contributi scientifici internazionali,
+    affronta i temi del rapporto tra oceani e clima con un approccio multi- e interdisciplinare.
+    Col suo ultimo libro “Oceani, il futuro scritto nell’acqua” (Hoepli) si è aggiudicato il Premio Costa Smeralda 2018.
