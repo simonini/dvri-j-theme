@@ -53,18 +53,20 @@ toc: true
 All’interno del Leonardo Group di Science Gallery Venice sono stati scelti diversi membri che fanno parte delle Istituzioni affiliate al DVRI, che vi presentiamo di seguito.</p>
 
 {% for member in site.data.science-gallery-members %}
-  <h4>{{ member.name }}</h4>
-  <div class="row leonardo">
-    <div class="col-sm-3">
-      <img src="{{ site.baseurl }}/assets/progetti/science-gallery/{{member.img}}"
-           alt="Leonardo - Immagine di {{member.name}}" />
+  <div class="leonardo">
+    <h4>{{ member.name }}</h4>
+    <div class="row">
+      <div class="col-sm-3">
+        <img src="{{ site.baseurl }}/assets/progetti/science-gallery/{{member.img}}"
+             alt="Leonardo - Immagine di {{member.name}}" />
+      </div>
+      <div class="col-sm-9">{{ member.description }}</div>
     </div>
-    <div class="col-sm-9">{{ member.description }}</div>
   </div>
 {% endfor %}
 
 <style>
-  h4 { text-transform: uppercase }
+  .leonardo h4 { text-transform: uppercase }
   .leonardo { margin-bottom: 40px }
   .leonardo img { padding-top: 10px; width: 300px; max-width: 100% }
 </style>

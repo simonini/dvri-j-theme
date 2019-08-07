@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem 'jekyll-toc'
+gem 'jekyll-toc', git: 'https://github.com/simonini/jekyll-toc'
 gem 'jekyll'
 gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
