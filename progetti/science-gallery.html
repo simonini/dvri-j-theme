@@ -49,89 +49,27 @@ toc: true
 <!-- <img src="{{ site.baseurl }}/assets/progetti/science-gallery/cover_leonardos.png" alt="Leonardo" style="min-width: 100%" /> -->
 <p>Il Leonardo Group si compone di persone che sono fonte di ispirazione per chi le circonda grazie alla loro abilità di sfidare i limiti prestabiliti. Di diverse provenienze, dalla scienza alla tecnologia, dal business alle arti, dai new media alla cultura, i Leonardos desiderano promuovere il cambiamento ed incoraggiare, in modo creativo, l’interesse di  una nuova generazione verso i temi di scienza e tecnologia.
 </p>
-<p>I Leonardos aiutano Science Gallery a raggiungere il suo obiettivo primario: accendere la creatività e la curiosità nel punto di collisione tra arte e scienza.
+<p style="margin-bottom: 40px">I Leonardos aiutano Science Gallery a raggiungere il suo obiettivo primario: accendere la creatività e la curiosità nel punto di collisione tra arte e scienza.
 All’interno del Leonardo Group di Science Gallery Venice sono stati scelti diversi membri che fanno parte delle Istituzioni affiliate al DVRI, che vi presentiamo di seguito.</p>
 
+{% for member in site.data.science-gallery-members %}
+  <div class="leonardo">
+    <h4>{{ member.name }}</h4>
+    <div class="row">
+      <div class="col-sm-3">
+        <img src="{{ site.baseurl }}/assets/progetti/science-gallery/{{member.img}}"
+             alt="Leonardo - Immagine di {{member.name}}" />
+      </div>
+      <div class="col-sm-9">{{ member.description }}</div>
+    </div>
+  </div>
+{% endfor %}
 
-  <h4>GIORGIO ARCARA</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/Giorgio_Arcara.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1300"/>
-      </td>
-      <td><p>Giorgio Arcara è Coordinatore del Laboratorio di Elettroencefalografia e Magnetoencefalografia presso l’Ospedale IRCCS San Camillo (Venezia). Nel 2010 Ha terminato il suo PhD in Psciolobiologia presso L’università di Padova. I suoi principali interessi di ricerca sono le basi neurali del linguaggio e della comunicazione, in particolare nei suoi studi si dedica a sviluppare metodi per valutare e riabilitare le abilità comunicative in pazienti con danni cerebrali e neurologici.</p></td>
-      </tr>
-    </table>
-  <h4>PAOLO ZAVAGNA</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/11.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Paolo Zavagna ha unito studi musicali – Pianoforte, Musica elettronica – e universitari – PhD in Studi audiovisivi – in un percorso di continuo dialogo tra discipline, pubblicando articoli e tenendo concerti in diverse città europee; ha ricevuto una commissione per la 56. Biennale Musica di Venezia. È co-direttore della rivista Musica/Tecnologia, cura i progetti www.venicesoundmap.eu e www.piazzapiazze.net, è membro dell’Arazzi Laptop Ensemble e partner del progetto europeo Ecouter le monde.</p></td>
-    </tr>
-  </table>
-  <h4>STEFANO COLETTO </h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/15.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1700"/> </td>
-      <td><p>Dal 2003 lavora come curatore presso la l'Istituzione Fondazione Bevilacqua La Masa. Dal 2005 al 2010 ha ideato e coordinato il progetto internazionale Tomorrow now. Pratiche artistiche contemporanee nella cultura digitale. E' stato assistente alla didattica dal 2005 al 2008 presso l'Università IUAV di Venezia per i Laboratori di Progettazione e Produzione delle Arti Visive; nel 2012 e nel 2013 docente a contratto alla NABA di Milano; dal 2014 docente presso la Fondazione Fotografia di Modena. Numerosi i testi di critica e approfondimento teorico pubblicati tra cataloghi, riviste e progetti speciali.</p></td>
-    </tr>
-</table>
-  <h4>ANGELA POMARO </h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/5.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Laureata con lode alla Facoltà di Ingegneria dell’Università di Padova, attualmente è Prima Tecnologa presso l’Istituto di Scienze Marine (CNR-ISMAR) di Venezia e Ingegnere Associato a C+P Engineers. La sua ricerca si concentra sull’oceanongrafia fisica, con un particolare interesse per le onde oceaaniche e il cambiamento climatico. Responsabile della Segreteria Tecnica e Scientifica, è anche coordinatrice della gestione delle principali infrastrutture di ricerca e dell’archivio documentario.</p></td>
-</tr>
-</table>
-  <h4>MAURO BON</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/10.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Nato a Venezia nel 1962, si è laureato in Sc. Biologiche. É  responsabile del servizio “Ricerca e divulgazione scientifica” al Museo di St. Nat. di Venezia, dove ha curato il nuovo allestimento museale. Ha insegnato Archeozoologia e Museologia scientifica all’Università Ca’Foscari. É stato Presidente dell’Ass. Faunisti Veneti dal 2004 al 2015. Ha svolto numerose ricerche ecologiche e faunistiche in laguna di Venezia e nel delta del Po. Ha pubblicato oltre 200 lavori scientifici e divulgativi.</p></td>
-</tr>
-</table>
-  <h4>FRANCESCO MARCELLO FALCIERI</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/7.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1000"> </td>
-      <td><p>Laurea con Lode (2007) in Biologia Marina e Dottorato di Ricerca in Biologia ed Ecologia Marina (2012) presso l'Università Politecnica delle Marche. Dal 2018 ricercatore presso l’Istituto di Science Marine del CNR (dove ha lavorato dal 2011 come post-doc) svolge attività di ricerca in ambito oceanografico-fisico e biologico utilizzando misure dirette e modelli numerici.</p></td>
-</tr>
-</table>
-  <h4>GLORIA VALLESE</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/9.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="2400"> </td>
-      <td><p>Laureata al D.A.M.S. di Bologna con una tesi in Semiotica, relatore Umberto Eco, nel 1999 è stata tra i fondatori del Corso di Nuove Tecnologie dell’Arte dell’Accademia di Belle Arti di Venezia, di cui è attualmente docente di Elementi di Iconografia e Iconologia. Ha sviluppato ricerche pionieristiche nel campo delle Digital Humanities, con esperimenti di applicazione delle Visual Face Recognition nell’esame di dipinti antichi, cura di mostre d’arte contemporanea, sviluppo di rassegne dedicate al videogame e alle sue applicazioni museali, sperimentazioni interattive di contenuti scientifici rivolte al grande pubblico, come nella mostra Stelle e Viaggi. www.stelleeviaggi.org. Ha pubblicato ricerche sul tema della follia e la medicina morale in Leonardo, Bosch, Bruegel, e sull’iconografia astronomica nell’arte medievale, con particolare riferimento all’arte veneziana del ‘2-300.</p></td>
-</tr>
-</table>
-  <h4>PIETROLUIGI GENOVESI</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/13.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400" > </td>
-      <td><p>Laureato in Economia Aziendale, prosegue i suoi studi specializzandosi in Economia e Gestione delle Arti all’Università Ca’ Foscari. Consegue il Master in Produits Culturels all’Université Paris1 Panthéon – Sorbonne e il Master in Diritto del Lavoro all’Università Ca’ Foscari. Dal 2008 lavora alla Fondazione Musei Civici di Venezia nell’ambito Risorse Umane dove si occupa di formazione, ricerca e del coordinamento dei rapporti tra le 12 sedi museali, le Università e gli Istituti di ricerca.</p></td>
-</tr>
-</table>
-  <h4>FABIANA CORAMI</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/6.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1600"/> </td>
-      <td><p>Ricercatore presso l’Istituto per la Dinamica dei Processi Ambientali, CNR-IDPA. Biologa con PhD in Scienze Ambientali si occupa di chimica ambientale e di altri temi ambientali da più di vent’anni. Attualmente si occupa di microplastiche, tema importante e multidisciplinare che coinvolge anche discipline sociali ed economiche, considerato l’impatto che la plastica ha sulle nostre vite. Nutrendo un profondo interesse per la divulgazione accademica e multidisciplinare, è autrice di pubblicazioni scientifiche e ha partecipato a vari congressi internazionali sull’ambiente.</p></td>
-</tr>
-</table>
-  <h4>PETRA SCHAEFER</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/12.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1500"/> </td>
-      <td><p>Petra Schaefer è assistente della direzione | PR del Centro Tedesco di Studi Veneziani, è responsabile per le relazioni artistiche e modera gli Artist Talk. Ha studiato storia dell’arte presso le Università di Heidelberg, Bologna e Bonn. E’ dottoranda presso l’Università di Magonza con una tesi sul dialogo culturale nell’opera dell’artista Lore Bert. Nel 2017 ha curato la mostra «Ritratto/ Copia» per MUVE contemporaneo a Ca’ Rezzonico. E’ corrispondente per «Weltkunst» (ZEIT Kunstverlag) e pubblica per «Künstler» (Zeitkunstverlag).</p></td>
-</tr>
-</table>
-  <h4>SANDRO CARNIEL</h4>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/14.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1500"/> </td>
-      <td><p>Oceanografo di livello internazionale e divulgatore scientifico, scrive e parla dell’importanza degli oceani in una fase di cambiamenti veloci, coniugando rigore scientifico e stile coinvolgente.
-      Primo Ricercatore presso il CNR in Venezia, autore di oltre 250 pubblicazioni e contributi scientifici internazionali, affronta i temi del rapporto tra oceani e clima con un approccio multi- e interdisciplinare. Col suo ultimo libro “Oceani, il futuro scritto nell’acqua” (Hoepli) si è aggiudicato il Premio Costa Smeralda 2018.</p></td>
-</tr>
-</table>
+<style>
+  .leonardo h4 { text-transform: uppercase }
+  .leonardo { margin-bottom: 40px }
+  .leonardo img { padding-top: 10px; width: 300px; max-width: 100% }
+</style>
 
 <h3> CONNECTED - HELLO MACHINE <a href="https://venice.sciencegallery.com/venice.sciencegallery.com/connected" target="_blank">Science Gallery Venice Connected</a></h3>
 <img src="{{ site.baseurl }}/assets/posts/banner_connected.png" alt="Connected Hello Machine Venice" />
@@ -144,165 +82,6 @@ L’installazione rimarrà visitabile fino al 7 aprile 2019: ulteriori informazi
   <li><a href="mailto:info@venice.sciencegallery.com">Mail - Science Gallery Venice</a></li>
   <li><a href="https://venice.sciencegallery.com/">Sito Web - Science Gallery Venice</a></li>
 </ul>
-
-<!---
-<h3> Rassegna Stampa | Science Gallery Venice </h3>
-<img src="{{site.baseurl}}/assets/progetti/science-gallery/science-4.jpg" alt="Render del progetto Science Gallery Venice"/>
-<ul class="rassegna-stampa">
-
-<li>
-<strong>La Nuova di Venezia e Mestre</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/SAN BASILIO AL SERVIZIO DI IUAV E CA' FOSCARI.pdf" target="_blank">San basilio al servizio di iuav e Ca' foscari </a><br/>
-<time>03/12/2016</time>
-</li>
-
-<li>
-<strong>Meteoweb.eu	</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/ NASCE SCIENCE GALLERY VENICE- CONNUBIO PERFETTO TRA SCIENZA E ARTE.pdf" target="_blank"> Nasce science gallery venice: connubio perfetto tra scienza e arte </a> <br/>
-<time>16/12/2016</time>
-</li>
-
-<li>
-<strong>Veneziatoday.it</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/CA'FOSCARI PRESENTA SCIENCE GALLERY, SPAZIO PER RICERCA E INNOVAZIONE- PRONTO NEL 2019.pdf" target="_blank"> Ca'foscari presenta SCIENCE GALLERY, spazio per ricerca e innovazione: pronto nel 2019	 </a> <br/>
-<time>16/12/2016</time>
-</li>
-
-<li>
-<strong>Rai3 TGR Veneto</strong><br/>
-h 19.30 servizio su science gallery venice 19:45 <br/>
-<time>16/12/2016</time>
-</li>
-
-<li>
-<strong>Corriere del Veneto - Ed. Venezia (Corriere della Sera)</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/Venezia Come Dublino.pdf" target="_blank"> Venezia come dublino nasce la SCIENCE GALLERY: tecnologia, arte e design </a> <br/>
-<time>17/12/2016</time>
-</li>
-
-<li>
-<strong>La Nuova di Venezia e Mestre</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/SCIENCE GALLERY PRONTA NEL 2019.pdf" target="_blank"> SCIENCE GALLERY pronta nel 2019 </a> <br/>
-<time>17/12/2016</time>
-</li>
-
-<li>
-<strong>Wired.it</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/LA PRIMA SCIENCE GALLERY ITALIANA SARA' A VENEZIA.pdf" target="_blank"> La prima SCIENCE GALLERY italiana sarà a Venezia</a><br/>
-<time>17/12/2016</time>
-</li>
-
-<li>
-<strong>Ilsole24ore.com</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/CONNETTERE, PARTECIPARE E SORPRENDERE.pdf" target="_blank"> Connettere, partecipare e sorprendere	</a> <br/>
-<time>18/12/2016</time>
-</li>
-
-<li>
-<strong>Veniceonair.com</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/SPAZIO PER SCIENZA, ARTE, DESIGN, INNOVAZIONE.pdf" target="_blank"> SCIENCE GALLERY VENICE a san basilio: spazio per scienza, arte, design, innovazione</a> <br/>
-<time>19/12/2016</time>
-</li>
-
-<li>
-<strong>Aise.it</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/CA' FOSCARI ANNUNCIA SCIENCE GALLERY VENICE- VENEZIA QUINTA CITTA' NEL GLOBAL SCIENCE GALLERY NETWORK.pdf" target="_blank"> Ca' foscari annuncia SCIENCE GALLERY VENICE: venezia quinta citta' nel global science gallery network</a> <br/>
-<time>21/12/2016</time>
-</li>
-
-<li>
-<strong>TST Tutto Scienze e Tecnologie - La Stampa</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/ST Tutto Scienze e Tecnologie(La Stampa).pdf" target="_blank">  Ci vuole arte per raccontare quanto si e' creativi in laboratorio</a><br/>
-<time>21/12/2016</time>
-</li>
-  <li>
-<strong>Researchitaly.it</strong><br/>
-<a href="{{site.baseurl}}/assets/progetti/science-gallery/Researchitaly.pdf" target="_blank">  Science Gallery Venice: thinking and creating innovation</a><br/>
-<time>23/12/2016</time>
-</li>
-</ul>
--->
-
-<!-- alternativa con elenco puntato <ul>
-  <li><h4>GIORGIO ARCARA</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/Giorgio_Arcara.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1300"/>
-      </td>
-      <td><p>Giorgio Arcara è Coordinatore del Laboratorio di Elettroencefalografia e Magnetoencefalografia presso l’Ospedale IRCCS San Camillo (Venezia). Nel 2010 Ha terminato il suo PhD in Psciolobiologia presso L’università di Padova. I suoi principali interessi di ricerca sono le basi neurali del linguaggio e della comunicazione, in particolare nei suoi studi si dedica a sviluppare metodi per valutare e riabilitare le abilità comunicative in pazienti con danni cerebrali e neurologici.</p></td>
-      </tr>
-    </table>
-  <li><h4>PAOLO ZAVAGNA</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/11.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Paolo Zavagna ha unito studi musicali – Pianoforte, Musica elettronica – e universitari – PhD in Studi audiovisivi – in un percorso di continuo dialogo tra discipline, pubblicando articoli e tenendo concerti in diverse città europee; ha ricevuto una commissione per la 56. Biennale Musica di Venezia. È co-direttore della rivista Musica/Tecnologia, cura i progetti www.venicesoundmap.eu e www.piazzapiazze.net, è membro dell’Arazzi Laptop Ensemble e partner del progetto europeo Ecouter le monde.</p></td>
-    </tr>
-  </table>
-  <li><h4>STEFANO COLETTO </h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/15.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1700"/> </td>
-      <td><p>Dal 2003 lavora come curatore presso la l'Istituzione Fondazione Bevilacqua La Masa. Dal 2005 al 2010 ha ideato e coordinato il progetto internazionale Tomorrow now. Pratiche artistiche contemporanee nella cultura digitale. E' stato assistente alla didattica dal 2005 al 2008 presso l'Università IUAV di Venezia per i Laboratori di Progettazione e Produzione delle Arti Visive; nel 2012 e nel 2013 docente a contratto alla NABA di Milano; dal 2014 docente presso la Fondazione Fotografia di Modena. Numerosi i testi di critica e approfondimento teorico pubblicati tra cataloghi, riviste e progetti speciali.</p></td>
-    </tr>
-</table>
-  <li><h4>ANGELA POMARO </h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/5.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Laureata con lode alla Facoltà di Ingegneria dell’Università di Padova, attualmente è Prima Tecnologa presso l’Istituto di Scienze Marine (CNR-ISMAR) di Venezia e Ingegnere Associato a C+P Engineers. La sua ricerca si concentra sull’oceanongrafia fisica, con un particolare interesse per le onde oceaaniche e il cambiamento climatico. Responsabile della Segreteria Tecnica e Scientifica, è anche coordinatrice della gestione delle principali infrastrutture di ricerca e dell’archivio documentario.</p></td>
-</tr>
-</table>
-  <li><h4>MAURO BON</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/10.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400"/> </td>
-      <td><p>Nato a Venezia nel 1962, si è laureato in Sc. Biologiche. É  responsabile del servizio “Ricerca e divulgazione scientifica” al Museo di St. Nat. di Venezia, dove ha curato il nuovo allestimento museale. Ha insegnato Archeozoologia e Museologia scientifica all’Università Ca’Foscari. É stato Presidente dell’Ass. Faunisti Veneti dal 2004 al 2015. Ha svolto numerose ricerche ecologiche e faunistiche in laguna di Venezia e nel delta del Po. Ha pubblicato oltre 200 lavori scientifici e divulgativi.</p></td>
-</tr>
-</table>
-  <li><h4>FRANCESCO MARCELLO FALCIERI</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/7.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1000"> </td>
-      <td><p>Laurea con Lode (2007) in Biologia Marina e Dottorato di Ricerca in Biologia ed Ecologia Marina (2012) presso l'Università Politecnica delle Marche. Dal 2018 ricercatore presso l’Istituto di Science Marine del CNR (dove ha lavorato dal 2011 come post-doc) svolge attività di ricerca in ambito oceanografico-fisico e biologico utilizzando misure dirette e modelli numerici.</p></td>
-</tr>
-</table>
-  <li><h4>GLORIA VALLESE</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/9.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="2400"> </td>
-      <td><p>Laureata al D.A.M.S. di Bologna con una tesi in Semiotica, relatore Umberto Eco, nel 1999 è stata tra i fondatori del Corso di Nuove Tecnologie dell’Arte dell’Accademia di Belle Arti di Venezia, di cui è attualmente docente di Elementi di Iconografia e Iconologia. Ha sviluppato ricerche pionieristiche nel campo delle Digital Humanities, con esperimenti di applicazione delle Visual Face Recognition nell’esame di dipinti antichi, cura di mostre d’arte contemporanea, sviluppo di rassegne dedicate al videogame e alle sue applicazioni museali, sperimentazioni interattive di contenuti scientifici rivolte al grande pubblico, come nella mostra Stelle e Viaggi. www.stelleeviaggi.org. Ha pubblicato ricerche sul tema della follia e la medicina morale in Leonardo, Bosch, Bruegel, e sull’iconografia astronomica nell’arte medievale, con particolare riferimento all’arte veneziana del ‘2-300.</p></td>
-</tr>
-</table>
-  <li><h4>PIETROLUIGI GENOVESI</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/13.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1400" > </td>
-      <td><p>Laureato in Economia Aziendale, prosegue i suoi studi specializzandosi in Economia e Gestione delle Arti all’Università Ca’ Foscari. Consegue il Master in Produits Culturels all’Université Paris1 Panthéon – Sorbonne e il Master in Diritto del Lavoro all’Università Ca’ Foscari. Dal 2008 lavora alla Fondazione Musei Civici di Venezia nell’ambito Risorse Umane dove si occupa di formazione, ricerca e del coordinamento dei rapporti tra le 12 sedi museali, le Università e gli Istituti di ricerca.</p></td>
-</tr>
-</table>
-  <li><h4>FABIANA CORAMI</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/6.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1600"/> </td>
-      <td><p>Ricercatore presso l’Istituto per la Dinamica dei Processi Ambientali, CNR-IDPA. Biologa con PhD in Scienze Ambientali si occupa di chimica ambientale e di altri temi ambientali da più di vent’anni. Attualmente si occupa di microplastiche, tema importante e multidisciplinare che coinvolge anche discipline sociali ed economiche, considerato l’impatto che la plastica ha sulle nostre vite. Nutrendo un profondo interesse per la divulgazione accademica e multidisciplinare, è autrice di pubblicazioni scientifiche e ha partecipato a vari congressi internazionali sull’ambiente.</p></td>
-</tr>
-</table>
-  <li><h4>PETRA SCHAEFER</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/12.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1500"/> </td>
-      <td><p>Petra Schaefer è assistente della direzione | PR del Centro Tedesco di Studi Veneziani, è responsabile per le relazioni artistiche e modera gli Artist Talk. Ha studiato storia dell’arte presso le Università di Heidelberg, Bologna e Bonn. E’ dottoranda presso l’Università di Magonza con una tesi sul dialogo culturale nell’opera dell’artista Lore Bert. Nel 2017 ha curato la mostra «Ritratto/ Copia» per MUVE contemporaneo a Ca’ Rezzonico. E’ corrispondente per «Weltkunst» (ZEIT Kunstverlag) e pubblica per «Künstler» (Zeitkunstverlag).</p></td>
-</tr>
-</table>
-  <li><h4>SANDRO CARNIEL</h4></li>
-  <table>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/progetti/science-gallery/14.png" alt="Leonardo" style="padding-right:20px; padding-top:20px;" height="200" width="1500"/> </td>
-      <td><p>Oceanografo di livello internazionale e divulgatore scientifico, scrive e parla dell’importanza degli oceani in una fase di cambiamenti veloci, coniugando rigore scientifico e stile coinvolgente.
-      Primo Ricercatore presso il CNR in Venezia, autore di oltre 250 pubblicazioni e contributi scientifici internazionali, affronta i temi del rapporto tra oceani e clima con un approccio multi- e interdisciplinare. Col suo ultimo libro “Oceani, il futuro scritto nell’acqua” (Hoepli) si è aggiudicato il Premio Costa Smeralda 2018.</p></td>
-</tr>
-</table> -->
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
