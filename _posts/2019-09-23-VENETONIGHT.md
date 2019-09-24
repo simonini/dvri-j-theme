@@ -27,7 +27,7 @@ Scoprite le proposte dei membri del DVRI!
 
 |**Dove:** Ca’ Bottacin, piano terra|
 |**Quando:** dalle 17.30, dalle 18.15, dalle 19.00, dalle 19.45|
-|**Chi:** Elena Ribero (Referente), Dipartimento di Grafica e Disegno per Stampa dell'Accademia di Belle Arti di Venezia|
+|**Chi:** Elena Ribero (Referente), Dipartimento di Grafica e Disegno per Stampa dell'[Accademia di Belle Arti di Venezia](http://accademiavenezia.it)|
 |**Pubblico:** per bambini (6 - 12 anni)|
 
 --<br>
@@ -43,7 +43,7 @@ Prenotazioni: online dal 13 settembre alle ore 12.00
 
 |**Dove:** Ca’ Bottacin, piano terra|
 |**Quando:** dalle 17.30|
-|**Chi:** Gaetano Cataldo (referente), Accademia di Venezia – Dipartimento di Progettazione ed Arti Applicate - Scuola di Nuove Tecnologie dell’Arte|
+|**Chi:** Gaetano Cataldo (referente), [Accademia di Belle Arti di Venezia](http://accademiavenezia.it), Dipartimento di Progettazione ed Arti Applicate, Scuola di Nuove Tecnologie dell’Arte|
 |**Pubblico**: per tutti|
 
 --<br>
@@ -57,7 +57,7 @@ La quantistica nelle ombre è una sfida! Chi passerà davanti all’installazion
 
 |**Dove:** Ca’ Bottacin, piano terra|
 |**Quando:** dalle 19.15 alle 19.45|
-|**Chi:** Angelina Zhivova (referente), Fondazione Ugo e Olga Levi onlus|
+|**Chi:** Angelina Zhivova (referente), [Fondazione Ugo e Olga Levi onlus](https://www.fondazionelevi.it/)|
 |**Pubblico:** per tutti|
 
 --<br>
@@ -69,12 +69,12 @@ Winnie the Pooh and the Honey Tree ( studio Disney, 1966) e Vinni-Puch (studio S
 ### Il Cervello in azione: abile stratega o apparente ingannatore?
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/mente.png" alt="world oceans day 2019" />
+  <img src="{{ site.baseurl }}/assets/posts/mente.png" alt="mente irccs" />
 </div>
 
 |**Dove:** Ca’ Foscari, Primo piano|
 |**Quando:** alle 17.30 fino a fine serata|
-|**Chi:** Marco Marino e Rachele Pezzetta, Ospedale San Camillo - IRCCS|
+|**Chi:** Marco Marino e Rachele Pezzetta, [Ospedale San Camillo - IRCCS](https://ospedalesancamillo.net/)|
 |**Pubblico:** per tutti (4 per volta)|
 
 --<br>
@@ -88,7 +88,7 @@ La capacità di regolare la nostra attività cerebrale ci consente di svolgere u
 
 |**Dove:** Ca’ Bottacin, piano terra|
 |**Quando:** alle 17.30|
-|**Chi:** Gabriella Traviglia (Referente), DVRI e Science Gallery|
+|**Chi:** Gabriella Traviglia (Referente), DVRI e [Science Gallery](venice.sciencegallery.com)|
 |**Pubblico:** per tutti|
 
 --<br>
