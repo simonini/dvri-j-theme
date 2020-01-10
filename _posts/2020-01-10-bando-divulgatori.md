@@ -20,7 +20,7 @@ VISTO il Protocollo di Collaborazione a favore di Science Gallery Venice che l�
 VISTO il Decreto Attuativo i membri del DVRI hanno stipulato ad appendice del Protocollo di Collaborazione a Favore di Science Gallery Venice in data 27/09/2017;
 VISTA la Convenzione didattica stipulata tra DVRI, Università Ca’ Foscari Venezia e Fondazione Ca’ Foscari,  Università Ca’ Foscari di Venezia,  Accademia di Belle Arti di Venezia, Venice International University,  Conservatorio Benedetto Marcello di Venezia  per il progetto di mostra ILLUSION;
 <div style="text-align:center">
-**DECRETA**		
+**DECRETA**		 
 </div>
 
 L’Associazione DVRI, nell'ambito della convenzione di didattica stipulata con Fondazione Ca’ Foscari Venezia, per la mostra "ILLUSION 2020", dal 29 gennaio 2020 al 4 aprile 2020, presso CFZ - Ca' Foscari Zattere - Cultural Flow Zone,  Fondamenta Zattere Al Ponte Lungo, 1392, 30123 Venezia VE, bandisce un concorso per l’assegnazione di 5 borse di studio di importo pari a euro 520 ciascuna, inclusi oneri a carico dell’Ateneo Ca' Foscari (IRAP 8,5%), per la frequenza di un corso speciale di formazione e auto-formazione per Guide Arte-Scienza dal 27 gennaio 2020 al 4 aprile 2020.
