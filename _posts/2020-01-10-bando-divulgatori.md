@@ -4,6 +4,19 @@ title: BANDO PER L’ASSEGNAZIONE DI 5 BORSE DI STUDIO PER LA FORMAZIONE DI DIVU
 published: true
 toc: true
 ---
+
+<span style="color: #0095ec; font-size: 16px;">Il prossimo 29 gennaio 2020 [Science Gallery](venice.sciencegallery.com) inaugura la sua prima mostra: [ILLUSION: NOTHING AS IT SEEMS](https://venice.sciencegallery.com/seasons/illusion). <b>
+
+<span style="color: #0095ec; font-size: 14px;">La mostra offre uno sguardo all’interno della mente umana attraverso l’esplorazione delle motivazioni e dei meccanismi dell’inganno sensoriale. ILLUSION unisce magia e psicologia, illusioni ottiche e ragionamento scientifico, confusione e chiarezza. Indaga come la percezione sostiene il nostro modo di vedere, sentire, pensare e capire il mondo. Mostra come ciò che percepiamo sia molto spesso radicalmente diverso dalla realtà che osserviamo con gli occhi.<b>
+
+<span style="color: #0095ec; font-size: 14px;">Il DVRI, founding partner del progetto Science Gallery Venice, cerca tra gli studenti dei propri [Soci](http://distrettovenezianoricerca.it/progetti/chi-siamo.html) impegnati nell'Higher Education, giovani creativi che vogliano vivere un'esperienza interdisciplinare nel campo della divulgazione scientifica.
+
+<span style="color: #0095ec; font-size: 14px;">Creatività, curiosità e capacità di dialogo sono i requisiti essenziali.
+
+<span style="color: #0095ec; font-size: 14px;"> Per info contattare dvr@unive.it o angela.bianco@unive.it
+
+
+<br>
 <div style="text-align:center">
 <strong>BANDO PER L’ASSEGNAZIONE DI 5 BORSE DI STUDIO PER LA FORMAZIONE DI DIVULGATORI ARTE-SCIENZA per la mostra "ILLUSION 2020", dal 27 gennaio 2020 al 4 aprile 2020, presso CFZ - Ca' Foscari Zattere - Cultural Flow Zone,  Fondamenta Zattere Al Ponte Lungo, 1392, 30123 Venezia VE. </strong>
 <br><br>
