@@ -10,7 +10,7 @@ toc: true
 <strong>SCADENZA: 21 gennaio 2020 alle ore 12:00</strong>
 <br><br>
 <strong>IL PRESIDENTE</strong>
-</div>
+</div>   
 <br>
 **Art. 1 – Indizione**
 <br>
