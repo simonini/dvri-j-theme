@@ -5,7 +5,7 @@ published: true
 toc: true
 ---
 
-<span style="color: #0095ec; font-size: 16px;">Il prossimo 29 gennaio 2020 [Science Gallery](venice.sciencegallery.com) inaugura la sua prima mostra: [ILLUSION: NOTHING AS IT SEEMS](https://venice.sciencegallery.com/seasons/illusion). <b>
+<span style="color: #0095ec; font-size: 14px;">Il prossimo 29 gennaio 2020 [Science Gallery](venice.sciencegallery.com) inaugura la sua prima mostra: [ILLUSION: NOTHING AS IT SEEMS](https://venice.sciencegallery.com/seasons/illusion). <b>
 
 <span style="color: #0095ec; font-size: 14px;">La mostra offre uno sguardo all’interno della mente umana attraverso l’esplorazione delle motivazioni e dei meccanismi dell’inganno sensoriale. ILLUSION unisce magia e psicologia, illusioni ottiche e ragionamento scientifico, confusione e chiarezza. Indaga come la percezione sostiene il nostro modo di vedere, sentire, pensare e capire il mondo. Mostra come ciò che percepiamo sia molto spesso radicalmente diverso dalla realtà che osserviamo con gli occhi.<b>
 
