@@ -8,7 +8,7 @@ toc: true
 Il 28 aprile 2020 è venuto a mancare a 81 anni Marino Cortese, presidente della [Fondazione Querini Stampalia](http://www.querinistampalia.org/ita/home_page.php), ex senatore DC e anche ex assessore comunale a Venezia. Marino Cortese in rappresentanza della Querini è stato un membro attivo del DVRI e la sua partecipazione è stata sempre preziosa e stimolante. Lo vogliamo ricordare con le parole di Giorgio Busetto, suo collega di vecchia data e membro del DVRI per la [Fondazione Ugo e Olga Levi onlus](https://www.fondazionelevi.it/)
 
 <div style="text-align:center">
-  <img src="{{ site.baseurl }}/assets/posts/cortese.jpeg" alt="Marino Cortese" />
+  <img src="{{ site.baseurl }}/assets/posts/cortese.jpg" alt="Marino Cortese" />
 </div>
 <br>
 
