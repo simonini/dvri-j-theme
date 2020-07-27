@@ -1,0 +1,633 @@
+html, body {
+  width: 100%;
+  height: 100%; }
+
+a {
+  color: black; }
+
+a:hover {
+  color: black; }
+
+#header {
+  padding-top: 30px;
+  padding-bottom: 30px; }
+  #header h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia;
+    letter-spacing: 16px;
+    font-size: 30px; }
+  #header .btn {
+    margin-right: 20px; }
+  #header .text-right {
+    text-align: right; }
+
+.home2 {
+  text-align: center; }
+  .home2 .container-fluid {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    overflow: hidden; }
+  .home2 a {
+    padding-top: 130px;
+    padding-bottom: 130px;
+    display: block;
+    text-decoration: none; }
+    @media (max-width: 640px) {
+      .home2 a {
+        padding-top: 50px;
+        padding-bottom: 50px; } }
+    .home2 a:hover .background-image {
+      transform: scale(1.1); }
+    .home2 a p {
+      display: inline-block; }
+  .home2 .background-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: transform 2s ease-in-out;
+    -moz-transition: transform 2s ease-in-out;
+    -ms-transition: transform 2s ease-in-out;
+    -o-transition: transform 2s ease-in-out;
+    -webkit-transition: transform 2s ease-in-out; }
+
+.sommario ul, .sommario li, .sommario ol, .share-buttons ul, .share-buttons li, .share-buttons ol {
+  padding-left: 0; }
+.sommario li, .share-buttons li {
+  list-style-type: none; }
+.sommario .toc-h4, .share-buttons .toc-h4 {
+  padding-left: 10px; }
+.sommario .toc-h5, .share-buttons .toc-h5 {
+  padding-left: 20px; }
+
+@media (max-width: 640px) {
+  .big-intro h2 {
+    font-size: 18px; } }
+@media (max-width: 640px) {
+  .big-intro p {
+    font-size: 12px; } }
+
+.cycler {
+  padding-bottom: 20px; }
+  .cycler img {
+    padding: 0 !important;
+    margin: 0 !important; }
+
+.pagina {
+  margin-bottom: 20px;
+  max-width: 740px; }
+  .pagina img {
+    max-width: 100%; }
+
+#pagina-intro-caffe a {
+  background-color: rgba(120, 10, 10, 0.8); }
+#pagina-intro-caffe .background-image {
+  background-image: url("caffe.jpg"); }
+#pagina-intro-caffe h2 {
+  color: #fff;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  font-weight: bold; }
+  @media (max-width: 640px) {
+    #pagina-intro-caffe h2 {
+      font-size: 16px; } }
+#pagina-intro-caffe a {
+  color: #fbcc01 !important; }
+#pagina-intro-caffe p {
+  font-family: Georgia;
+  color: #fff;
+  font-size: 24px; }
+  @media (max-width: 640px) {
+    #pagina-intro-caffe p {
+      font-size: 16px; } }
+  #pagina-intro-caffe p:hover {
+    text-decoration: none; }
+
+#pagina-caffe h3 {
+  font-family: Georgia;
+  color: rgba(120, 10, 10, 0.8);
+  font-size: 32px;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+#pagina-caffe p {
+  font-size: 14px;
+  color: #333; }
+#pagina-caffe h4 {
+  font-size: 18px;
+  color: #03282e; }
+#pagina-caffe h5 {
+  font-size: 21px;
+  margin-top: 15px;
+  color: #c94533; }
+#pagina-caffe a {
+  text-decoration: underline; }
+#pagina-caffe img {
+  border-radius: 0; }
+#pagina-caffe ul, #pagina-caffe li, #pagina-caffe ol {
+  font-size: 14px; }
+#pagina-caffe .sommario-container h3, #pagina-caffe .share-buttons h3 {
+  font-size: 10px !important;
+  text-transform: uppercase;
+  padding-bottom: 0 !important; }
+#pagina-caffe .sommario-container ul, #pagina-caffe .sommario-container li, #pagina-caffe .sommario-container ol, #pagina-caffe .share-buttons ul, #pagina-caffe .share-buttons li, #pagina-caffe .share-buttons ol {
+  font-size: 10px; }
+#pagina-caffe .uno {
+  background-color: #FFFEFE; }
+#pagina-caffe .due {
+  background-color: #FFFEFE; }
+
+#pagina-intro-social-events {
+  background-color: rgba(12, 24, 44, 0.85); }
+  #pagina-intro-social-events .background-image {
+    background-image: url("venetonight.jpg"); }
+  #pagina-intro-social-events h2 {
+    color: #fff;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+    font-size: 40px; }
+    @media (max-width: 640px) {
+      #pagina-intro-social-events h2 {
+        font-size: 30px; } }
+  #pagina-intro-social-events a {
+    color: #fff;
+    font-weight: lighter !important;
+    text-decoration: none; }
+  #pagina-intro-social-events p {
+    font-size: 20px;
+    text-transform: lowercase;
+    font-weight: 400; }
+
+#pagina-social-events h3 {
+  color: #00307d;
+  font-weight: lighter; }
+#pagina-social-events h4 {
+  color: #009ed2;
+  font-weight: lighter;
+  letter-spacing: 2px; }
+
+#pagina-intro-video-makars {
+  background-color: #e37222;
+  background-color: rgba(227, 114, 34, 0.9); }
+  #pagina-intro-video-makars h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #fff;
+    font-style: italic; }
+  #pagina-intro-video-makars p {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding-left: 10px;
+    font-style: italic; }
+
+#pagina-video-makars h3 {
+  background-color: #026470;
+  color: white;
+  padding: 10px; }
+#pagina-video-makars img {
+  margin-bottom: 10px; }
+
+#pagina-intro-science-gallery {
+  background-color: rgba(80, 80, 80, 0.5); }
+  #pagina-intro-science-gallery .background-image {
+    background-image: url("venetonight.jpg"); }
+  #pagina-intro-science-gallery h2 {
+    color: #fff;
+    font-weight: lighter;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-size: 40px; }
+  #pagina-intro-science-gallery a {
+    color: #fff;
+    font-weight: lighter !important;
+    text-decoration: none; }
+  #pagina-intro-science-gallery p {
+    font-family: Monaco;
+    letter-spacing: 10px;
+    color: #ccc;
+    font-style: italic; }
+    @media (max-width: 640px) {
+      #pagina-intro-science-gallery p {
+        letter-spacing: 2px; } }
+
+#pagina-science-gallery h3 {
+  margin-top: 20px;
+  background-color: #000;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 10px;
+  color: #fff; }
+  #pagina-science-gallery h3 a {
+    color: #fff; }
+  #pagina-science-gallery h3 a:hover {
+    text-decoration: underline; }
+#pagina-science-gallery img {
+  margin-bottom: 10px;
+  margin-top: -10px; }
+#pagina-science-gallery iframe {
+  margin-top: -10px; }
+#pagina-science-gallery a {
+  color: #ED1A91; }
+#pagina-science-gallery hr {
+  margin: 50px 20%;
+  border-style: dotted; }
+#pagina-science-gallery ul {
+  padding-left: 16px; }
+#pagina-science-gallery img {
+  border-radius: 0; }
+#pagina-science-gallery .rassegna-stampa {
+  padding-left: 0;
+  margin-left: 0; }
+  #pagina-science-gallery .rassegna-stampa li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style-type: none; }
+
+.footer-container {
+  padding-top: 20px;
+  background-color: #000;
+  font-family: Helvetica; }
+  .footer-container img {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+  .footer-container h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: 4px;
+    padding-top: 2px;
+    text-transform: uppercase;
+    color: #fff; }
+  .footer-container ul, .footer-container li {
+    padding-left: 0;
+    list-style-type: none;
+    color: #f0f0f0; }
+  .footer-container li {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  .footer-container a {
+    color: #eee; }
+  .footer-container a:hover {
+    color: #000;
+    background-color: white;
+    text-decoration: none; }
+  .footer-container .link_img:hover {
+    background-color: transparent; }
+  .footer-container a:active {
+    color: #000;
+    background-color: white; }
+  .footer-container p {
+    color: #ddd; }
+
+#pagina-intro-chi-siamo a {
+  background-color: rgba(120, 199, 208, 0.95);
+  color: white;
+  text-decoration: none !important; }
+#pagina-intro-chi-siamo h2 {
+  font-size: 80px;
+  letter-spacing: 28px;
+  font-family: Georgia; }
+#pagina-intro-chi-siamo p {
+  font-weight: normal;
+  font-size: 16px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+#pagina-chi-siamo h3 {
+  color: #C94634;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  font-size: 32px;
+  font-family: Georgia; }
+#pagina-chi-siamo h4 {
+  color: #3a9ca8;
+  margin-top: 30px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+#pagina-chi-siamo h5 {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #C94634; }
+#pagina-chi-siamo p, #pagina-chi-siamo li {
+  font-size: 21px; }
+#pagina-chi-siamo .col-xs-4 p {
+  font-family: Georgia;
+  color: #666; }
+#pagina-chi-siamo .sommario .toc-h5, #pagina-chi-siamo .share-buttons .toc-h5 {
+  display: none; }
+#pagina-chi-siamo a {
+  text-decoration: underline; }
+#pagina-chi-siamo a:hover {
+  color: #C94634; }
+
+#body-pagina-chi-siamo .navbar-brand {
+  color: #C94634; }
+
+#pagina-intro-smart-passport {
+  background-color: rgba(55, 72, 120, 0.8); }
+  #pagina-intro-smart-passport h2 {
+    font-family: "Book Antiqua", "Georgia";
+    font-size: 42px;
+    color: white;
+    letter-spacing: 1px;
+    font-style: italic; }
+  #pagina-intro-smart-passport p {
+    color: white;
+    font-family: "Monaco", "Courier New";
+    font-size: 18px;
+    letter-spacing: 1px; }
+
+#pagina-smart-passport {
+  max-width: 590px; }
+  #pagina-smart-passport img {
+    min-width: 100%;
+    margin-bottom: 10px;
+    border-radius: 3px; }
+  #pagina-smart-passport h3 {
+    color: #00307d; }
+  #pagina-smart-passport h4 {
+    color: #009ed2;
+    letter-spacing: 2px; }
+  #pagina-smart-passport strong {
+    color: #009ed2; }
+  #pagina-smart-passport a {
+    text-decoration: underline; }
+
+.button {
+  width: 100%;
+  text-align: center;
+  font-size: 27px;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  background-color: #009ed2;
+  border: none;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center; }
+
+.link {
+  color: #ffffff;
+  text-decoration: none !important; }
+
+.link:hover {
+  color: #ffffff; }
+
+.article {
+  max-width: 620px;
+  padding-bottom: 40px; }
+  .article a {
+    text-decoration: underline; }
+  .article img {
+    max-width: 100%;
+    border-radius: 3px; }
+
+#pagina-intro-galaxies {
+  background-color: rgba(80, 80, 80, 0.5); }
+  #pagina-intro-galaxies h2 {
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: 40px; }
+  #pagina-intro-galaxies a {
+    color: #fff;
+    font-weight: lighter !important;
+    text-decoration: none; }
+  #pagina-intro-galaxies p {
+    font-family: sans-serif;
+    letter-spacing: 6px;
+    color: #6c757d !important;
+    font-style: bold; }
+    @media (max-width: 640px) {
+      #pagina-intro-galaxies p {
+        letter-spacing: 2px; } }
+
+#pagina-galaxies {
+  background-color: #00171f;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5; }
+  #pagina-galaxies h3 {
+    margin-top: 20px;
+    background-color: #dc3545 !important;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 10px;
+    color: #fff;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace; }
+    #pagina-galaxies h3 a {
+      color: #fff; }
+    #pagina-galaxies h3 a:hover {
+      text-decoration: underline; }
+  #pagina-galaxies img {
+    margin-bottom: 10px;
+    margin-top: -10px; }
+  #pagina-galaxies iframe {
+    margin-top: -10px; }
+  #pagina-galaxies a {
+    color: #007bff !important; }
+  #pagina-galaxies hr {
+    margin: 50px 20%;
+    border-style: dotted; }
+  #pagina-galaxies ul {
+    padding-left: 16px;
+    color: #fff;
+    font-size: 20px; }
+  #pagina-galaxies img {
+    border-radius: 0; }
+  #pagina-galaxies .rassegna-stampa {
+    padding-left: 0;
+    margin-left: 0; }
+    #pagina-galaxies .rassegna-stampa li {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      list-style-type: none;
+      color: #fff;
+      font-size: 20px; }
+  #pagina-galaxies p {
+    color: #fff;
+    font-size: 20px; }
+  #pagina-galaxies h4 {
+    color: #dc3545 !important;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace; }
+  #pagina-galaxies cite {
+    color: rgba(255, 255, 255, 0.5) !important; }
+
+#body-pagina-galaxies {
+  background-color: #00171f; }
+  #body-pagina-galaxies #header a {
+    color: #fff; }
+
+#pagina-intro-arte-marine {
+  background-color: rgba(55, 72, 120, 0.8); }
+  #pagina-intro-arte-marine h2 {
+    font-family: "Geneva", "Monaco", "Courier New";
+    font-size: 62px;
+    color: #fff;
+    letter-spacing: 1px;
+    font-style: italic; }
+  #pagina-intro-arte-marine p {
+    color: #fff;
+    font-family: "Geneva", "Monaco", "Courier New";
+    font-size: 28px;
+    letter-spacing: 1px; }
+
+#pagina-arte-marine {
+  max-width: 590px; }
+  #pagina-arte-marine img {
+    min-width: 100%;
+    margin-bottom: 10px;
+    border-radius: 3px; }
+  #pagina-arte-marine h3 {
+    color: #00307d; }
+  #pagina-arte-marine h4 {
+    color: #009ed2;
+    letter-spacing: 2px; }
+  #pagina-arte-marine strong {
+    color: #009ed2; }
+  #pagina-arte-marine a {
+    text-decoration: underline;
+    text-transform: uppercase; }
+  #pagina-arte-marine a:hover {
+    color: #044c72; }
+
+.button {
+  width: 100%;
+  text-align: center;
+  font-size: 27px;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  background-color: #009ed2;
+  border: none;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center; }
+
+.link {
+  color: #ffffff;
+  text-decoration: none !important; }
+
+.link:hover {
+  color: #ffffff; }
+
+#pagina-intro-entigalassie {
+  background-color: rgba(0, 50, 100, 0.8); }
+  #pagina-intro-entigalassie h2 {
+    color: #E4783A;
+    font-weight: bold;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: "Questrial", sans-serif; }
+  #pagina-intro-entigalassie a {
+    color: #fff;
+    font-weight: lighter !important;
+    text-decoration: none; }
+  #pagina-intro-entigalassie p {
+    font-family: sans-serif;
+    letter-spacing: 6px;
+    color: #FFDC00 !important;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Ubuntu", sans-serif; }
+    @media (max-width: 640px) {
+      #pagina-intro-entigalassie p {
+        letter-spacing: 2px; } }
+
+#pagina-entigalassie {
+  background-color: #2f4454;
+  font-family: "Questrial", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5; }
+  #pagina-entigalassie h3 {
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 10px;
+    color: #E4783A;
+    font-family: "Questrial", sans-serif;
+    text-align: center; }
+  #pagina-entigalassie a:hover {
+    text-decoration: underline; }
+  #pagina-entigalassie img {
+    margin-bottom: 10px;
+    margin-top: -10px; }
+  #pagina-entigalassie iframe {
+    margin-top: -10px; }
+  #pagina-entigalassie a {
+    color: #da7b93 !important; }
+  #pagina-entigalassie hr {
+    margin: 50px 20%;
+    border-style: dotted; }
+  #pagina-entigalassie ul {
+    padding-left: 16px;
+    color: #D1E8E2;
+    font-size: 18px;
+    margin-bottom: 35px; }
+  #pagina-entigalassie img {
+    border-radius: 0;
+    text-align: center;
+    margin: 0 auto; }
+  #pagina-entigalassie .rassegna-stampa {
+    padding-left: 0;
+    margin-left: 0; }
+    #pagina-entigalassie .rassegna-stampa li {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      list-style-type: none;
+      color: #D1E8E2;
+      font-size: 15px;
+      font-family: "Questrial", sans-serif; }
+  #pagina-entigalassie p {
+    color: #D1E8E2;
+    font-size: 18px;
+    font-family: "Questrial", sans-serif; }
+  #pagina-entigalassie h4 {
+    color: #FFDC00 !important;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: "Ubuntu", sans-serif; }
+  #pagina-entigalassie cite {
+    color: rgba(255, 255, 255, 0.5) !important; }
+
+.segni a {
+  font-size: 14px; }
+
+.center {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px; }
+
+.right {
+  text-align: right; }
+
+#body-pagina-entigalassie {
+  background-color: #2f4454; }
+  #body-pagina-entigalassie #header a {
+    color: #D1E8E2; }
